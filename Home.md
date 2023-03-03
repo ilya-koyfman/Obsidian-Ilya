@@ -35,5 +35,3 @@ tags include #MSP
 status.type is not DONE
 path includes notes
 ```
-
-test commit

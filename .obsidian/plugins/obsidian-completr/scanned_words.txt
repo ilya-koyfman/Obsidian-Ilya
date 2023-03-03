@@ -33,6 +33,7 @@ ARCHIVE
 After
 Application
 Assign
+AutoTask
 Profiles
 Permission
 Power
@@ -163,6 +164,7 @@ outputs
 onto
 organization
 outside
+one
 project
 permissions
 profile
@@ -189,6 +191,7 @@ provide
 portal
 page
 predefined
+prompt
 Sparky
 Synapse
 SQL
@@ -242,6 +245,7 @@ Steps
 Subs
 Subnets
 SA
+Schedule
 be
 below
 but
@@ -318,6 +322,7 @@ allow
 an
 across
 azuresynapse
+acceptable
 User
 Update
 UP
@@ -358,6 +363,7 @@ write
 way
 when
 whether
+won
 should
 system
 schedule
@@ -380,6 +386,7 @@ store
 subnets
 syn
 sql
+screen
 have
 how
 hard
@@ -637,6 +644,7 @@ Consideration
 CREATING
 CREATE
 CONNECTIONS
+Call
 can
 create
 copy
@@ -660,6 +668,7 @@ creates
 container
 compression
 commit
+currently
 modify
 meeting
 msp
@@ -677,6 +686,8 @@ manage
 menu
 making
 management
+machines
+methods
 gateways
 groups
 going
@@ -704,6 +715,7 @@ Help
 Hi
 Hub
 HUB
+HD
 line
 last
 like
@@ -728,9 +740,11 @@ From
 FW
 FORWARDING
 Filtering
+Fix
 Zendesk
 ZONES
 ZONE
+ZenDesk
 Launch
 Live
 Legal

@@ -13,5 +13,6 @@
   "obsidian-wakatime",
   "obsidian-git",
   "mermaid-tools",
-  "quickadd"
+  "quickadd",
+  "obsidian-multi-cursor"
 ]

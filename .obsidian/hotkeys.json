@@ -31,5 +31,14 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-multi-cursor:add-cursors-to-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
   ]
 }

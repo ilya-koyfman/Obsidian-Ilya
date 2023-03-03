@@ -7,7 +7,7 @@
 ```tasks
 scheduled after 2023-02-28
 status.type is not DONE
-status.
+status.name does not include Cancelled
 tags do not include #MSP 
 path includes notes
 ```

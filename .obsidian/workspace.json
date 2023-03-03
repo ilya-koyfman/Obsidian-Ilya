@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -138,7 +139,7 @@
             }
           },
           {
-            "id": "20c09ff3cf424bca",
+            "id": "21fabe581ec7e08e",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -146,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +169,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6d909f318e831282",
+  "active": "21fabe581ec7e08e",
   "lastOpenFiles": [
     "Notes/2023-03-03.md",
     "Home.md",

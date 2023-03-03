@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+                "file": "Notes/BackBurner.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MSP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+                "file": "Notes/BackBurner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+                "file": "Notes/BackBurner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md"
+                "file": "Notes/BackBurner.md"
               }
             }
           },
@@ -170,21 +170,22 @@
   },
   "active": "aa8de59cb5edaea0",
   "lastOpenFiles": [
-    "Azure/Azure Documentation Home.md",
-    "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+    "Notes/2023-02-27.md",
+    "Notes/BackBurner.md",
     "Home.md",
+    "Notes/2023-03-03.md",
+    "Notes/2023-03-01.md",
+    "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+    "Azure/Azure Documentation Home.md",
     "MSP/Discussions/Access Control Policies Definitions.md",
     "README.md",
     "Notes/MSP - Plan at the moment.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
-    "Notes/2023-03-03.md",
     "MSP/Network Management and Monitoring.md",
     "Notes/Intune Infra Readiness.md",
     "Azure/Membership Profile Permission Mapping.md",
     "Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP.md",
     "MSP/Discussions/Network Talk - 3-1-2023.md",
-    "Notes/BackBurner.md",
-    "Notes/2023-03-01.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",
@@ -205,7 +206,6 @@
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",
     "ScratchPad/Legal Compliance.md",
-    "ScratchPad/Scratch.md",
     "IMAGES/Pasted image 20230302114952.png",
     "Unorganized",
     "MSP/Discussions",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intune Infra Readiness.md",
+                "file": "Notes/2023-03-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intune Infra Readiness.md",
+                "file": "Notes/2023-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intune Infra Readiness.md",
+                "file": "Notes/2023-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intune Infra Readiness.md"
+                "file": "Notes/2023-03-03.md"
               }
             }
           },
@@ -207,15 +207,16 @@
   },
   "active": "240a52e2f6b33912",
   "lastOpenFiles": [
-    "Notes/2023-03-03.md",
+    "MSP/Network Management and Monitoring.md",
+    "Home.md",
     "Notes/Intune Infra Readiness.md",
+    "Notes/2023-03-03.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "MSP/Discussions/Access Control Policies Definitions.md",
     "Azure/Membership Profile Permission Mapping.md",
     "Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP.md",
     "MSP/Discussions/Network Talk - 3-1-2023.md",
     "Notes/MSP.md",
-    "Home.md",
     "Notes/BackBurner.md",
     "Notes/2023-03-01.md",
     "Azure/Azure Documentation Home.md",
@@ -243,7 +244,6 @@
     "ScratchPad/Legal Compliance.md",
     "ScratchPad/Scratch.md",
     "IMAGES/Pasted image 20230302114952.png",
-    "Airtable/Flow Airtable.md",
     "Unorganized",
     "MSP/Discussions",
     "MSP",

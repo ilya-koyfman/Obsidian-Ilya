@@ -13,7 +13,13 @@ Planning -
 - [ ] Go over Setup Guide and Deploy Link ⏫
 - Go through two links and breakdown what has been done for setup, what needs to be done, what has questions/concerns.
 - High Level tasks
-	- Intune 
+	- Intune License
+	- License to users
+	- Intune Connector - Deploy
+	- Hybrid Join Piece
+	- Configure OS - Enroll
+	- Configure Windows
+
 
 ## Rollout 
 - [ ] Define Pilot Group

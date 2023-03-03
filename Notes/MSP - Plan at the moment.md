@@ -22,9 +22,11 @@
 		* Drive monitoring
 		* Service monitoring
 	* Application monitoring
-	* 
+		* SQL Server monitoring
+		* Folder monitoring
+	* #NEEDMORE 
 * Workstation Tasks
-
+	* #NEEDMORE 
 #### Operations Side
 - [ ] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[../MSP/Discussions/Access Control Policies Definitions]]
 	- [ ] Request Enterprise Art* to join design here.

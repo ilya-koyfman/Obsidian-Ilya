@@ -2,7 +2,7 @@
 
 
 #### End User Side
-- [ ] Workstation Migration project #MSP 
+- [ ] Workstation Migration project still needs planning #MSP 
 - [x] New Icon for Datto Agent in CISO Global #msp ✅ 2023-03-03
 - [x] Workstations Update Timing #MSP ✅ 2023-03-03
 	- Patching is currently done M-F 12PM-5PM, would this be acceptable to us?

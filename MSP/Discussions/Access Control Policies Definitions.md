@@ -14,3 +14,4 @@
 * Devices
 	* Network
 	* Servers
+	* CLOUD CONTROL PANELS

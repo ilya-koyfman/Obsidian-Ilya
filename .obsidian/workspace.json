@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "17f38e3dd6baa316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSP/Discussions/Access Control Policies Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b08a866cb9842300",
             "type": "leaf",
             "state": {
@@ -182,11 +194,11 @@
   },
   "active": "5b8b92e22383abd9",
   "lastOpenFiles": [
+    "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
+    "MSP/Discussions/Access Control Policies Definitions.md",
+    "Notes/2023-03-03.md",
     "Azure/Membership Profile Permission Mapping.md",
     "Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP.md",
-    "Notes/2023-03-03.md",
-    "MSP/Discussions/Access Control Policies Definitions.md",
-    "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "MSP/Discussions/Network Talk - 3-1-2023.md",
     "Notes/MSP.md",
     "Home.md",

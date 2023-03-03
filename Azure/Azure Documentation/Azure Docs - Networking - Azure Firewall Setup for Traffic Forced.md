@@ -32,7 +32,7 @@ Steps to recreate
 8. TEST CONNECTIONS	
 
 ## Firewall Policies Explained and Preference
-```
+ ```
 ```
 DNAT -> Network -> Application
 * DNAT - PORT FORWARDING

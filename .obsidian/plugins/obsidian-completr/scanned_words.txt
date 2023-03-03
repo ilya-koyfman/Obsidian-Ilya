@@ -79,6 +79,7 @@ Platforms
 Preferred
 Pulse
 Project
+PANELS
 Description
 Due
 DBs
@@ -683,6 +684,8 @@ CHI
 Changes
 Communism
 Carmine
+CLOUD
+CONTROL
 can
 create
 copy

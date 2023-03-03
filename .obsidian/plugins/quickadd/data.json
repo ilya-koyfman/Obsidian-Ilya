@@ -6,6 +6,52 @@
       "id": "ecfa4527-9504-4919-8b51-bb86a46ec4bc",
       "commands": [],
       "runOnStartup": false
+    },
+    {
+      "name": "Add TAG:Group1",
+      "id": "11562083-3afd-4f63-a440-9a683caf33de",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "6be8fd57-76be-4b7b-a52d-b027d620a460",
+          "choice": {
+            "id": "6f732c09-26c2-4f10-bf01-6ddeb8d74664",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",

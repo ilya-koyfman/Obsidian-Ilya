@@ -5,5 +5,7 @@
   "attachmentFolderPath": "IMAGES",
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "trashOption": "local",
+  "newLinkFormat": "relative"
 }

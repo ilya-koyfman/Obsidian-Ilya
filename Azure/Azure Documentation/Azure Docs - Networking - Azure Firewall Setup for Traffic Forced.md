@@ -1,4 +1,4 @@
-Network Requirements
+## Network Requirements
 * Hub and Spoke
 * Spoke Defined by ENV
 * All internet traffic goes through FW
@@ -6,11 +6,6 @@ Network Requirements
 	* VM Endpoints
 	* Private Endpoints - SQL Based
 	
-	
-DNAT -> Network -> Application
-* DNAT - PORT FORWARDING
-* Network - Normal Network
-* Application - URL Based Filtering
 
 * IP Groups in Azure allow for Simple ip management across predefined subnets. Best Practice
 
@@ -35,3 +30,11 @@ Steps to recreate
 	* Create on resources
 	* WHEN CREATING PRIVATE DNS ZONES CREATE IN HUB ZONE
 8. TEST CONNECTIONS	
+
+## Firewall Policies Explained and Preference
+```
+```
+DNAT -> Network -> Application
+* DNAT - PORT FORWARDING
+* Network - Normal Network
+* Application - URL Based Filtering

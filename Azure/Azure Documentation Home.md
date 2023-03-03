@@ -16,7 +16,10 @@ Azure Storage Accounts can be enabled to act as a SFTP Server. Activating this f
 
 Information about Networking for Azure in Membership. 
 
-####
+#### Firewall
+
+Instructions below for how to set up specific networking for membership
+![[Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced]]
 
 
 

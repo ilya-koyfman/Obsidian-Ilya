@@ -31,6 +31,8 @@ Add
 Artificat
 ARCHIVE
 After
+Application
+Assign
 Profiles
 Permission
 Power
@@ -65,6 +67,12 @@ Priyanka
 Pair
 Public
 Private
+PORT
+Practice
+Peering
+Peer
+PUBLIC
+PRIVATE
 Description
 Due
 DBs
@@ -96,6 +104,11 @@ Daily
 Drawing
 Doing
 Done
+Defined
+DNAT
+Define
+Deploy
+DNS
 to
 the
 tracked
@@ -119,6 +132,9 @@ ticketing
 thought
 tags
 transmission
+traffic
+through
+their
 nature
 need
 needed
@@ -132,6 +148,7 @@ nodes
 naming
 name
 next
+net
 of
 objective
 owner
@@ -171,6 +188,7 @@ pairs
 provide
 portal
 page
+predefined
 Sparky
 Synapse
 SQL
@@ -218,6 +236,11 @@ Switch
 Specify
 SSH
 Set
+Spoke
+Simple
+Steps
+Subs
+Subnets
 be
 below
 but
@@ -292,6 +315,8 @@ allows
 any
 allow
 an
+across
+azuresynapse
 User
 Update
 UP
@@ -316,6 +341,7 @@ upon
 using
 us
 username
+uat
 what
 where
 with
@@ -350,6 +376,9 @@ side
 server
 source
 store
+subnets
+syn
+sql
 have
 how
 hard
@@ -378,6 +407,8 @@ The
 TEMPLATE
 Text
 To
+Traffic
+Tables
 is
 interact
 items
@@ -388,6 +419,9 @@ internal
 incur
 into
 it
+internet
+ip
+instead
 fulfil
 for
 fields
@@ -413,6 +447,7 @@ ebaf
 ebf
 either
 existing
+endpoints
 Membership
 Member
 Most
@@ -466,6 +501,8 @@ Explains
 EXCALIDRAW
 Elements
 Embedded
+ENV
+Endpoints
 What
 Write
 WRITE
@@ -482,6 +519,7 @@ We
 WILL
 Workspace
 Worskpace
+WHEN
 rights
 right
 role
@@ -499,6 +537,9 @@ rest
 required
 resource
 require
+recreate
+resolution
+resources
 Owner
 Organization
 Off
@@ -537,6 +578,9 @@ RBAC
 Roles
 RUN
 Resource
+Requirements
+Route
+Resolver
 Bi
 Backups
 Backup
@@ -544,6 +588,8 @@ Bandwidth
 Below
 BELOW
 Box
+Based
+Best
 Notebooks
 Note
 NYCFILER
@@ -558,6 +604,7 @@ Needed
 NOTES
 Nest
 Name
+Networking
 Contributor
 Create
 Custom
@@ -583,6 +630,9 @@ Ciso
 Cerberus
 Chat
 Consideration
+CREATING
+CREATE
+CONNECTIONS
 can
 create
 copy
@@ -621,6 +671,7 @@ most
 manage
 menu
 making
+management
 gateways
 groups
 going
@@ -630,11 +681,15 @@ goal
 gain
 go
 generate
+goes
 Viewer
 View
 VMs
 VPN
 VIEW
+VM
+VNET
+VNETs
 Head
 How
 Home
@@ -642,6 +697,8 @@ Hardware
 HTTP
 Help
 Hi
+Hub
+HUB
 line
 last
 like
@@ -663,7 +720,12 @@ FOR
 Flow
 Folder
 From
+FW
+FORWARDING
+Filtering
 Zendesk
+ZONES
+ZONE
 Launch
 Live
 Legal
@@ -683,6 +745,8 @@ Ilya
 Inbox
 It
 If
+IN
+Information
 Jenkins
 Jobs
 Javier

@@ -11,16 +11,26 @@ Azure Storage Accounts can be enabled to act as a SFTP Server. Activating this f
 
 * [[Azure Docs - Setting up Storage Account with SFTP]]
 
-## THINGS TO WRITE UP
-
-- [ ] #azure #TODO Azure Backups
-- [ ] #azure Computer Backups
-- [ ] SQL Backups #azure 
-- [ ] Synapse Backups #azure 
-- [ ] DOCUMENTATION #azure
-- [ ] #TODO Storage Accounts Retention Policies #azure 
-- [ ]
 
 ### Azure Networking Membership
 
 Information about Networking for Azure in Membership. 
+
+####
+
+
+
+
+
+
+
+## Documention TODO
+
+#### Backups
+- [ ] #azure #TODO Azure Backups
+- [ ] #azure Computer Backups
+- [ ] SQL Backups #azure 
+- [ ] Synapse Backups #azure 
+- [ ] Storage Accounts Retention Policies #azure 
+
+

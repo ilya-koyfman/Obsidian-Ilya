@@ -144,14 +144,6 @@
               "type": "side-panel-control-view",
               "state": {}
             }
-          },
-          {
-            "id": "2b00d8dc968a28d6",
-            "type": "leaf",
-            "state": {
-              "type": "stat-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -171,7 +163,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-word-sprint:Activate Word Sprint Leaf": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },

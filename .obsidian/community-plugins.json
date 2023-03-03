@@ -8,9 +8,10 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-linter",
   "obsidian-completr",
-  "obsidian-word-sprint",
   "obsidian-excel-to-markdown-table",
   "obsidian-excalidraw-plugin",
   "obsidian-wakatime",
-  "obsidian-git"
+  "obsidian-git",
+  "mermaid-tools",
+  "quickadd"
 ]

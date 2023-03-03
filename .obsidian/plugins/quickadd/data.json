@@ -1,0 +1,20 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "Test",
+      "id": "ecfa4527-9504-4919-8b51-bb86a46ec4bc",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+  }
+}

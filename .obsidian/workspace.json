@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-03-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -75,17 +75,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "93b118929c7fe003",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/2023-03-03.md"
               }
             }
           },
@@ -143,14 +134,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ec3c0ed9ae3f6c24",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -171,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,15 +172,15 @@
       "homepage:Open homepage": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-word-sprint:Activate Word Sprint Leaf": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d909f318e831282",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
+    "Home.md",
+    "Notes/2023-03-03.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation Home.md",
-    "Home.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",
@@ -234,7 +217,6 @@
     "MSP/Access Control Policies.md",
     "MSP/Discussions",
     "MSP",
-    "Notes/2023-02-27.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "IMAGES/Pasted image 20230224135720.png"
   ]

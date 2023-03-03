@@ -596,6 +596,7 @@ Once
 On
 Operations
 Office
+Obsidian
 Resources
 Read
 Run

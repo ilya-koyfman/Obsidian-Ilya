@@ -12,14 +12,6 @@ tags do not include #MSP
 path includes notes
 ```
 
-## Tasks Azure in Notes
-
-```tasks
-tags include #azure  
-status.type is not DONE
-path includes notes
-```
-
 ## Tasks Azure Everywhere
 
 ```tasks

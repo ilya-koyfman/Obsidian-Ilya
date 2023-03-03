@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-01.md",
+                "file": "Notes/2023-03-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-01.md",
+                "file": "Notes/2023-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-01.md",
+                "file": "Notes/2023-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-01.md"
+                "file": "Notes/2023-03-03.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "6642269a9c09c50c",
   "lastOpenFiles": [
-    "Notes/2023-03-03.md",
     "Home.md",
+    "Notes/2023-03-01.md",
+    "Notes/2023-03-03.md",
     "Azure/Azure Documentation Home.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
@@ -190,7 +191,6 @@
     "Notes/March BackBurner.md",
     "Notes/DirSync - Azure AD Connect.md",
     "Untitled Kanban.md",
-    "Notes/2023-03-01.md",
     "Azure/Membership Profile Permission Mapping.md",
     "Excalidraw/Drawing 2023-03-02 16.38.23.excalidraw.md",
     "Cheatsheets/MARKDOWN CHEATSHEET.md",

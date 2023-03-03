@@ -241,6 +241,7 @@ Simple
 Steps
 Subs
 Subnets
+SA
 be
 below
 but
@@ -409,6 +410,7 @@ Text
 To
 Traffic
 Tables
+Things
 is
 interact
 items
@@ -581,6 +583,7 @@ Resource
 Requirements
 Route
 Resolver
+Regarding
 Bi
 Backups
 Backup
@@ -605,6 +608,7 @@ NOTES
 Nest
 Name
 Networking
+New
 Contributor
 Create
 Custom

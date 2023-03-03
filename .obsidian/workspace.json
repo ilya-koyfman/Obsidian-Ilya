@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "22a6e0bf3f738091",
   "lastOpenFiles": [
+    "Home.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
@@ -211,7 +212,6 @@
     "Notes/MSP.md",
     "Notes/March BackBurner.md",
     "Notes/DirSync - Azure AD Connect.md",
-    "Home.md",
     "Untitled Kanban.md",
     "Notes/2023-03-01.md",
     "Azure/Membership Profile Permission Mapping.md",

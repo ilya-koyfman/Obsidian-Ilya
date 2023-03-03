@@ -11,8 +11,12 @@
             "id": "6642269a9c09c50c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2023-03-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -76,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -93,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/2023-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/2023-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/2023-03-03.md"
+              }
             }
           },
           {
@@ -163,8 +170,8 @@
   },
   "active": "6642269a9c09c50c",
   "lastOpenFiles": [
-    "Azure/Azure Documentation Home.md",
     "Home.md",
+    "Azure/Azure Documentation Home.md",
     "Notes/2023-03-03.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",

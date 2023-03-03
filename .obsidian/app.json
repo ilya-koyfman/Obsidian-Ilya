@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "IMAGES",
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "readableLineLength": false
+}

@@ -1,0 +1,11 @@
+{
+  "table-editor-obsidian:center-align-column": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "2-27 2-28.md",
+    "Notes/2-27-2023.md"
+  ],
+  "_hiddenTags": []
+}

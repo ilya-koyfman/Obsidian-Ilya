@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fedc619e32796b1",
+        "id": "953b72c067113e04",
         "type": "tabs",
         "children": [
           {
-            "id": "6642269a9c09c50c",
+            "id": "5b8b92e22383abd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-03.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-03.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-03.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-03.md"
+                "file": "Home.md"
               }
             }
           },
@@ -168,7 +168,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6642269a9c09c50c",
+  "active": "5b8b92e22383abd9",
   "lastOpenFiles": [
     "Home.md",
     "Notes/2023-03-01.md",

@@ -11,7 +11,10 @@ project: MSP
 ## Project Documents/Links
 
 ## Tasks
-```data
+Lists all pages inside the folder Books and its sub folders 
+```dataview 
+task file.name
+FROM "PROJECTS/MSP" 
 ```
 
 ## Meetings

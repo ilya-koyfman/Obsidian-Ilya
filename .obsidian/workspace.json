@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a74b2c3517bdf81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TEMPLATE - Project MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83531001c2497d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21c2102da1b063e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TEMPLATE - Project MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,8 +112,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "0bde79a42eadd2ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -96,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-06.md",
+                "file": "Templates/TEMPLATE - Project MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-06.md",
+                "file": "Templates/TEMPLATE - Project MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-06.md"
+                "file": "Templates/TEMPLATE - Project MOC.md"
               }
             }
           },
@@ -162,16 +208,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b48fd943bd3c0dcf",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
+    "Templates/TEMPLATE - Project Tech Notes.md",
+    "Templates/TEMPLATE - Project Meeting Notes.md",
+    "Templates/TEMPLATE - Project MOC.md",
+    "Notes/2023-03-06.md",
     "Home.md",
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Retention Backups tape.md",
-    "Notes/2023-03-06.md",
     "Notes/Archived_notes",
     "Notes/2023-02-27.md",
     "Notes/BackBurner.md",
@@ -198,9 +249,6 @@
     "IMAGES/Pasted image 20230302173058.png",
     "Notes/DirSync - Azure AD Connect.md",
     "Untitled Kanban.md",
-    "Excalidraw/Drawing 2023-03-02 16.38.23.excalidraw.md",
-    "Cheatsheets/MARKDOWN CHEATSHEET.md",
-    "Synapse Permissions De-Mystified.md",
     "Excalidraw",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",

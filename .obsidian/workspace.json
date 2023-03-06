@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b48fd943bd3c0dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2023-03-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a74b2c3517bdf81e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TEMPLATE - Project MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d83531001c2497d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c2102da1b063e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +33,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,19 +188,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21c2102da1b063e2",
+  "active": "a74b2c3517bdf81e",
   "lastOpenFiles": [
-    "Home.md",
     "Templates/TEMPLATE-Daily Notes.md",
+    "Notes/2023-03-06.md",
+    "Notes/2023-02-27.md",
+    "Home.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project Tech Notes.md",
-    "Notes/2023-03-06.md",
     "Templates/TEMPLATE - Project MOC.md",
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Retention Backups tape.md",
     "Notes/Archived_notes",
-    "Notes/2023-02-27.md",
     "Notes/BackBurner.md",
     "Notes/2023-03-03.md",
     "Notes/2023-03-01.md",

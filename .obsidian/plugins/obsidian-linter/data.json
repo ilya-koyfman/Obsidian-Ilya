@@ -88,7 +88,7 @@
       "Re-indexes footnote keys and footnote, based on the order of occurrence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": false
     },
     "Auto-correct Common Misspellings": {
-      "Uses a dictionary of common misspellings to automatically convert them to their proper spellings. See [auto-correct map](https://github.com/platers/obsidian-linter/tree/master/src/utils/auto-correct-misspellings.ts) for the full list of auto-corrected words.": false,
+      "Uses a dictionary of common misspellings to automatically convert them to their proper spellings. See [auto-correct map](https://github.com/platers/obsidian-linter/tree/master/src/utils/auto-correct-misspellings.ts) for the full list of auto-corrected words.": true,
       "Ignore Words": ""
     },
     "Convert Bullet List Markers": {
@@ -96,7 +96,7 @@
     },
     "Emphasis Style": {
       "Makes sure the emphasis style is consistent.": true,
-      "Style": "consistent"
+      "Style": "asterisk"
     },
     "No Bare URLs": {
       "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": true
@@ -133,7 +133,7 @@
       "List item style": "consistent"
     },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": false,
+      "Removes leading and trailing blank lines in the YAML front matter.": true,
       "Inner New Lines": false
     },
     "Consecutive blank lines": {

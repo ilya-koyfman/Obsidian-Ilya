@@ -9,10 +9,10 @@
   "obsidian-linter",
   "obsidian-completr",
   "obsidian-excel-to-markdown-table",
-  "obsidian-excalidraw-plugin",
   "obsidian-wakatime",
   "obsidian-git",
   "mermaid-tools",
   "quickadd",
-  "obsidian-multi-cursor"
+  "obsidian-multi-cursor",
+  "dataview"
 ]

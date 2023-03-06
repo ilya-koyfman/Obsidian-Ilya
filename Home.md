@@ -38,10 +38,11 @@ status.type is not DONE
 [[PROJECTS/MSP/NOTES/Network Talk - 3-1-2023]]
 
 ### Tasks MSP
+> [!info]
+> [[PROJECTS/MSP/MSP - Plan at the moment]] Note where lots of tasks get added
 ```tasks
 tags include #MSP 
 status.type is not DONE
-path includes notes
 ```
 
 

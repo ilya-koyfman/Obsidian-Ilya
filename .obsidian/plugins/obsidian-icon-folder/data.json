@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiImage-fill",
       "RiFolders-fill"
     ],
     "recentlyUsedIconsSize": 5,
@@ -22,6 +23,13 @@
   "Slipbox Notes": "RiFolders-fill",
   "Templates": "RiFolders-fill",
   "Notes": "RiFolders-fill",
-  "MSP/Discussions": "RiFolders-fill",
-  "MSP": "RiFolders-fill"
+  "MSP/Discussions": {
+    "iconName": "RiFolders-fill",
+    "inheritanceIcon": "RiFolders-fill"
+  },
+  "MSP": "RiFolders-fill",
+  "IMAGES": "RiImage-fill",
+  "Notes/Archived_notes": "RiFolders-fill",
+  "PROJECTS/MSP": "RiFolders-fill",
+  "PROJECTS/MSP/NOTES": "RiFolders-fill"
 }

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+                "file": "MSP/Discussions/Access Control Policies Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,47 +37,17 @@
         "currentTab": 1
       },
       {
-        "id": "b9662a374b1a7043",
+        "id": "8ef8f9364f21ff74",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea6f56a3891f0f6",
+            "id": "4001aa4d15c0b2fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df32c70ec607a689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSP/Discussions/Network Talk - 3-1-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8250a6db6286878e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a3771d0b795e17b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -167,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/TEMPLATE - Project Meeting Notes.md"
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md"
               }
             }
           },
@@ -237,19 +207,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a3771d0b795e17b",
+  "active": "4001aa4d15c0b2fe",
   "lastOpenFiles": [
-    "Templates/TEMPLATE - Project MOC.md",
-    "Templates/TEMPLATE - Project Tech Notes.md",
-    "Templates/TEMPLATE-Daily Notes.md",
+    "MSP/Discussions/Access Control Policies Definitions.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
-    "MSP/Discussions/Network Talk - 3-1-2023.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
+    "Templates/TEMPLATE - Project MOC.md",
+    "Templates/TEMPLATE - Project Tech Notes.md",
+    "Templates/TEMPLATE-Daily Notes.md",
+    "MSP/Discussions/Network Talk - 3-1-2023.md",
     "Home.md",
     "PROJECTS/MSP/NOTES",
-    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/Untitled.md",
     "PROJECTS/MSP",
     "PROJECTS",
@@ -266,11 +238,9 @@
     "Notes/Archived_notes",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation Home.md",
-    "MSP/Discussions/Access Control Policies Definitions.md",
     "README.md",
     "Slipbox Notes/MSP - Plan at the moment.md",
     "MSP/Network Management and Monitoring.md",
-    "Slipbox Notes/Intune Infra Readiness.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",

@@ -6,9 +6,8 @@ project:
 ---
 
 > [!info]+
->Project: 
 >Attendees: 
->Ref:
+
 
 ## Summary
 1. 

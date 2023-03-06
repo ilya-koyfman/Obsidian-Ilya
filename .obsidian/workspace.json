@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-06.md",
+                "file": "Slipbox Notes/BackBurner 3-6-2023.md",
                 "mode": "preview",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
+                "file": "Slipbox Notes/BackBurner 3-6-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
+                "file": "Slipbox Notes/BackBurner 3-6-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
+                "file": "Slipbox Notes/BackBurner 3-6-2023.md"
               }
             }
           },
@@ -224,11 +224,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca7222212676bb3c",
+  "active": "38941abec2a81691",
   "lastOpenFiles": [
-    "Slipbox Notes/Retention Backups tape.md",
-    "Notes/2023-03-06.md",
     "Home.md",
+    "Notes/2023-03-06.md",
+    "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
+    "Slipbox Notes/Retention Backups tape.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
@@ -257,12 +258,10 @@
     "Notes/Archived_notes",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation Home.md",
-    "README.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",
     "Obsidian-Ilya",
-    "Azure/Azure Documentation",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",

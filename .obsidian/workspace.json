@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slipbox Notes/BackBurner 3-6-2023.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox Notes/BackBurner 3-6-2023.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox Notes/BackBurner 3-6-2023.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox Notes/BackBurner 3-6-2023.md"
+                "file": "Home.md"
               }
             }
           },
@@ -226,6 +226,10 @@
   },
   "active": "38941abec2a81691",
   "lastOpenFiles": [
+    "Slipbox Notes/BackBurner 3-6-2023.md",
+    "Untitled.md",
+    "ARCHIVE",
+    "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "Home.md",
     "Notes/2023-03-06.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
@@ -234,13 +238,12 @@
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/MSP/MSP - MOC.md",
-    "MSP/Discussions/Network Talk - 3-1-2023.md",
-    "MSP/Discussions/Access Control Policies Definitions.md",
+    "ARCHIVE/MSP/Discussions/Network Talk - 3-1-2023.md",
+    "ARCHIVE/MSP/Discussions/Access Control Policies Definitions.md",
     "Slipbox Notes/Work Goals - 2023.md",
-    "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "Notes/Archived_notes/2023-03-03.md",
     "Notes/Archived_notes/2023-03-01.md",
-    "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
+    "ARCHIVE/MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Tech Notes.md",
@@ -251,17 +254,14 @@
     "PROJECTS",
     "Notes/Archived_notes/2023-02-27.md",
     "Slipbox Notes/DirSync - Azure AD Connect.md",
-    "Slipbox Notes/BackBurner 3-6-2023.md",
     "Slipbox Notes",
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Archived_notes",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
-    "Azure/Azure Documentation Home.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",
-    "Obsidian-Ilya",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",

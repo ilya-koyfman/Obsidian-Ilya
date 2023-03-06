@@ -1,7 +1,10 @@
 {
   "accentColor": "#8b70e6",
-  "cssTheme": "Cybertron",
+  "cssTheme": "Minimal",
   "nativeMenus": false,
   "theme": "obsidian",
-  "baseFontSize": 17
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrainsMono NF",
+  "monospaceFontFamily": "JetBrainsMonoMedium Nerd Font Mono"
 }

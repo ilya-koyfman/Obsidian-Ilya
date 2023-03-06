@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScratchPad/Scratch.md",
+                "file": "Notes/2023-03-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ScratchPad/Scratch.md",
+                "file": "Notes/2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ScratchPad/Scratch.md",
+                "file": "Notes/2023-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ScratchPad/Scratch.md"
+                "file": "Notes/2023-03-06.md"
               }
             }
           },
@@ -162,15 +162,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "8cf619db944c2c1e",
+  "active": "b48fd943bd3c0dcf",
   "lastOpenFiles": [
-    "Home Canvas.canvas",
     "Home.md",
+    "ScratchPad/Scratch.md",
+    "Home Canvas.canvas",
     "Notes/Retention Backups tape.md",
     "Notes/2023-03-06.md",
     "Notes/Archived_notes",

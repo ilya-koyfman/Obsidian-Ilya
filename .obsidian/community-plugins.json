@@ -2,17 +2,16 @@
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-tasks-plugin",
-  "hotkeysplus-obsidian",
   "homepage",
   "obsidian-dirtreeist",
-  "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-linter",
   "obsidian-completr",
   "obsidian-excel-to-markdown-table",
   "obsidian-wakatime",
   "obsidian-git",
-  "mermaid-tools",
   "quickadd",
   "obsidian-multi-cursor",
-  "dataview"
+  "dataview",
+  "obsidian-minimal-settings",
+  "obsidian-hider"
 ]

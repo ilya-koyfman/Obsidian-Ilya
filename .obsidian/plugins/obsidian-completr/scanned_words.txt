@@ -498,6 +498,7 @@ feature
 files
 fa
 fd
+function
 each
 edit
 equipment

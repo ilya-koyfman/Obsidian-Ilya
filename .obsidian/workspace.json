@@ -51,14 +51,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "Slipbox Notes/Retention Backups tape.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ca7222212676bb3c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
               }
             }
           },
@@ -214,17 +224,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acc7f62afce4cb13",
+  "active": "ca7222212676bb3c",
   "lastOpenFiles": [
+    "Slipbox Notes/Retention Backups tape.md",
+    "Notes/2023-03-06.md",
+    "Home.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-    "Home.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "MSP/Discussions/Network Talk - 3-1-2023.md",
     "MSP/Discussions/Access Control Policies Definitions.md",
     "Slipbox Notes/Work Goals - 2023.md",
-    "Notes/2023-03-06.md",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "Notes/Archived_notes/2023-03-03.md",
     "Notes/Archived_notes/2023-03-01.md",
@@ -240,7 +251,6 @@
     "Notes/Archived_notes/2023-02-27.md",
     "Slipbox Notes/DirSync - Azure AD Connect.md",
     "Slipbox Notes/BackBurner 3-6-2023.md",
-    "Slipbox Notes/Retention Backups tape.md",
     "Slipbox Notes",
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",

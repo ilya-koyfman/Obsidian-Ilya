@@ -126,6 +126,7 @@ Documention
 DD
 Do
 Documents
+Designing
 to
 the
 tracked
@@ -196,6 +197,7 @@ outside
 one
 ours
 out
+off
 project
 permissions
 profile
@@ -228,6 +230,7 @@ profiles
 proceed
 put
 power
+projects
 Sparky
 Synapse
 SQL
@@ -719,6 +722,7 @@ Nest
 Name
 Networking
 New
+Networks
 Contributor
 Create
 Custom
@@ -781,6 +785,7 @@ commit
 currently
 call
 confirm
+control
 modify
 meeting
 msp
@@ -824,6 +829,7 @@ VIEW
 VM
 VNET
 VNETs
+Vendors
 Head
 How
 Home

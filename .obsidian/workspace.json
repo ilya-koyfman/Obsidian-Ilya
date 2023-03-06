@@ -6,6 +6,7 @@
       {
         "id": "1235897bd38365a4",
         "type": "tabs",
+        "dimension": 89.08296943231441,
         "children": [
           {
             "id": "1aedde5c898328d6",
@@ -39,6 +40,7 @@
       {
         "id": "8ef8f9364f21ff74",
         "type": "tabs",
+        "dimension": 10.91703056768559,
         "children": [
           {
             "id": "4001aa4d15c0b2fe",
@@ -210,9 +212,9 @@
   "active": "85408032cd881942",
   "lastOpenFiles": [
     "Home.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "MSP/Discussions/Access Control Policies Definitions.md",
-    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",

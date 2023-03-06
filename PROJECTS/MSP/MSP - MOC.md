@@ -13,8 +13,9 @@ project: MSP
 ## Tasks
 Lists all pages inside the folder Books and its sub folders 
 ```dataview 
-task file.name
+table file.tasks.text, file.tasks.completed
 FROM "PROJECTS/MSP" 
+WHERE (file.tasks.completed = false)
 ```
 
 ## Meetings

@@ -48,5 +48,13 @@
       ],
       "key": "M"
     }
+  ],
+  "nldates-obsidian:nlp-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

@@ -403,6 +403,7 @@ when
 whether
 won
 well
+week
 should
 system
 schedule
@@ -499,6 +500,7 @@ files
 fa
 fd
 function
+fire
 each
 edit
 equipment

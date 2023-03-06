@@ -2,7 +2,7 @@
 
 ## March Note line up
 
-### Tasks from Notes Folder
+### Important Tasks from Notes Folder
 
 ```tasks
 scheduled after 2023-02-28
@@ -10,8 +10,23 @@ status.type is not DONE
 status.name does not include Cancelled
 tags do not include #MSP 
 path includes notes
+heading includes Important Tasks
+```
+### Other Tasks from Notes Folder
+
+```tasks
+scheduled after 2023-02-28
+status.type is not DONE
+status.name does not include Cancelled
+tags do not include #MSP 
+path includes notes
+heading does not include Important Tasks
 ```
 
+
+___
+
+## Azure & MSP
 ### Tasks Azure Everywhere
 
 ```tasks

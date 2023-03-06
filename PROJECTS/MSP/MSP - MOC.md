@@ -7,10 +7,6 @@ project: MSP
 ## Administrative
 ```dataviewjs
 ```
-
-## Project Documents/Links
-
-## Tasks
 Lists all pages inside the folder Books and its sub folders 
 ```dataview 
 table file.tasks.text, file.tasks.completed
@@ -20,7 +16,17 @@ WHERE file.tasks.completed
 
 ## Meetings
 ```dataview
-Table date, note_type, tags
+Table date
 FROM "PROJECTS/MSP" 
-where file.note_type = m_note)
+where contains(note_type, "m_note")
 ```
+## Tech Notes
+```dataview
+Table date
+FROM "PROJECTS/MSP" 
+where contains(note_type, "t_note")
+```
+
+---
+
+###### Project Documents/Links

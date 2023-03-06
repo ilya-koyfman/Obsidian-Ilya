@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Slipbox Notes/Work Goals - 2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Slipbox Notes/Work Goals - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Slipbox Notes/Work Goals - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Slipbox Notes/Work Goals - 2023.md"
               }
             }
           },
@@ -226,11 +226,11 @@
   },
   "active": "38941abec2a81691",
   "lastOpenFiles": [
+    "Home.md",
     "Slipbox Notes/BackBurner 3-6-2023.md",
     "Untitled.md",
     "ARCHIVE",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
-    "Home.md",
     "Notes/2023-03-06.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "Slipbox Notes/Retention Backups tape.md",

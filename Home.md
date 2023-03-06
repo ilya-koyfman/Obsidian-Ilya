@@ -1,8 +1,8 @@
-## Home
+# Home
 
-### March Note line up
+## March Note line up
 
-## Tasks from Notes Folder
+### Tasks from Notes Folder
 
 ```tasks
 scheduled after 2023-02-28
@@ -12,7 +12,7 @@ tags do not include #MSP
 path includes notes
 ```
 
-## Tasks Azure Everywhere
+### Tasks Azure Everywhere
 
 ```tasks
 tags include #azure
@@ -21,7 +21,7 @@ status.type is not DONE
 ```
 
 
-## Tasks MSP
+### Tasks MSP
 ```tasks
 tags include #MSP 
 status.type is not DONE

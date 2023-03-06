@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf5aca42c136d98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,15 +202,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85408032cd881942",
+  "active": "bf5aca42c136d98e",
   "lastOpenFiles": [
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
     "Home.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "MSP/Discussions/Access Control Policies Definitions.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
-    "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Tech Notes.md",

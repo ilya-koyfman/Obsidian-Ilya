@@ -22,5 +22,5 @@ WHERE file.tasks.completed
 ```dataview
 Table date
 FROM "PROJECTS/MSP" 
-where note_type= m_note
+where file.note_type = m_note
 ```

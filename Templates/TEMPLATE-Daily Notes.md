@@ -1,3 +1,8 @@
+---
+tags: [d_note]
+note_type: d_note
+---
+
 # TEMPLATE-Daily Notes
 
 ## Reoccurring Tasks

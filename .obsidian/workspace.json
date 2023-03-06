@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/TEMPLATE - Project Meeting Notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,10 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TEMPLATE-Daily Notes.md",
+                "file": "Notes/2023-03-06.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1aedde5c898328d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/TEMPLATE-Daily Notes.md",
+                "file": "Notes/2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/TEMPLATE-Daily Notes.md",
+                "file": "Notes/2023-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/TEMPLATE-Daily Notes.md"
+                "file": "Notes/2023-03-06.md"
               }
             }
           },
@@ -200,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -207,19 +222,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "21c2102da1b063e2",
   "lastOpenFiles": [
+    "Home.md",
+    "Templates/TEMPLATE-Daily Notes.md",
+    "Templates/TEMPLATE - Project Meeting Notes.md",
+    "Templates/TEMPLATE - Project Tech Notes.md",
     "Notes/2023-03-06.md",
     "Templates/TEMPLATE - Project MOC.md",
-    "Templates/TEMPLATE - Project Tech Notes.md",
-    "Templates/TEMPLATE - Project Meeting Notes.md",
-    "Home.md",
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Retention Backups tape.md",
@@ -243,7 +257,6 @@
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",
     "Obsidian-Ilya",
-    "Templates/TEMPLATE-Daily Notes.md",
     "Azure/Azure Documentation Checklist.md",
     "Azure/Azure Documentation",
     "IMAGES/Pasted image 20230302173058.png",

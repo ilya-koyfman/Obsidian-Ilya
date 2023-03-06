@@ -7,12 +7,12 @@
   "workspaceEnabled": false,
   "openOnStartup": true,
   "hasRibbonIcon": true,
-  "openMode": "Replace all open notes",
+  "openMode": "Keep open notes",
   "manualOpenMode": "Keep open notes",
   "view": "Default view",
   "revertView": true,
-  "refreshDataview": false,
+  "refreshDataview": true,
   "autoCreate": true,
   "autoScroll": false,
-  "pin": false
+  "pin": true
 }

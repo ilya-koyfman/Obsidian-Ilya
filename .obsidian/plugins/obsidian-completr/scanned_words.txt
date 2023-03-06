@@ -36,6 +36,8 @@ Assign
 AutoTask
 Art
 Antox
+Action
+Attendees
 Profiles
 Permission
 Power
@@ -119,6 +121,7 @@ Define
 Deploy
 DNS
 Documention
+DD
 to
 the
 tracked
@@ -153,6 +156,8 @@ testing
 tweak
 these
 too
+tp
+type
 nature
 need
 needed
@@ -168,6 +173,8 @@ name
 next
 net
 nd
+now
+note
 of
 objective
 owner
@@ -216,6 +223,7 @@ perform
 profiles
 proceed
 put
+power
 Sparky
 Synapse
 SQL
@@ -321,6 +329,7 @@ directory
 desktop
 design
 designed
+date
 and
 are
 access
@@ -360,6 +369,7 @@ azuresynapse
 acceptable
 agree
 approach
+automate
 User
 Update
 UP
@@ -444,6 +454,7 @@ has
 home
 happen
 higher
+hold
 Their
 Team
 TODO
@@ -551,6 +562,7 @@ MORE
 Metric
 Mostly
 Maybe
+MM
 Grants
 Group
 Github
@@ -674,6 +686,7 @@ Request
 Related
 RDS
 Ramzi
+Ref
 Bi
 Backups
 Backup
@@ -827,6 +840,7 @@ limited
 laying
 live
 love
+litigation
 Flows
 Future
 Firewall
@@ -875,6 +889,8 @@ Information
 IT
 IPSEC
 Info
+Items
+Important
 Jenkins
 Jobs
 Javier
@@ -895,3 +911,4 @@ Questions
 kanban
 key
 Key
+YYYY

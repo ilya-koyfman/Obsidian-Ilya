@@ -20,7 +20,7 @@ WHERE file.tasks.completed
 
 ## Meetings
 ```dataview
-Table date
+Table date, note_type, tags
 FROM "PROJECTS/MSP" 
-where file.note_type = m_note
+where file.note_type = m_note)
 ```

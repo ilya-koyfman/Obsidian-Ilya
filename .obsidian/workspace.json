@@ -6,7 +6,6 @@
       {
         "id": "1235897bd38365a4",
         "type": "tabs",
-        "dimension": 89.08296943231441,
         "children": [
           {
             "id": "1aedde5c898328d6",
@@ -29,32 +28,13 @@
               "type": "markdown",
               "state": {
                 "file": "PROJECTS/MSP/MSP - MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "8ef8f9364f21ff74",
-        "type": "tabs",
-        "dimension": 10.91703056768559,
-        "children": [
-          {
-            "id": "4001aa4d15c0b2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +192,11 @@
   },
   "active": "85408032cd881942",
   "lastOpenFiles": [
-    "Home.md",
+    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/MSP - MOC.md",
+    "Home.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "MSP/Discussions/Access Control Policies Definitions.md",
-    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",

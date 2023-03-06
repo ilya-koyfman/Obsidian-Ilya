@@ -15,7 +15,12 @@ Lists all pages inside the folder Books and its sub folders
 ```dataview 
 table file.tasks.text, file.tasks.completed
 FROM "PROJECTS/MSP" 
-WHERE (file.tasks.completed = false)
+WHERE file.tasks.completed
 ```
 
 ## Meetings
+```dataview
+Table date
+FROM "PROJECTS/MSP" 
+where note_type= m_note
+```

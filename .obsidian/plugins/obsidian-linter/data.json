@@ -134,7 +134,7 @@
     },
     "Compact YAML": {
       "Removes leading and trailing blank lines in the YAML front matter.": true,
-      "Inner New Lines": false
+      "Inner New Lines": true
     },
     "Consecutive blank lines": {
       "There should be at most one consecutive blank line.": true

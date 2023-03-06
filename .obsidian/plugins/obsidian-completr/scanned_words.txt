@@ -81,6 +81,7 @@ Preferred
 Pulse
 Project
 PANELS
+Please
 Description
 Due
 DBs
@@ -145,6 +146,13 @@ traffic
 through
 their
 tasks
+target
+took
+teams
+testing
+tweak
+these
+too
 nature
 need
 needed
@@ -176,6 +184,7 @@ organization
 outside
 one
 ours
+out
 project
 permissions
 profile
@@ -203,6 +212,10 @@ portal
 page
 predefined
 prompt
+perform
+profiles
+proceed
+put
 Sparky
 Synapse
 SQL
@@ -262,6 +275,8 @@ Side
 Service
 Source
 Specific
+SIT
+Slalom
 be
 below
 but
@@ -343,6 +358,8 @@ an
 across
 azuresynapse
 acceptable
+agree
+approach
 User
 Update
 UP
@@ -368,6 +385,7 @@ using
 us
 username
 uat
+unused
 what
 where
 with
@@ -384,6 +402,7 @@ way
 when
 whether
 won
+well
 should
 system
 schedule
@@ -409,6 +428,12 @@ sql
 screen
 switch
 some
+specific
+slightly
+see
+steps
+since
+salesforce
 have
 how
 hard
@@ -417,6 +442,7 @@ host
 has
 home
 happen
+higher
 Their
 Team
 TODO
@@ -444,6 +470,9 @@ Things
 Three
 Third
 Trusted
+They
+Testing
+Thoughts
 is
 interact
 items
@@ -457,6 +486,7 @@ it
 internet
 ip
 instead
+if
 fulfil
 for
 fields
@@ -483,6 +513,8 @@ ebf
 either
 existing
 endpoints
+ensure
+etc
 Membership
 Member
 Most
@@ -515,6 +547,7 @@ Migrations
 MORE
 Metric
 Mostly
+Maybe
 Grants
 Group
 Github
@@ -582,6 +615,12 @@ recreate
 resolution
 resources
 rollout
+received
+roles
+reduction
+revisit
+ready
+remove
 Owner
 Organization
 Off
@@ -599,6 +638,7 @@ On
 Operations
 Office
 Obsidian
+Owners
 Resources
 Read
 Run
@@ -630,6 +670,7 @@ Regarding
 Request
 Related
 RDS
+Ramzi
 Bi
 Backups
 Backup
@@ -690,6 +731,7 @@ Communism
 Carmine
 CLOUD
 CONTROL
+Christine
 can
 create
 copy
@@ -715,6 +757,7 @@ compression
 commit
 currently
 call
+confirm
 modify
 meeting
 msp
@@ -735,6 +778,9 @@ management
 machines
 methods
 maintenance
+my
+match
+many
 gateways
 groups
 going
@@ -746,6 +792,7 @@ go
 generate
 goes
 get
+guess
 Viewer
 View
 VMs
@@ -764,6 +811,7 @@ Hi
 Hub
 HUB
 HD
+Have
 line
 last
 like
@@ -772,6 +820,10 @@ level
 long
 local
 large
+limited
+laying
+live
+love
 Flows
 Future
 Firewall
@@ -802,6 +854,8 @@ Logs
 Levels
 LINK
 List
+Leslie
+Lucia
 INFO
 Intellectual
 Ipmonitor
@@ -822,6 +876,7 @@ Jenkins
 Jobs
 Javier
 JUST
+Jason
 year
 you
 yet
@@ -829,9 +884,11 @@ vs
 view
 viewer
 via
+vendors
 just
 join
 Quick
+Questions
 kanban
 key
 Key

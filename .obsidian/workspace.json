@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "ScratchPad/Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "ScratchPad/Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "ScratchPad/Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "ScratchPad/Scratch.md"
               }
             }
           },
@@ -164,15 +164,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b48fd943bd3c0dcf",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
+    "Home Canvas.canvas",
+    "Home.md",
+    "Notes/Retention Backups tape.md",
+    "Notes/2023-03-06.md",
+    "Notes/Archived_notes",
     "Notes/2023-02-27.md",
     "Notes/BackBurner.md",
-    "Home.md",
     "Notes/2023-03-03.md",
     "Notes/2023-03-01.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
@@ -191,26 +194,21 @@
     "Azure/Azure Documentation/Azure Docs -",
     "Obsidian-Ilya",
     "Templates/TEMPLATE-Daily Notes.md",
-    "Home Canvas.canvas",
     "Azure/Azure Documentation Checklist.md",
     "Azure/Azure Documentation",
     "IMAGES/Pasted image 20230302173058.png",
-    "Notes/Retention Backups tape.md",
     "Notes/DirSync - Azure AD Connect.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2023-03-02 16.38.23.excalidraw.md",
     "Cheatsheets/MARKDOWN CHEATSHEET.md",
     "Synapse Permissions De-Mystified.md",
-    "ScratchPad/Flow Chart Example.md",
     "Excalidraw",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",
-    "ScratchPad/Legal Compliance.md",
     "IMAGES/Pasted image 20230302114952.png",
     "Unorganized",
     "MSP/Discussions",
     "MSP",
-    "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "IMAGES/Pasted image 20230224135720.png"
   ]
 }

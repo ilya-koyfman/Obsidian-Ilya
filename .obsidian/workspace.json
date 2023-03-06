@@ -64,8 +64,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8250a6db6286878e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a3771d0b795e17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md"
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md"
               }
             }
           },
@@ -220,11 +237,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8c9933d463a4a59",
+  "active": "6a3771d0b795e17b",
   "lastOpenFiles": [
-    "MSP/Discussions/Network Talk - 3-1-2023.md",
-    "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+    "Templates/TEMPLATE - Project MOC.md",
+    "Templates/TEMPLATE - Project Tech Notes.md",
+    "Templates/TEMPLATE-Daily Notes.md",
+    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
+    "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+    "MSP/Discussions/Network Talk - 3-1-2023.md",
+    "Templates/TEMPLATE - Project Meeting Notes.md",
     "Home.md",
     "PROJECTS/MSP/NOTES",
     "PROJECTS/MSP/MSP - MOC.md",
@@ -239,10 +261,6 @@
     "Slipbox Notes/BackBurner 3-6-2023.md",
     "Slipbox Notes/Retention Backups tape.md",
     "Slipbox Notes",
-    "Templates/TEMPLATE-Daily Notes.md",
-    "Templates/TEMPLATE - Project Meeting Notes.md",
-    "Templates/TEMPLATE - Project Tech Notes.md",
-    "Templates/TEMPLATE - Project MOC.md",
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Archived_notes",
@@ -253,7 +271,6 @@
     "Slipbox Notes/MSP - Plan at the moment.md",
     "MSP/Network Management and Monitoring.md",
     "Slipbox Notes/Intune Infra Readiness.md",
-    "Azure/Membership Profile Permission Mapping.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",

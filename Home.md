@@ -19,7 +19,7 @@ tags include #azure
 sort by heading
 status.type is not DONE
 ```
-
+[[PROJECTS/MSP/NOTES/Network Talk - 3-1-2023]]
 
 ### Tasks MSP
 ```tasks

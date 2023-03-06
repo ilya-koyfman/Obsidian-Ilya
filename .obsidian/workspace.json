@@ -4,33 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f5968b5448b77933",
+        "id": "1235897bd38365a4",
         "type": "tabs",
         "children": [
-          {
-            "id": "a74b2c3517bdf81e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcc74ac4c7942c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "1aedde5c898328d6",
             "type": "leaf",
@@ -43,6 +19,18 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "e8c9933d463a4a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -58,13 +46,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df32c70ec607a689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSP/Discussions/Network Talk - 3-1-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md"
+                "file": "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md"
               }
             }
           },
@@ -219,11 +220,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ea6f56a3891f0f6",
+  "active": "e8c9933d463a4a59",
   "lastOpenFiles": [
-    "PROJECTS/MSP/Untitled.md",
-    "PROJECTS/MSP/MSP - MOC.md",
+    "MSP/Discussions/Network Talk - 3-1-2023.md",
+    "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+    "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "Home.md",
+    "PROJECTS/MSP/NOTES",
+    "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/MSP/Untitled.md",
     "PROJECTS/MSP",
     "PROJECTS",
     "Notes/2023-03-06.md",
@@ -246,19 +251,15 @@
     "MSP/Discussions/Access Control Policies Definitions.md",
     "README.md",
     "Slipbox Notes/MSP - Plan at the moment.md",
-    "MSP/Discussions/ASPCA - CISO GLOBAL Datto Talk 3-1-2023.md",
     "MSP/Network Management and Monitoring.md",
     "Slipbox Notes/Intune Infra Readiness.md",
     "Azure/Membership Profile Permission Mapping.md",
-    "Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP.md",
-    "MSP/Discussions/Network Talk - 3-1-2023.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",
     "Obsidian-Ilya",
     "Azure/Azure Documentation",
     "IMAGES/Pasted image 20230302173058.png",
-    "Excalidraw",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",
     "IMAGES/Pasted image 20230302114952.png",

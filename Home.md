@@ -8,7 +8,8 @@
 scheduled after 2023-02-28
 status.type is not DONE
 status.name does not include Cancelled
-tags do not include #MSP 
+tags do not include #MSP
+tags do not include #azure 
 path includes notes
 heading includes Important Tasks
 ```
@@ -41,4 +42,11 @@ status.type is not DONE
 tags include #MSP 
 status.type is not DONE
 path includes notes
+```
+
+
+---
+## Backburner stuff
+```tasks
+tag include backburner
 ```

@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiFolders-fill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "PROJECTS": "RiFolders-fill",
+  "ScratchPad": "RiFolders-fill",
+  "Slipbox Notes": "RiFolders-fill",
+  "Templates": "RiFolders-fill",
+  "Notes": "RiFolders-fill",
+  "MSP/Discussions": "RiFolders-fill",
+  "MSP": "RiFolders-fill"
+}

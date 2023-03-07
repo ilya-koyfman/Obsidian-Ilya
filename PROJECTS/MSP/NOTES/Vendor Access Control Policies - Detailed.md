@@ -64,4 +64,8 @@ Depending on the use case and work case, the below order of preferred methods is
 2. IPSEC
 3. VPN (Servers)
 
+
+# Action Items
 - [ ] Have Javier and Vinny Review on Wednesday #MSP 📅 2023-03-08 
+- [ ] Create Example of CISO Global 📅 2023-03-08 [[PROJECTS/MSP/NOTES/Ciso Global Permissions]]
+- [ ] 

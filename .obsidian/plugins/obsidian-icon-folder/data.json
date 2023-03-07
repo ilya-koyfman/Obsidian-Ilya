@@ -39,5 +39,6 @@
   },
   "ARCHIVE": "FasBoxArchive",
   "PROJECTS/Azure": "RiFolder2Fill",
-  "PROJECTS/OS Upgrade": "RiFolder2Fill"
+  "PROJECTS/OS Upgrade": "RiFolder2Fill",
+  "PROJECTS/Intune": "RiFolder2Fill"
 }

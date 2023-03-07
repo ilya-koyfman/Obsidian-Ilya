@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "0c802da4a8d0a461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/Intune/Intune MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f1e01578de1f1517",
             "type": "leaf",
             "pinned": true,
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cbdb0d9c6ab2bbee",
@@ -74,8 +86,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
-                "mode": "source",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
+                "file": "PROJECTS/Intune/Intune MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
+                "file": "PROJECTS/Intune/Intune MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/OS Upgrade/OS Upgrade MOC.md"
+                "file": "PROJECTS/Intune/Intune MOC.md"
               }
             }
           },
@@ -237,9 +249,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f2925ae8121b598f",
+  "active": "0c802da4a8d0a461",
   "lastOpenFiles": [
     "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/Intune/Intune MOC.md",
+    "PROJECTS/Intune",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "Home.md",
     "PROJECTS/OS Upgrade",
@@ -249,7 +264,6 @@
     "Slipbox Notes/Work Goals - 2023.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "CISO GLOBABL Access Controls.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Untitled.md",
@@ -267,7 +281,6 @@
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "ARCHIVE/MSP/Discussions/Network Talk - 3-1-2023.md",
-    "ARCHIVE/MSP/Discussions/Access Control Policies Definitions.md",
     "PROJECTS/MSP/NOTES",
     "PROJECTS/MSP",
     "PROJECTS",
@@ -275,7 +288,6 @@
     "Home Canvas.canvas",
     "Notes/Archived_notes",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
-    "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",

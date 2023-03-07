@@ -22,12 +22,20 @@ The purpose of this is to help define what the Access Control Policies for the A
 ## Design
 This document will help keep track of how vendors are accessing and interacting with ASPCA resources.
 
-### Access Device Details
-#### ASPCA Network
+
+```
+
 Vendors will access the ASPCA in a number of ways
 * Trusted Sources Examples use case
 	* IPSEC - A tunnel would be established if agreed upon
-	* VPN - Vendor Employees would have access 
+	* VPN - Vendor Employees would have access by connecting to our VPN appliance from their work computers
+	* Application - Vendor Employees would access a WebGui that would have certain rights for them to perform actions.
+
+```
+
+### Access Device Details
+#### ASPCA Network
+* 
 
 
 ## Action Items

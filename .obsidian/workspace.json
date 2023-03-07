@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-07.md"
+                "file": "Home.md"
               }
             }
           },
@@ -266,8 +267,8 @@
   },
   "active": "26d9e33b92c9c9bf",
   "lastOpenFiles": [
-    "PROJECTS/MSP/MSP - MOC.md",
     "Notes/2023-03-07.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Home.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",

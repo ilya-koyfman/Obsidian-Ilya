@@ -28,8 +28,9 @@
 * Workstation Tasks
 	* #NEEDMORE 
 #### Operations Side
-- [ ] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[../../../ARCHIVE/MSP/Discussions/Access Control Policies Definitions]]
-	- [ ] Request Enterprise Art* to join design here.
-- [ ] Meraki Portal Access
-- [ ] IP Info for Firewall?
-- 
+- [ ] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[PROJECTS/MSP/NOTES/Access Control Policies Defintions Note]]
+	- [x] Request Enterprise Art* to join design here. ✅ 2023-03-07
+- [x] Meraki Portal Access ✅ 2023-03-07
+- [x] IP Info for Firewall? ✅ 2023-03-07
+- [ ] Inform MWO About new patching policies
+- [ ] Setup up Pulse VPN Access and Profiles

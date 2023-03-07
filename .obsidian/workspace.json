@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "0c802da4a8d0a461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2023-03-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1e01578de1f1517",
             "type": "leaf",
             "pinned": true,
@@ -67,32 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
-                "mode": "preview",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "cbdb0d9c6ab2bbee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2925ae8121b598f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-07.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -249,26 +219,27 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "0c802da4a8d0a461",
+  "active": "9f8465475be5aa2a",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - MOC.md",
+    "ARCHIVE/MSP/Discussions/Access Control Policies Definitions.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Notes/2023-03-07.md",
     "PROJECTS/Azure/Notes",
     "PROJECTS/Intune/Notes",
     "PROJECTS/OS Upgrade/Notes",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "PROJECTS/Intune/Intune MOC.md",
-    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/Intune",
     "Home.md",
     "PROJECTS/OS Upgrade",
     "PROJECTS/Azure/Azure Documentation Home.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Slipbox Notes/Work Goals - 2023.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "CISO GLOBABL Access Controls.md",
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Untitled.md",
     "Notes/Archived_notes/2023-03-03.md",
     "Templates/TEMPLATE - Project MOC.md",

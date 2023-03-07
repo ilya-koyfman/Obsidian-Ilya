@@ -44,7 +44,7 @@ Depending on the use case and work case, the below order of preferred methods is
 2. VPN
 3. Application Portal
 
-##### Aspca Workstations
+##### ASPCA Workstations
 Vendors will be able to access workstations on the network through all trusted sources except Pulse VPN would not be accessible for Desktops.
 
 ###### Preferred Method

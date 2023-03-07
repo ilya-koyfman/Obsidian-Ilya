@@ -63,7 +63,7 @@
               "type": "markdown",
               "state": {
                 "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md"
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
               }
             }
           },
@@ -225,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,17 +244,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1ad00b226cf45a1b",
+  "active": "7b70f364a124f139",
   "lastOpenFiles": [
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "CISO GLOBABL Access Controls.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Untitled.md",
     "Home.md",
     "Notes/2023-03-07.md",
     "Notes/Archived_notes/2023-03-03.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",

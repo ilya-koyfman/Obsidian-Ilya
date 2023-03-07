@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1235897bd38365a4",
+        "id": "49fcf7f2cb54dc45",
         "type": "tabs",
         "children": [
           {
-            "id": "1aedde5c898328d6",
+            "id": "4ec2f80944919000",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "38941abec2a81691",
+            "id": "12e6fa05657da2a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f1e01578de1f1517",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,33 +48,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5ac7d20a8c199556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9e97f9dfd35625b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "Home.md"
               }
             }
           },
@@ -217,10 +206,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "5ac7d20a8c199556",
+  "active": "4ec2f80944919000",
   "lastOpenFiles": [
-    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "Home.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",

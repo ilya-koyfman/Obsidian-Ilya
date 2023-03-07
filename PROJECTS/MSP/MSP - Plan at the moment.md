@@ -12,7 +12,7 @@
 - [ ] Ticketing Flows between AutoTask and ZenDesk #MSP
 - [x] List of Users for Datto #MSP ✅ 2023-03-03
 - What Changes are going to happen when we switch Datto Platforms
-	- [ ] Schedule call with Internal IT - Carmine
+	- [ ] Schedule call with Internal IT - Carmine ⏳ 2023-03-07
 	- Security Levels - Talk with HD about things they won't be able to do with machines #MSP
 
 - [ ] What are some of the tasks we want CISO Global?

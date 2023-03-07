@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TEMPLATE - Project MOC.md",
+                "file": "PROJECTS/MSP/MSP - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/TEMPLATE - Project MOC.md",
+                "file": "PROJECTS/MSP/MSP - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/TEMPLATE - Project MOC.md",
+                "file": "PROJECTS/MSP/MSP - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/TEMPLATE - Project MOC.md"
+                "file": "PROJECTS/MSP/MSP - MOC.md"
               }
             }
           },
@@ -303,10 +303,10 @@
   },
   "active": "26d9e33b92c9c9bf",
   "lastOpenFiles": [
+    "Templates/TEMPLATE - Project MOC.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "Home.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
-    "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE-Daily Notes.md",
     "Templates/TEMPLATE - Project Tech Notes.md",

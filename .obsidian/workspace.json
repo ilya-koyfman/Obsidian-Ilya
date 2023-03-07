@@ -50,24 +50,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5dacaee7cb1ba06a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b70f364a124f139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
+                "file": "Home.md"
               }
             }
           },
@@ -225,11 +207,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7b70f364a124f139",
+  "active": "4ec2f80944919000",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Home.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "CISO GLOBABL Access Controls.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",

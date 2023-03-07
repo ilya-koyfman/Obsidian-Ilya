@@ -9,10 +9,13 @@ project: MSP
 ```
 Lists all pages inside the folder Books and its sub folders 
 ```dataview 
-table task.text AS Tasks, file.tasks.completed AS Status
+TABLE WITHOUT ID
+	Tasks.text As TaskName,
+	Tasks.due AS "Due Date", 
+	Tasks.priority AS "Priority"
 FROM "PROJECTS/MSP" 
-WHERE file.tasks
-FLATTEN file.tasks
+WHERE !Tasks.completed
+FLATTEN file.tasks AS Tasks
 ```
 
 ## Meetings

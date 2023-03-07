@@ -48,8 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f0f4c8bc644337cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,11 +219,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4ec2f80944919000",
+  "active": "f0f4c8bc644337cc",
   "lastOpenFiles": [
+    "Notes/Archived_notes/2023-03-03.md",
+    "Home.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
-    "Home.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project Tech Notes.md",
@@ -218,7 +232,6 @@
     "Templates/TEMPLATE-Daily Notes.md",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
-    "Notes/Archived_notes/2023-03-03.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Slipbox Notes/Work Goals - 2023.md",
     "Slipbox Notes/Retention Backups tape.md",

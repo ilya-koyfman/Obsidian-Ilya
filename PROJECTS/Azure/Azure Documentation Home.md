@@ -2,14 +2,14 @@
 
 ### Permissions for Membership Profiles
 
-[[Membership Profile Permission Mapping]]
+[[PROJECTS/Azure/Membership Profile Permission Mapping]]
 
 ### Azure SFTP in Storage Accounts
 
 Azure Storage Accounts can be enabled to act as a SFTP Server. Activating this feature does incur a cost
 
 
-* [[Azure Docs - Setting up Storage Account with SFTP]]
+* [[PROJECTS/Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP]]
 
 
 ### Azure Networking Membership
@@ -19,7 +19,7 @@ Information about Networking for Azure in Membership.
 #### Firewall
 
 Instructions below for how to set up specific networking for membership
-![[Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced]]
+![[PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced]]
 
 
 

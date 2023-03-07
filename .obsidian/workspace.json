@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slipbox Notes/Work Goals - 2023.md",
+                "file": "Notes/2023-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox Notes/Work Goals - 2023.md",
+                "file": "Notes/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox Notes/Work Goals - 2023.md",
+                "file": "Notes/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox Notes/Work Goals - 2023.md"
+                "file": "Notes/2023-03-07.md"
               }
             }
           },
@@ -219,10 +219,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9f8465475be5aa2a",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
-    "Notes/2023-03-07.md",
     "Home.md",
+    "Slipbox Notes/Work Goals - 2023.md",
+    "Notes/2023-03-07.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
@@ -237,7 +238,6 @@
     "Templates/TEMPLATE-Daily Notes.md",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
-    "Slipbox Notes/Work Goals - 2023.md",
     "Slipbox Notes/Retention Backups tape.md",
     "Slipbox Notes/BackBurner 3-6-2023.md",
     "ARCHIVE",

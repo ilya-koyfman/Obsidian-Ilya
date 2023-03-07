@@ -30,12 +30,12 @@
   "PROJECTS/MSP": "RiFolders-fill",
   "PROJECTS/MSP/NOTES": "RiFolders-fill",
   "Airtable": "RiFolders-fill",
-  "Azure": "RiFolders-fill",
   "Cheatsheets": "RiHammer-line",
   "ARCHIVE/MSP": "RiFolders-fill",
   "ARCHIVE/MSP/Discussions": {
     "iconName": "RiFolders-fill",
     "inheritanceIcon": "RiFolders-fill"
   },
-  "ARCHIVE": "FasBoxArchive"
+  "ARCHIVE": "FasBoxArchive",
+  "PROJECTS/Azure": "RiFolders-fill"
 }

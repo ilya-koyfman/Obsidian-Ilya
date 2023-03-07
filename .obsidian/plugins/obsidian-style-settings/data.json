@@ -1,3 +1,11 @@
 {
-  "shimmering-focus@@mac-os-native": false
+  "shimmering-focus@@mac-os-native": false,
+  "shimmering-focus@@show-ribbon": true,
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "shimmering-focus@@hide-settings-button": false,
+  "shimmering-focus@@tab-width": 200,
+  "shimmering-focus@@overlaying-right-sidebar": true,
+  "shimmering-focus@@dark-brightness": 5,
+  "shimmering-focus@@highlight-hue-1": 170,
+  "shimmering-focus@@clean-embeds": false
 }

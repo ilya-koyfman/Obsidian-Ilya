@@ -46,6 +46,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9e97f9dfd35625b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -208,12 +220,12 @@
   "active": "5ac7d20a8c199556",
   "lastOpenFiles": [
     "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "Home.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project Tech Notes.md",
     "Notes/2023-03-07.md",
-    "PROJECTS/MSP/MSP - MOC.md",
     "Templates/TEMPLATE-Daily Notes.md",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",

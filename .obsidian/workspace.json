@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Templates/TEMPLATE - Project Meeting Notes.md"
               }
             }
           },
@@ -246,14 +246,14 @@
         "direction": "vertical",
         "x": 78,
         "y": 0,
-        "width": 960,
+        "width": 1241,
         "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "bc717171ff83e98a",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "Home.md",

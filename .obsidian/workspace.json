@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-07.md"
+                "file": "Home.md"
               }
             }
           },
@@ -219,8 +219,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8cf619db944c2c1e",
+  "active": "f0f4c8bc644337cc",
   "lastOpenFiles": [
+    "Notes/2023-03-07.md",
     "Home.md",
     "Notes/Archived_notes/2023-03-03.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
@@ -228,7 +229,6 @@
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project Tech Notes.md",
-    "Notes/2023-03-07.md",
     "Templates/TEMPLATE-Daily Notes.md",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",

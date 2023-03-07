@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md",
+                "file": "Notes/2023-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md",
+                "file": "Notes/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md",
+                "file": "Notes/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md"
+                "file": "Notes/2023-03-07.md"
               }
             }
           },
@@ -251,14 +251,17 @@
   },
   "active": "0c802da4a8d0a461",
   "lastOpenFiles": [
-    "PROJECTS/MSP/MSP - MOC.md",
-    "PROJECTS/Intune/Intune MOC.md",
-    "PROJECTS/Intune",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "Notes/2023-03-07.md",
+    "PROJECTS/Azure/Notes",
+    "PROJECTS/Intune/Notes",
+    "PROJECTS/OS Upgrade/Notes",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
+    "PROJECTS/Intune/Intune MOC.md",
+    "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/Intune",
     "Home.md",
     "PROJECTS/OS Upgrade",
-    "Notes/2023-03-07.md",
     "PROJECTS/Azure/Azure Documentation Home.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Slipbox Notes/Work Goals - 2023.md",
@@ -280,14 +283,10 @@
     "Notes/Archived_notes/2023-03-06.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
-    "ARCHIVE/MSP/Discussions/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES",
     "PROJECTS/MSP",
     "PROJECTS",
-    "Slipbox Notes",
     "Home Canvas.canvas",
-    "Notes/Archived_notes",
-    "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",
     "IMAGES/Pasted image 20230302153359.png",

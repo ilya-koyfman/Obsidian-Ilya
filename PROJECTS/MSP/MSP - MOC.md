@@ -12,9 +12,12 @@ Lists all pages inside the folder Books and its sub folders
 TABLE WITHOUT ID
 	Tasks.text As TaskName,
 	Tasks.due AS "Due Date", 
-	Tasks.priority AS "Priority"
+	Tasks.priority AS "Priority",
+	Tasks.link as "Link"
+	
 FROM "PROJECTS/MSP" 
 WHERE !Tasks.completed
+SORT BY Tasks.due
 FLATTEN file.tasks AS Tasks
 ```
 

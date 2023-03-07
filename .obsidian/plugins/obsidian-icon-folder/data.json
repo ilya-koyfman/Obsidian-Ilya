@@ -38,5 +38,6 @@
     "inheritanceIcon": "RiFolders-fill"
   },
   "ARCHIVE": "FasBoxArchive",
-  "PROJECTS/Azure": "RiFolder2Fill"
+  "PROJECTS/Azure": "RiFolder2Fill",
+  "PROJECTS/OS Upgrade": "RiFolder2Fill"
 }

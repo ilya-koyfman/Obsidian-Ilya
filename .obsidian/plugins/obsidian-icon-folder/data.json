@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStickyNoteFill",
+      "RiFolder2Fill",
+      "FasFolderTree",
       "FasBoxArchive",
-      "RiHammer-line",
-      "RiImage-fill",
-      "RiFolders-fill"
+      "RiHammer-line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,14 +21,14 @@
       "left": 0
     }
   },
-  "PROJECTS": "RiFolders-fill",
+  "PROJECTS": "FasFolderTree",
   "ScratchPad": "RiFolders-fill",
   "Slipbox Notes": "RiFolders-fill",
   "Templates": "RiFolders-fill",
-  "Notes": "RiFolders-fill",
+  "Notes": "RiStickyNoteFill",
   "IMAGES": "RiImage-fill",
   "Notes/Archived_notes": "RiFolders-fill",
-  "PROJECTS/MSP": "RiFolders-fill",
+  "PROJECTS/MSP": "RiFolder2Fill",
   "PROJECTS/MSP/NOTES": "RiFolders-fill",
   "Airtable": "RiFolders-fill",
   "Cheatsheets": "RiHammer-line",
@@ -37,5 +38,5 @@
     "inheritanceIcon": "RiFolders-fill"
   },
   "ARCHIVE": "FasBoxArchive",
-  "PROJECTS/Azure": "RiFolders-fill"
+  "PROJECTS/Azure": "RiFolder2Fill"
 }

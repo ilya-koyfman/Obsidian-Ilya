@@ -215,12 +215,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +236,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f0f4c8bc644337cc",
+  "active": "17c60b2f81ad9654",
   "lastOpenFiles": [
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",

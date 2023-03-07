@@ -7,7 +7,9 @@ project: MSP
 
 ## Vendor Access Control Policies - Detailed
 
-### Summary
+### Vendor Access Control Policies - Detailed
+
+#### Summary
 
 The purpose of this is to help define what the Access Control Policies for the ASPCA would be with vendors. It would define how vendors access
 
@@ -15,7 +17,7 @@ The purpose of this is to help define what the Access Control Policies for the A
 * ASPCA Devices
 * Applications (On-Prem or Cloud)
 
-### Definitions
+#### Definitions
 
 * **Trusted Sources** are how we would want vendors to access resources
 	* IPSEC - Site to Site IPSEC Tunnel between Vendor and ASPCA
@@ -24,7 +26,7 @@ The purpose of this is to help define what the Access Control Policies for the A
 * **Resources** are On-Prem Devices, Network Devices, Applications (On-Prem or Cloud)
 * **Vendors** are anyone that is contracted to work with the ASPCA on specific projects or initiatives
 
-### Design
+#### Design
 
 This document will help keep track of how vendors are accessing and interacting with ASPCA resources.
 
@@ -35,21 +37,30 @@ This document will help keep track of how vendors are accessing and interacting 
 >	* VPN - Vendor Employees would have access by connecting to our VPN appliance from their work computers
 >	* Application - Vendor Employees would access a WebGui that would have certain rights for them to perform actions.
 
-### Access Device Details
-#### ASPCA Network
+#### Access Device Details
+
+##### Aspca Network/Network Devices
+
 Vendors will be able to access the network through all trusted sources
-##### Preferred Method
+
+###### Preferred Method
+
 Depending on the use case and work case, the below order of preferred methods is how the item should be accessed
+
 1. IPSEC
 2. VPN
 3. Application Portal
 
-#### ASPCA 
-Vendors will be able to access the network through all trusted sources
-##### Preferred Method
-Depending on the use case and work case, the below order of preferred methods is how the item should be accessed
-1. IPSEC
-2. VPN
-3. Application Portal
+##### Aspca Workstations
 
-## Action Items
+Vendors will be able to access workstations on the network through all trusted sources except Pulse VPN would not be accessible for Desktops.
+
+###### Preferred Method
+
+Depending on the use case and work case, the below order of preferred methods is how the item should be accessed
+
+1. Application Portal (Datto)
+2. IPSEC
+3. VPN (Servers)
+
+### Action Items

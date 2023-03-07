@@ -1,12 +1,13 @@
 {
-  "shimmering-focus@@mac-os-native": true,
+  "shimmering-focus@@mac-os-native": false,
   "shimmering-focus@@show-ribbon": true,
   "shimmering-focus@@show-sidebar-header-buttons": true,
   "shimmering-focus@@hide-settings-button": false,
   "shimmering-focus@@tab-width": 200,
   "shimmering-focus@@overlaying-right-sidebar": true,
-  "shimmering-focus@@dark-brightness": 5,
-  "shimmering-focus@@highlight-hue-1": 170,
+  "shimmering-focus@@dark-brightness": 10,
+  "shimmering-focus@@highlight-hue-1": 260,
   "shimmering-focus@@clean-embeds": false,
-  "shimmering-focus@@no-floating-metadata": false
+  "shimmering-focus@@no-floating-metadata": false,
+  "shimmering-focus@@bg-hue-dark": 220
 }

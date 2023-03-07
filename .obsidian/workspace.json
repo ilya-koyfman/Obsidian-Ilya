@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
               }
             }
           },
@@ -225,11 +225,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4ec2f80944919000",
+  "active": "7b70f364a124f139",
   "lastOpenFiles": [
+    "Home.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-    "Home.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "CISO GLOBABL Access Controls.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",

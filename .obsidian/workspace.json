@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,6 +63,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "b6eedc036ab62a99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233e365ee843c6df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md"
               }
             }
           },
@@ -219,10 +237,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f0f4c8bc644337cc",
+  "active": "233e365ee843c6df",
   "lastOpenFiles": [
-    "Notes/2023-03-07.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies - Defined.md",
+    "Untitled.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Home.md",
+    "Notes/2023-03-07.md",
     "Notes/Archived_notes/2023-03-03.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
@@ -232,11 +253,9 @@
     "Templates/TEMPLATE-Daily Notes.md",
     "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Slipbox Notes/Work Goals - 2023.md",
     "Slipbox Notes/Retention Backups tape.md",
     "Slipbox Notes/BackBurner 3-6-2023.md",
-    "Untitled.md",
     "ARCHIVE",
     "Notes/Archived_notes/2023-03-06.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
@@ -252,7 +271,6 @@
     "Notes/Archived_notes/2023-02-27.md",
     "Slipbox Notes/DirSync - Azure AD Connect.md",
     "Slipbox Notes",
-    "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Archived_notes",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",

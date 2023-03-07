@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "Notes/2023-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "Notes/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "Notes/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md"
+                "file": "Notes/2023-03-07.md"
               }
             }
           },
@@ -264,47 +264,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "8941ba9ed2883173",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0b9b7efee2b1c25c",
-        "type": "window",
-        "children": [
-          {
-            "id": "b25d967001fa85ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc717171ff83e98a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 78,
-        "y": 0,
-        "width": 1241,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "26d9e33b92c9c9bf",
   "lastOpenFiles": [
-    "Templates/TEMPLATE - Project MOC.md",
     "PROJECTS/MSP/MSP - MOC.md",
+    "Notes/2023-03-07.md",
+    "Templates/TEMPLATE - Project MOC.md",
     "Home.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
@@ -336,7 +300,6 @@
     "ScratchPad/Scratch.md",
     "Home Canvas.canvas",
     "Notes/Archived_notes",
-    "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced",
     "Azure/Azure Documentation/Azure Docs - Networking - Setting u",
     "Azure/Azure Documentation/Azure Docs -",

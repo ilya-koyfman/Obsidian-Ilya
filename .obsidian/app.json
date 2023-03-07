@@ -7,5 +7,5 @@
   "livePreview": true,
   "readableLineLength": false,
   "trashOption": "local",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }

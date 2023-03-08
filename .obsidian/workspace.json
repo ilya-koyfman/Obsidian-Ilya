@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+                "file": "Notes/2023-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+                "file": "Notes/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+                "file": "Notes/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md"
+                "file": "Notes/2023-03-07.md"
               }
             }
           },
@@ -221,9 +221,9 @@
   },
   "active": "ef7ec3661d39e4bf",
   "lastOpenFiles": [
+    "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "Notes/2023-03-07.md",
     "MicrosoftLink.md",
-    "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "IMAGES/Pasted image 20230308144852.png",
     "Home.md",
     "Notes/Archived_notes/2023-02-27.md",

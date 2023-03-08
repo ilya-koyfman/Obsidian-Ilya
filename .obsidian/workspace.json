@@ -53,11 +53,9 @@
             "id": "7950866bb42eebe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
-                "mode": "source",
-                "source": false
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
               }
             }
           }
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md"
+                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
               }
             }
           },
@@ -221,13 +219,13 @@
   },
   "active": "7950866bb42eebe8",
   "lastOpenFiles": [
+    "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
     "Home.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
-    "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
     "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
     "ARCHIVE/Slipbox Notes",
     "PROJECTS/MSP/MSP - MOC.md",

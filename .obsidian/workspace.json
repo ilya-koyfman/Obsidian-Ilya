@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
+                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md",
+                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md",
+                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md"
+                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md"
               }
             }
           },
@@ -250,12 +249,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4769a99ae4591663",
+  "active": "7950866bb42eebe8",
   "lastOpenFiles": [
-    "PROJECTS/Intune/Notes/Technical Questions.md",
+    "Home.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Intune MOC.md",
-    "Home.md",
+    "PROJECTS/Intune/Notes/Technical Questions.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",

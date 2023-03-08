@@ -20,6 +20,7 @@ Synapse is broken down into two pieces.
 * **Synapse Workspace items** - #TODO 
 * **Synapse SQL**
 	* *Dedicated* SQL pools in Synapse run on units of 100cDWU, which means running a pool at DW2000c, mean we need 20 units to run it for the hour. [Microsoft Link](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/reservation-discount-azure-sql-dw)
+	* **Built-In SQL** uses and others would use [Synapse Commit Units](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/synapse-analytics-pre-purchase-plan)
 	* 
 
 ### Virtual Machines
@@ -28,6 +29,8 @@ Virtual machine pricing is based upon the size of the machine. Sizes are predefi
 EX
 ![[IMAGES/Pasted image 20230308144852.png]]
 
+#### Reservations
+* Virtual Machine Pricing 
 ### Databases
 
 #TODO 

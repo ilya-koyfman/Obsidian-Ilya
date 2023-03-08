@@ -35,3 +35,4 @@
 - [x] IP Info for Firewall? ✅ 2023-03-07
 - [ ] Inform MWO About new patching policies
 - [ ] Setup up Pulse VPN Access and Profiles
+- [ ] Talk to Ciso Global about keeping permissions updated in a shared location

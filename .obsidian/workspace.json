@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - MOC.md"
+                "file": "Home.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "7950866bb42eebe8",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
@@ -228,7 +229,6 @@
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",
     "Access, PROJECTS",
-    "PROJECTS/MSP/MSP - MOC.md",
     "Home.md",
     "Notes/2023-03-07.md",
     "Slipbox Notes/Intune Infra Readiness.md",

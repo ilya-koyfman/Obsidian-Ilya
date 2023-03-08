@@ -48,19 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7950866bb42eebe8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -217,8 +207,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7950866bb42eebe8",
+  "active": "f1e01578de1f1517",
   "lastOpenFiles": [
+    "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
     "Home.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
@@ -253,7 +244,6 @@
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "CISO GLOBABL Access Controls.md",
     "Untitled.md",
-    "Templates/TEMPLATE - Project MOC.md",
     "ARCHIVE",
     "Home Canvas.canvas",
     "IMAGES/Pasted image 20230302173058.png",

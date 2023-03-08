@@ -30,7 +30,10 @@ EX
 ![[IMAGES/Pasted image 20230308144852.png]]
 
 #### Reservations
-* Virtual Machine Pricing 
+* Virtual Machine Pricing is reserving the size of the machine for predefined amount of time. However, the cost only covers the computer meter, the windows meter (windows license) is not part of the price.
+	- [Microsoft Link](https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances)
+
+
 ### Databases
 
 #TODO 

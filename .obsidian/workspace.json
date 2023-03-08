@@ -55,32 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "5613a63a3023643e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2e600814d483788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,11 +219,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c2e600814d483788",
+  "active": "ef7ec3661d39e4bf",
   "lastOpenFiles": [
-    "IMAGES/Pasted image 20230308144852.png",
     "Notes/2023-03-07.md",
+    "MicrosoftLink.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+    "IMAGES/Pasted image 20230308144852.png",
     "Home.md",
     "Notes/Archived_notes/2023-02-27.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",

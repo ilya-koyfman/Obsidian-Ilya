@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md"
               }
             }
           },
@@ -221,8 +221,9 @@
   },
   "active": "ef7ec3661d39e4bf",
   "lastOpenFiles": [
-    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+    "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Home.md",
     "Notes/2023-03-07.md",
@@ -254,7 +255,6 @@
     "PROJECTS/Intune",
     "PROJECTS/OS Upgrade",
     "PROJECTS/Azure/Azure Documentation Home.md",
-    "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "CISO GLOBABL Access Controls.md",
     "Untitled.md",
     "Home Canvas.canvas",

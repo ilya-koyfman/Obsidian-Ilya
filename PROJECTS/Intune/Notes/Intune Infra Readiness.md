@@ -27,4 +27,4 @@ Planning -
 - [ ] Define Production Machines
 
 
-[[PROJECTS/Intune/Notes/Techninical Questions]]
+[[PROJECTS/Intune/Notes/Technical Questions]]

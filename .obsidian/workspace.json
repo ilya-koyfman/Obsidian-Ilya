@@ -86,14 +86,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Techninical Questions.md",
+                "file": "PROJECTS/Intune/Notes/Technical Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Techninical Questions.md",
+                "file": "PROJECTS/Intune/Intune MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Techninical Questions.md",
+                "file": "PROJECTS/Intune/Intune MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Techninical Questions.md"
+                "file": "PROJECTS/Intune/Intune MOC.md"
               }
             }
           },
@@ -251,11 +250,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c4fedfb4a005efa6",
+  "active": "4769a99ae4591663",
   "lastOpenFiles": [
-    "PROJECTS/Intune/Intune MOC.md",
-    "PROJECTS/Intune/Notes/Techninical Questions.md",
+    "PROJECTS/Intune/Notes/Technical Questions.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
+    "PROJECTS/Intune/Intune MOC.md",
     "Home.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",

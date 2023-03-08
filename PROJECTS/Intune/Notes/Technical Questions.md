@@ -10,4 +10,3 @@ project: intune
 * What is the recommended best practice for handling creating and removing local admin accounts in Intune?
 	* How are passwords handled
 
-* 

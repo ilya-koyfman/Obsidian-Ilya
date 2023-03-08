@@ -33,4 +33,6 @@ where contains(note_type, "t_note")
 ---
 
 ###### Project Documents/Links
-
+* [Planning guide to move to Microsoft Intune | Microsoft Learn](https://learn.microsoft.com/en-us/mem/intune/fundamentals/intune-planning-guide)
+* [Migration guide to Microsoft Intune | Microsoft Learn](https://learn.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-intune-setup#deploy-intune)
+* [Migration guide to Microsoft Intune | Microsoft Learn](https://learn.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-intune-setup#deploy-intune)

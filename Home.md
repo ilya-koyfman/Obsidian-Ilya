@@ -56,13 +56,12 @@ tag include backburner
 
 ---
 ## Completed Tasks this month
-```dataview 
-TABLE WITHOUT ID
-	Tasks.text As TaskName,
-	Tasks.due AS "Due Date", 
-	Tas
-	Tasks.link as "Link"
-FROM "PROJECTS" 
-WHERE !Tasks.completed
-SORT "Due Date" DESC
-FLATTEN file.tasks AS Tasks
+```tasks
+done
+path includes PROJECTS
+```
+
+```tasks
+done
+path includes PROJECTS
+```

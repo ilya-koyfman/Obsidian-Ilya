@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Slipbox Notes/Intune Infra Readiness.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Slipbox Notes/Intune Infra Readiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "Slipbox Notes/Intune Infra Readiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-07.md"
+                "file": "Slipbox Notes/Intune Infra Readiness.md"
               }
             }
           },
@@ -221,12 +221,18 @@
   },
   "active": "9f8465475be5aa2a",
   "lastOpenFiles": [
+    "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
+    "ScratchPad/Dave Reidy SFTP STRUCTURE.md",
+    "Slipbox Notes/BackBurner 3-6-2023.md",
+    "ScratchPad/Scratch.md",
+    "Notes/Archived_notes/2023-03-03.md",
+    "Notes/Archived_notes/2023-02-27.md",
+    "Notes/2023-03-07.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "ARCHIVE/MSP/Discussions/Access Control Policies Definitions.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-    "Notes/2023-03-07.md",
     "PROJECTS/Azure/Notes",
     "PROJECTS/Intune/Notes",
     "PROJECTS/OS Upgrade/Notes",
@@ -241,19 +247,13 @@
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "CISO GLOBABL Access Controls.md",
     "Untitled.md",
-    "Notes/Archived_notes/2023-03-03.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
     "Templates/TEMPLATE - Project Tech Notes.md",
     "Templates/TEMPLATE-Daily Notes.md",
-    "Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
-    "Slipbox Notes/Retention Backups tape.md",
-    "Slipbox Notes/BackBurner 3-6-2023.md",
     "ARCHIVE",
-    "Notes/Archived_notes/2023-03-06.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
-    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES",
     "PROJECTS/MSP",
     "PROJECTS",

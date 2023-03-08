@@ -63,36 +63,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "7dc17b5574dd6bec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4769a99ae4591663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/Intune/Intune MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4fedfb4a005efa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/Intune/Notes/Technical Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

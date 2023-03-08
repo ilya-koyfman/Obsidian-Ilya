@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouseChimneyCrack",
       "RiStickyNoteFill",
       "RiFolder2Fill",
       "FasFolderTree",
-      "FasBoxArchive",
-      "RiHammer-line"
+      "FasBoxArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "ARCHIVE": "FasBoxArchive",
   "PROJECTS/Azure": "RiFolder2Fill",
   "PROJECTS/OS Upgrade": "RiFolder2Fill",
-  "PROJECTS/Intune": "RiFolder2Fill"
+  "PROJECTS/Intune": "RiFolder2Fill",
+  "Home.md": "FasHouseChimneyCrack"
 }

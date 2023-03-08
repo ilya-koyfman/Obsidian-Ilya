@@ -1,7 +1,7 @@
 ---
-tags: []
+tags: [intune]
 date: 2023-03-06
-project: 
+project: intune
 note_type: MOC
 ---
 > [!danger]

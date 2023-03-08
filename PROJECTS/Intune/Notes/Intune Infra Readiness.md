@@ -25,3 +25,6 @@ Planning -
 - [ ] Define Pilot Group
 - [ ] Deploy Pilot Group
 - [ ] Define Production Machines
+
+
+[[PROJECTS/Intune/Notes/Techninical Questions]]

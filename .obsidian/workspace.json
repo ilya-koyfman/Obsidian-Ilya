@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "Home.md"
               }
             }
           },
@@ -221,12 +221,13 @@
   },
   "active": "ef7ec3661d39e4bf",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - MOC.md",
+    "Home.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-    "Home.md",
     "Notes/2023-03-07.md",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
@@ -238,7 +239,6 @@
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
     "ARCHIVE/Slipbox Notes",
-    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",

@@ -13,12 +13,22 @@ Azure pricing is usually **Pay-As-You-Go**, but resources within Azure can also 
 ### Synapse
 
 Synapse is broken down into two pieces. 
-* Synapse Workspace items would refer to pipeline runs, data transformations, and other actions that might refer to the ETL 
-* Synapse SQL refers to the Dedicated or built-in SQL server needed for Synapse operations. In the ASPCA we are using dedicated SQL
+* **Synapse Workspace items** would refer to pipeline runs, data transformations, and other actions that might refer to the ETL 
+* **Synapse SQL** refers to the Dedicated or built-in SQL server needed for Synapse operations. In the ASPCA we are using dedicated SQL
+
+#### Reservations
+* **Synapse Workspace items** - #TODO 
+* **Synapse SQL**
+	* *Dedicated* SQL pools in Synapse use credits per hour to run per
 
 ### Virtual Machines
 
-Virtual machine pricing is based upon the size of the machine. Sizes are predefined by Microsoft for Computer and Memory 
+Virtual machine pricing is based upon the size of the machine. Sizes are predefined by Microsoft for CPU and Memory sizing.
+EX
+![[IMAGES/Pasted image 20230308144852.png]]
+
+### Databases
+
+#TODO 
 
 
-## Action Items

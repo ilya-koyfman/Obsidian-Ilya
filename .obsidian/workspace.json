@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -55,14 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/Archived_notes/2023-02-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +218,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ef7ec3661d39e4bf",
+  "active": "4ec2f80944919000",
   "lastOpenFiles": [
+    "Notes/Archived_notes/2023-02-27.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "Home.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
@@ -246,7 +246,6 @@
     "Slipbox Notes/BackBurner 3-6-2023.md",
     "ScratchPad/Scratch.md",
     "Notes/Archived_notes/2023-03-03.md",
-    "Notes/Archived_notes/2023-02-27.md",
     "ARCHIVE/MSP/Discussions/Access Control Policies Definitions.md",
     "PROJECTS/Azure/Notes",
     "PROJECTS/Intune/Notes",

@@ -63,5 +63,6 @@ path includes PROJECTS
 
 ```tasks
 done
-path includes PROJECTS
+path includes Notes
+path does not include ARCHIVE
 ```

@@ -14,3 +14,6 @@ As Described in [[PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed]]
 # Preferred Methods
 Ciso Global will adhere to all the preferred methods in the previous [[PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed#Access Device Details| Devices and Preferred Methods]]
 
+
+# Scenarios
+1. Ciso Global 

@@ -3,7 +3,7 @@
   "cssTheme": "Minimal",
   "nativeMenus": false,
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 11,
   "interfaceFontFamily": "",
   "textFontFamily": "JetBrainsMono NF",
   "monospaceFontFamily": "JetBrainsMonoMedium Nerd Font Mono"

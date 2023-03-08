@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
                 "mode": "preview",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md"
               }
             }
           },
@@ -218,8 +218,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7950866bb42eebe8",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
+    "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
+    "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
+    "ARCHIVE/Slipbox Notes",
+    "Home.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
@@ -229,11 +233,10 @@
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",
     "Access, PROJECTS",
-    "Home.md",
     "Notes/2023-03-07.md",
     "Slipbox Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
-    "ScratchPad/Dave Reidy SFTP STRUCTURE.md",
+    "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "Slipbox Notes/BackBurner 3-6-2023.md",
     "ScratchPad/Scratch.md",
     "Notes/Archived_notes/2023-03-03.md",
@@ -248,14 +251,11 @@
     "PROJECTS/OS Upgrade",
     "PROJECTS/Azure/Azure Documentation Home.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
-    "Slipbox Notes/Work Goals - 2023.md",
     "CISO GLOBABL Access Controls.md",
     "Untitled.md",
     "Templates/TEMPLATE - Project MOC.md",
     "Templates/TEMPLATE - Project Meeting Notes.md",
-    "Templates/TEMPLATE - Project Tech Notes.md",
     "ARCHIVE",
-    "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "Home Canvas.canvas",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",

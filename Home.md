@@ -20,6 +20,7 @@ scheduled after 2023-02-28
 status.type is not DONE
 status.name does not include Cancelled
 tags do not include #MSP 
+tags do not include #backburner  
 path includes notes
 heading does not include Important Tasks
 ```

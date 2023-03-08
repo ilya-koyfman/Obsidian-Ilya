@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -221,9 +221,9 @@
   },
   "active": "ef7ec3661d39e4bf",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
-    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Home.md",

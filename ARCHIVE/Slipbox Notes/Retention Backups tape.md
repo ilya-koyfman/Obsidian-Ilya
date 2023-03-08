@@ -36,5 +36,4 @@ What servers did we have at 2015?
 8th Ave Last back up was April 2016
 
 - [x] #TODO Create ticket for Retention Discussion 🛫 2023-03-06 ⏳ 2023-03-02 ✅ 2023-03-06
-	- [ ] Creation content search on Gio's inbox for two email address in 2015 8thavebackup@aspca.org and 92ndstbackup@aspca.org
-	- Collate for Gio to help make sense
+

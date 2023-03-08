@@ -10,7 +10,7 @@ project: MSP
 #### Summary
 The purpose of this is to help define what the Access Control Policies for the ASPCA would be with vendors. It would define how vendors access
 
-* ASPCA Network
+* ASPCA Network/Network Devices
 * ASPCA Devices
 * Applications (On-Prem or Cloud)
 

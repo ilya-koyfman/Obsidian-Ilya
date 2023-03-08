@@ -50,12 +50,12 @@
             }
           },
           {
-            "id": "53fbaf4faa7e4634",
+            "id": "ef7ec3661d39e4bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARCHIVE/Slipbox Notes/Retention Backups tape.md"
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
               }
             }
           },
@@ -219,15 +219,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "53fbaf4faa7e4634",
+  "active": "ef7ec3661d39e4bf",
   "lastOpenFiles": [
+    "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "Home.md",
+    "Notes/2023-03-07.md",
+    "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
-    "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
-    "Home.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",
@@ -236,12 +238,10 @@
     "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
     "ARCHIVE/Slipbox Notes",
     "PROJECTS/MSP/MSP - MOC.md",
-    "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",
     "Access, PROJECTS",
-    "Notes/2023-03-07.md",
     "Slipbox Notes/BackBurner 3-6-2023.md",
     "ScratchPad/Scratch.md",
     "Notes/Archived_notes/2023-03-03.md",

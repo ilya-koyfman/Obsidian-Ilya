@@ -19,7 +19,7 @@ project:
 4. Ticket flow is design showed off. Looks good
 5. Talked about Network Access. 
 - [ ] Ilya going to make Pulse VPN Profiles
-6. 
+6. Shared Workspace between Ciso Global - ASPCA
 
 
 ## Action Items

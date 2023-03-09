@@ -72,9 +72,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b019036b68518102",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2023-03-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "Notes/2023-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "Notes/2023-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md"
+                "file": "Notes/2023-03-09.md"
               }
             }
           },
@@ -231,8 +245,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e116a71a1c406cea",
+  "active": "b019036b68518102",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "Home.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
@@ -245,7 +260,6 @@
     "Notes/Archived_notes/2023-02-27.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
-    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",

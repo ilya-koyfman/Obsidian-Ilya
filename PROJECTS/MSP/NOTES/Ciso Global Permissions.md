@@ -17,4 +17,6 @@ Ciso Global will adhere to all the preferred methods in the previous [[PROJECTS/
 
 # SPECIFICS
 ## Pulse VPN
-* User Profile:
+* User Profile
+	* Subnet Access Control Firewall subnets
+		- [ ] Singkwan owes me Firewall subnets

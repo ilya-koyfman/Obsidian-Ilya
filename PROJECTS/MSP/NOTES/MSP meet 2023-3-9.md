@@ -6,15 +6,15 @@ project:
 ---
 
 > [!info]+
->Attendees: 
+>
 
 
 ## Summary
-1. Talked about all datto tasks. Just waiting on Datto Engineers
-2. API keys might not be able avaliable
+
 
 ## Notes
-* 
+* 1. Talked about all datto tasks. Just waiting on Datto Engineers
+2. API keys might not be able avaliable
 
 
 ## Action Items
@@ -23,3 +23,4 @@ project:
 tags include #MSP 
 status.type is not DONE
 ```
+

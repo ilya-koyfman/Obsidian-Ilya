@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -55,7 +55,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "33140343f96d420e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e116a71a1c406cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,16 +238,18 @@
   },
   "active": "4ec2f80944919000",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
+    "Home.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "Notes/2023-03-07.md",
     "MicrosoftLink.md",
     "IMAGES/Pasted image 20230308144852.png",
-    "Home.md",
     "Notes/Archived_notes/2023-02-27.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
@@ -243,7 +262,6 @@
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
     "ARCHIVE/Slipbox Notes",
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",
     "Access, PROJECTS",
@@ -257,7 +275,6 @@
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "PROJECTS/Intune",
     "PROJECTS/OS Upgrade",
-    "PROJECTS/Azure/Azure Documentation Home.md",
     "Home Canvas.canvas",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",

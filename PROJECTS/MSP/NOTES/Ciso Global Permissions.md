@@ -15,12 +15,6 @@ As Described in [[PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed]]
 Ciso Global will adhere to all the preferred methods in the previous [[PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed#Access Device Details| Devices and Preferred Methods]]
 
 
-# Permissions
-* Network Devices
-	* What groups have access and what they need
-* Workstation Devices
-	* What groups have access and what they need
-* Applications
-	* Office Below
-	* More to come
-
+# SPECIFICS
+## Pulse VPN
+* User Profile:

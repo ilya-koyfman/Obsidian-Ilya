@@ -20,6 +20,8 @@ project:
 5. Talked about Network Access. 
 - [ ] Ilya going to make Pulse VPN Profiles
 6. Shared Workspace between Ciso Global - ASPCA
+7. Application List - Javier moved away from it
+8. 
 
 
 ## Action Items

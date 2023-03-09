@@ -1,9 +1,9 @@
 {
   "accentColor": "#8b70e6",
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Minimal",
   "nativeMenus": false,
-  "theme": "obsidian",
-  "baseFontSize": 17,
+  "theme": "moonstone",
+  "baseFontSize": 20,
   "interfaceFontFamily": "",
   "textFontFamily": "JetBrainsMono NF",
   "monospaceFontFamily": "JetBrainsMonoMedium Nerd Font Mono"

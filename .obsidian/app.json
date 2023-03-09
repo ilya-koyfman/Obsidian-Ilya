@@ -5,7 +5,7 @@
   "attachmentFolderPath": "IMAGES",
   "alwaysUpdateLinks": true,
   "livePreview": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "trashOption": "local",
   "newLinkFormat": "absolute",
   "pdfExportSettings": {

@@ -60,13 +60,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "33140343f96d420e",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e116a71a1c406cea",
             "type": "leaf",
@@ -79,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,8 +234,8 @@
   "active": "e116a71a1c406cea",
   "lastOpenFiles": [
     "Home.md",
-    "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "Notes/2023-03-07.md",

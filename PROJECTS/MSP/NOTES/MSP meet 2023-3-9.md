@@ -16,7 +16,10 @@ project:
 * 1. Talked about all datto tasks. Just waiting on Datto Engineers
 2. API keys might not be able avaliable
 3. Ticket Queues will be discussed, CISO Global needs examples of tickets
-4. Ticket flow is designed 
+4. Ticket flow is design showed off. Looks good
+5. Talked about Network Access. 
+- [ ] Ilya going to make Pulse VPN Profiles
+6. 
 
 
 ## Action Items

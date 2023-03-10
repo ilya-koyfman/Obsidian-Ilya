@@ -18,3 +18,5 @@ project:
 
 
 ## Action Items
+- [ ] Write down requirements for Intune Compliance Policy for pilot #intune 
+- [ ] 

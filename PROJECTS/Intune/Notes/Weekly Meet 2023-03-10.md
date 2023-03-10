@@ -23,7 +23,17 @@ project:
 TYPE: Windows 10/11
 * Custom Compliance - Skipping
 * Device Health
-	* R
+	* Require Bitlocker - True
+	* Require Secure Boot - True (we don't turn off Secure Boot)
+	* Require Code Integrity ?????
+* Device Properties
+	* Minimum OS - Skipping
+	* Maximum OS - SKipping
+	* Minimum OS Mobile - Skipping
+	* Maximum OS Mobile - Skipping
+* Configuration Manager - Skipping
+* System Security - S
+	* 
 
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?

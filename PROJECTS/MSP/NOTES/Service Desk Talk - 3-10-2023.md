@@ -20,12 +20,26 @@ L1 ---> |Solved| SendBack_ToZenDesk
 L1 ---> |Not Solved| L2
 L2 ---> |Solved| SendBack_ToZenDesk
 L2 ---> |Not Solved| L3
-L2 ---> |Solved| SendBack_ToZenDesk
+L3 ---> |Solved| SendBack_ToZenDesk
+L3 ---> |Not Solved| ESCALTE
+SendBack_ToZenDesk ---> CLOSE_TICKET
 ```
 
 
 ## Notes
-* 
+
+Types of Tickets to CISO
+
+
+### ASPCA Tickets
+1. E-Discovery (Content Search)
+2. 
+
+### CISO Tickets
+1. Distribution List
+2. Vendors Escalation
+3. SA Queue Tickets - General Tickets
+
 
 
 ## Action Items

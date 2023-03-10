@@ -51,6 +51,7 @@ status.type is not DONE
 ## Backburner stuff
 ```tasks
 tag include backburner
+status.type is not DONE
 ```
 
 

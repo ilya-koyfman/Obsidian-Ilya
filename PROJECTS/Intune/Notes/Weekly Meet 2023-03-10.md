@@ -90,7 +90,14 @@ Fixed Drive Settings
 * Not Configured
 OS Drive Settings
 * Configure
-	* Startup Configured - 
+	* Startup Configured
+		* Pin - False
+		* Key - False
+		* TPM - True
+	* Disable Bitlocker on devices - Not Configured
+	* Enable Preboot recovery message and url - TRUE
+	* 
+
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?
 - [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 

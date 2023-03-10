@@ -102,3 +102,4 @@ OS Drive Settings
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?
 - [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 
 	- [Enrollment for hybrid Azure AD-joined devices - Windows Autopilot | Microsoft Learn](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot-hybrid)
+[[PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023]]

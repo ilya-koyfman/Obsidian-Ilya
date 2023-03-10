@@ -39,7 +39,12 @@ TYPE: Windows 10/11
 	* Antivirus - True
 	* Antispyware - Skipping ???
 
-Requirements for Configuration 
+Requirements for Configuration
+Windows 10 Machine -
+* Above Lock - Skipping
+* Accounts - To Review
+* Admin Templates - Later
+* 
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?
 - [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 

@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-09.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-09.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-09.md"
+                "file": "Home.md"
               }
             }
           },
@@ -245,13 +245,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b019036b68518102",
+  "active": "e116a71a1c406cea",
   "lastOpenFiles": [
+    "Notes/2023-03-10.md",
+    "Home.md",
+    "PROJECTS/Intune/Intune MOC.md",
+    "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
+    "PROJECTS/Intune/Notes/Technical Questions.md",
+    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
+    "Notes/2023-03-09.md",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "Home.md",
-    "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
@@ -267,10 +272,6 @@
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
-    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
-    "PROJECTS/Intune/Intune MOC.md",
-    "PROJECTS/Intune/Notes/Technical Questions.md",
-    "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
     "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
     "ARCHIVE/Slipbox Notes",

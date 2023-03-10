@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-10.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-10.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-10.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-10.md"
+                "file": "Home.md"
               }
             }
           },
@@ -247,8 +247,8 @@
   },
   "active": "e116a71a1c406cea",
   "lastOpenFiles": [
-    "Home.md",
     "Notes/2023-03-10.md",
+    "Home.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",

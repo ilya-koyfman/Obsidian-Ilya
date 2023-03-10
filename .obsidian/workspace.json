@@ -105,8 +105,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-                "mode": "source",
+                "file": "Notes/2023-03-10.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+                "file": "Notes/2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+                "file": "Notes/2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md"
+                "file": "Notes/2023-03-10.md"
               }
             }
           },
@@ -272,8 +272,9 @@
   },
   "active": "adc6126206b6d658",
   "lastOpenFiles": [
-    "Home.md",
+    "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+    "Home.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Notes/2023-03-07.md",
     "Notes/2023-03-10.md",
@@ -281,7 +282,6 @@
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
-    "Notes/2023-03-09.md",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",

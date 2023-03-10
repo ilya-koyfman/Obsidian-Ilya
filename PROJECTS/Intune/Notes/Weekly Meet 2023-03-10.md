@@ -32,8 +32,12 @@ TYPE: Windows 10/11
 	* Minimum OS Mobile - Skipping
 	* Maximum OS Mobile - Skipping
 * Configuration Manager - Skipping
-* System Security - S
-	* 
+* [ ] System Security - Carmine to read about this
+	* Encryption - Skipping
+	* Firewall - Skipping (Sentintel One?)
+	* TPM - Skipping (We still have 1.2 TPM devices)
+	* Antivirus - True
+	* Antispyware - Skipping ???
 
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?

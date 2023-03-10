@@ -44,6 +44,13 @@ Windows 10 Machine -
 * Above Lock - Skipping
 * Accounts - To Review
 * Admin Templates - Later
+* Application Defaults
+	* Default Ass configs - Maybe?
+	* Enable App Uri Handlers - ENABLE
+* Auditing - Review
+* Authentication - Review
+* Bitlocker - Skipping
+* Bits - Skipping
 * 
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?

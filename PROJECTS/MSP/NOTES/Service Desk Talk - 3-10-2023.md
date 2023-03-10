@@ -14,8 +14,13 @@ project:
 flowchart TD 
 ServiceTicket ---> ASPCA_HelpDesk
 ASPCA_HelpDesk ---> SA
-ASPCA_HelpDesk ---> CISO_GLOBAL ---> [AUTOTASK]
+ASPCA_HelpDesk ---> CISO_GLOBAL ---> AUTOTASK
 AUTOTASK ---> L1 ---> L2 --> L3
+L1 ---> |Solved| SendBack_ToZenDesk
+L1 ---> |Not Solved| L2
+L2 ---> |Solved| SendBack_ToZenDesk
+L2 ---> |Not Solved| L3
+L2 ---> |Solved| SendBack_ToZenDesk
 ```
 
 

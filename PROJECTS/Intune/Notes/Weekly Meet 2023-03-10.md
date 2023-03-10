@@ -60,7 +60,17 @@ Windows 10 Machine -
 * Control Policy Conflict - REVIEW
 * Converters
 * Credential Providers
-* Crpy
+* Cryptography - REVIEW
+* Data Protection - Skipping
+* Defender - Skipping
+* Delivery Optimization - Skipping
+* Device Control - Skipping
+* Device Guard - Skipping for now
+* Device Health Monitoring - Skipping
+* Device Lock -
+	* Enforece Lock Screen and logon Image
+* Display - Skipping
+* 
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?
 - [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 

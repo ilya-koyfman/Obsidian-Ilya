@@ -51,7 +51,16 @@ Windows 10 Machine -
 * Authentication - Review
 * Bitlocker - Skipping
 * Bits - Skipping
-* 
+* Bluetooth - Skipping
+* Browser - Skipping for now
+* Camera - Skipping
+* Cellular - Skipping
+* Cloud Desktop - Skipping
+* Connectivity - Skipping for now
+* Control Policy Conflict - REVIEW
+* Converters
+* Credential Providers
+* Crpy
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?
 - [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 

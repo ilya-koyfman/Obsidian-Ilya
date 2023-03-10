@@ -41,13 +41,19 @@ Types of Tickets to CISO
 ### CISO Tickets
 1. Distribution List
 2. Vendors Escalation
+	1. ISP
+	2. Microsoft
+	3. Fortinet Support
+	4. Meraki Support
 3. SA Queue Tickets - General Tickets
 4. Server Certificate Renewal
 5. Okta Provisioning??
 6. Server Monitoring & Remediation
 7. Patching 
 	1. Off Hours Patching
-8. Netwo
+8. Networking Monitoring
+9. Backups
+
 
 
 

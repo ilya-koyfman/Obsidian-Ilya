@@ -32,13 +32,22 @@ Types of Tickets to CISO
 
 
 ### ASPCA Tickets
-1. E-Discovery (Content Search)
-2. 
+1. Legal E-Discovery (Content Search across Apps)
+2. SPAM
+3. Domain Management (DNS/Registrar/SSL)
+4. Okta Application Administrator
+5. Project Work ---> CISO if needed
 
 ### CISO Tickets
 1. Distribution List
 2. Vendors Escalation
 3. SA Queue Tickets - General Tickets
+4. Server Certificate Renewal
+5. Okta Provisioning??
+6. Server Monitoring & Remediation
+7. Patching 
+	1. Off Hours Patching
+8. Netwo
 
 
 

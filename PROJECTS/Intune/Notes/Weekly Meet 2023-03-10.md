@@ -78,7 +78,20 @@ Windows 10 Machine -
 * esim - Skip
 * Experience - REVIEW BIG
 	* 
-* 
+
+
+BITLOCKER POLICY DEFINED
+Base Settings
+* Enable Full Disk Encr - True
+* Storage Cards - Skipping
+* Hide prompt about third - party 
+* Configure Rotation of keys - skiping
+Fixed Drive Settings
+* Not Configured
+OS Drive Settings
+* Configure
+	* Startup Configured - 
+
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?
 - [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 
 	- [Enrollment for hybrid Azure AD-joined devices - Windows Autopilot | Microsoft Learn](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot-hybrid)

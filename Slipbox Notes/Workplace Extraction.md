@@ -6,7 +6,8 @@ Below are the available options that we can use to export data from Workplace, a
 ### File options
 
 * Workplace only gives two options for when exporting user data; HTML or JSON.
-	* HTML will create a folder structure of how data would look on the website. It will include all posted media as well.
+	* HTML will create a folder structure of how data would look on the website. It will include all posted media as well. 
+	![[IMAGES/Pasted image 20230313105652.png]]
 	* #TODO JSON
 * After selecting the export type, a data range is required.
 

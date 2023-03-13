@@ -9,5 +9,8 @@
   "shimmering-focus@@highlight-hue-1": 260,
   "shimmering-focus@@clean-embeds": false,
   "shimmering-focus@@no-floating-metadata": false,
-  "shimmering-focus@@bg-hue-dark": 220
+  "shimmering-focus@@bg-hue-dark": 220,
+  "id@@colorblind_protan-deutan": false,
+  "id@@colorblind_tritan": false,
+  "id@@headers-one-color": false
 }

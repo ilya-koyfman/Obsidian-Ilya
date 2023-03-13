@@ -1,7 +1,4 @@
 
-## MSP
-
-
 #### End User Side
 - [ ] Workstation Migration project still needs planning #MSP 
 - [x] New Icon for Datto Agent in CISO Global #msp ✅ 2023-03-03

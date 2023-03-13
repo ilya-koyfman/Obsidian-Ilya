@@ -37,3 +37,4 @@
 - [ ] Setup up Pulse VPN Access and Profiles
 - [ ] Talk to Ciso Global about keeping permissions updated in a shared location
 - [x] Email Steve Schidmt about weekly meetings 📅 2023-03-08 ✅ 2023-03-08
+- [ ] STEVE - Who needs access to and what level 

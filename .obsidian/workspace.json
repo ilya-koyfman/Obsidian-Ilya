@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-13.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-13.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-13.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-13.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -283,8 +283,9 @@
   },
   "active": "ed93eca1c721ed4b",
   "lastOpenFiles": [
-    "Notes/2023-03-10.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Notes/2023-03-13.md",
+    "Notes/2023-03-10.md",
     "Home.md",
     "Slipbox Notes/BackBurner.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
@@ -301,7 +302,6 @@
     "IMAGES/Pasted image 20230309142326.png",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "MicrosoftLink.md",

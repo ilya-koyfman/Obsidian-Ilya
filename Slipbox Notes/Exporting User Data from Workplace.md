@@ -21,3 +21,7 @@ Below are the available options that we can use to export data from Workplace, a
 	* Problem Reports - Information user provided to report a problem.
 	* Groups - Groups user belong to, groups user manages and posts and comments within the groups.
 	* Security and Login Information - A history of the user logins, logouts, periods of time that the user has been active on Workplace and the devices used to access Workplace.
+	* Navigation Bar - A menu that includes shortcuts to things like notifications or Groups
+	* Profile Information - Your contact information and information that you've written in your 'About you' section in your profile
+	* Following and Followers – People user follows and people who follow the user
+	* Search – A history of searches performed by the user                                                                           |

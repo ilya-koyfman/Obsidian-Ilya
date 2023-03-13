@@ -16,7 +16,22 @@
 	- [ ] Schedule call with Internal IT - Carmine ⏳ 2023-03-07
 	- Security Levels - Talk with HD about things they won't be able to do with machines #MSP
 
-- [ ] What are some of the tasks we want CISO Global?
+
+
+
+#### Operations Side
+- [ ] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[PROJECTS/MSP/NOTES/Access Control Policies Defintions Note]]
+	- [x] Request Enterprise Art* to join design here. ✅ 2023-03-07
+- [x] Meraki Portal Access ✅ 2023-03-07
+- [x] IP Info for Firewall? ✅ 2023-03-07
+- [ ] Inform MWO About new patching policies
+- [x] Setup up Pulse VPN Access and Profiles ✅ 2023-03-13
+- [ ] Talk to Ciso Global about keeping permissions updated in a shared location
+- [x] Email Steve Schidmt about weekly meetings 📅 2023-03-08 ✅ 2023-03-08
+- [ ] STEVE - Who needs access to and what level 
+
+
+### What are some of the tasks we want CISO Global?
 * Server Tasks
 	* Patch maintenance
 	* Metric monitoring
@@ -28,13 +43,3 @@
 	* #NEEDMORE 
 * Workstation Tasks
 	* #NEEDMORE 
-#### Operations Side
-- [ ] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[PROJECTS/MSP/NOTES/Access Control Policies Defintions Note]]
-	- [x] Request Enterprise Art* to join design here. ✅ 2023-03-07
-- [x] Meraki Portal Access ✅ 2023-03-07
-- [x] IP Info for Firewall? ✅ 2023-03-07
-- [ ] Inform MWO About new patching policies
-- [ ] Setup up Pulse VPN Access and Profiles
-- [ ] Talk to Ciso Global about keeping permissions updated in a shared location
-- [x] Email Steve Schidmt about weekly meetings 📅 2023-03-08 ✅ 2023-03-08
-- [ ] STEVE - Who needs access to and what level 

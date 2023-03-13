@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed93eca1c721ed4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-10.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-10.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-10.md"
+                "file": "Home.md"
               }
             }
           },
@@ -269,10 +281,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "adc6126206b6d658",
+  "active": "ed93eca1c721ed4b",
   "lastOpenFiles": [
-    "Home.md",
     "Notes/2023-03-10.md",
+    "Home.md",
     "Notes/2023-03-13.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",

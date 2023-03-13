@@ -1,7 +1,7 @@
 # Options
 
 Below are the available options that we can use to export data from Workplace, as well as the type of data to extract from Workplace. 
-* Please note, Admins can't export data for users without setting up 
+* Please note, Admins can't export data for users without impersonation. Admin exports would require writing API calls to do the same objective.
 
 ## Download Options
 

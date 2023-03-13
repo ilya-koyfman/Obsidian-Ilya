@@ -122,21 +122,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4097a4dbd7cb1818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slipbox Notes/Workplace Extraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -221,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox Notes/Workplace Extraction.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox Notes/Workplace Extraction.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox Notes/Workplace Extraction.md"
+                "file": "Home.md"
               }
             }
           },
@@ -293,11 +281,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4097a4dbd7cb1818",
+  "active": "ed93eca1c721ed4b",
   "lastOpenFiles": [
+    "Slipbox Notes/Exporting User Data from Workplace.md",
     "IMAGES/Pasted image 20230313105652.png",
     "Home.md",
-    "Slipbox Notes/Workplace Extraction.md",
     "Notes/2023-03-10.md",
     "Notes/2023-03-13.md",
     "Notes/2023-03-09.md",

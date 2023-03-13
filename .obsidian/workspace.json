@@ -122,9 +122,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4097a4dbd7cb1818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slipbox Notes/Workplae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Slipbox Notes/Workplae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Slipbox Notes/Workplae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Slipbox Notes/Workplae.md"
               }
             }
           },
@@ -281,10 +293,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ed93eca1c721ed4b",
+  "active": "4097a4dbd7cb1818",
   "lastOpenFiles": [
-    "Notes/2023-03-10.md",
     "Home.md",
+    "Slipbox Notes/Workplae.md",
+    "Notes/2023-03-10.md",
     "Notes/2023-03-13.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
@@ -312,7 +325,6 @@
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes/Dave Reidy SFTP STRUCTURE.md",
-    "ARCHIVE/Slipbox Notes/Work Goals - 2023.md",
     "ARCHIVE/Slipbox Notes",
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",

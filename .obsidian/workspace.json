@@ -105,13 +105,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-10.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,8 +177,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,11 +269,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4ec2f80944919000",
+  "active": "adc6126206b6d658",
   "lastOpenFiles": [
+    "Notes/2023-03-13.md",
+    "Home.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "Home.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Notes/2023-03-07.md",
     "Notes/2023-03-10.md",
@@ -304,7 +305,6 @@
     "Access, PROJECTS/MSP/NOTES",
     "Access, PROJECTS/MSP",
     "Access, PROJECTS",
-    "Slipbox Notes/BackBurner 3-6-2023.md",
     "PROJECTS/Azure/Notes",
     "PROJECTS/Intune/Notes",
     "PROJECTS/OS Upgrade/Notes",

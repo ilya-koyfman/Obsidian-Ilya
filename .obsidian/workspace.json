@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
+                "file": "Notes/2023-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
+                "file": "Notes/2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
+                "file": "Notes/2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks.md"
+                "file": "Notes/2023-03-10.md"
               }
             }
           },
@@ -283,15 +283,15 @@
   },
   "active": "679adb248006cc35",
   "lastOpenFiles": [
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "Home.md",
     "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Notes/2023-03-09.md",
     "Notes/2023-03-10.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "Home.md",
     "Notes/2023-03-07.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Notes/2023-03-13.md",

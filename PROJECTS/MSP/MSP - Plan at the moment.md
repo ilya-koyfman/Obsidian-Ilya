@@ -34,6 +34,7 @@
 	- Shared Machine
 - [ ] Blocking Windows 11 till on Datto
 - [ ] Shutdown to be removed
+- [ ] Description field, can we edit this?
 
 
 ### What are some of the tasks we want CISO Global?

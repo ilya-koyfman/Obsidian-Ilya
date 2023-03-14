@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "ef7ec3661d39e4bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "70ce87de4dd6920e",
             "type": "leaf",
             "state": {
@@ -123,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md"
               }
             }
           },
@@ -281,13 +270,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f04ef8469680a73d",
+  "active": "70ce87de4dd6920e",
   "lastOpenFiles": [
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "Home.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "Notes/2023-03-13.md",
     "Notes/2023-03-10.md",
-    "Home.md",
     "Slipbox Notes/BackBurner.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
     "IMAGES/Pasted image 20230313105652.png",
@@ -308,7 +298,6 @@
     "MicrosoftLink.md",
     "IMAGES/Pasted image 20230308144852.png",
     "Notes/Archived_notes/2023-02-27.md",
-    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",

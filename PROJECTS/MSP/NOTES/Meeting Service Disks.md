@@ -28,6 +28,5 @@ project:
 * 
 ## Action Items
 - [ ] Ilya to get ticket samples
-- [ ] Vendor escaltion path
+- [ ] Need list of Vendors for Escalation path
 - [ ] How do we accounts in INAP and other accounts?
-- [ ] 

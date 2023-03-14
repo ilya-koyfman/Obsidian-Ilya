@@ -19,7 +19,13 @@ project:
 	* How do we prevent ticket looping between the two systems
 	* NO API to API - requires software development
 	* Mark & Ilya to help with testing the ticketing  flows
-
+* Distribution Lists
+	* Timed
+* Vendor Escalation
+	* ISP Vendors
+	* Okta Support
+	* 
+* 
 ## Action Items
 - [ ] Ilya to get ticket samples
 - [ ] Vendor escaltion path

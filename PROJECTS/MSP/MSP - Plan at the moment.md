@@ -32,7 +32,7 @@
 		- [ ] Blocking Windows 11 till on Datto
 		- [ ] Shutdown to be removed
 		- [ ] Description field, can we edit this?
-		- [ ] How do we determine if a machine is off or agent is broken?
+		- [ ] [[PROJECTS/MSP/NOTES/Meeting Service Disks]]How do we determine if a machine is off or agent is broken?
  
 
 

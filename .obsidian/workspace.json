@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -198,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -270,12 +271,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "70ce87de4dd6920e",
+  "active": "f1e01578de1f1517",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - MOC.md",
+    "Notes/2023-03-07.md",
+    "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Home.md",
-    "PROJECTS/MSP/MSP - MOC.md",
     "Notes/2023-03-13.md",
     "Notes/2023-03-10.md",
     "Slipbox Notes/BackBurner.md",
@@ -283,8 +286,6 @@
     "IMAGES/Pasted image 20230313105652.png",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
-    "Notes/2023-03-07.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",

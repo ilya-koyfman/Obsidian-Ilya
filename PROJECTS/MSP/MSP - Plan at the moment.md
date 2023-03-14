@@ -25,7 +25,11 @@
 - [x] Setup up Pulse VPN Access and Profiles ✅ 2023-03-13
 - [ ] Talk to Ciso Global about keeping permissions updated in a shared location
 - [x] Email Steve Schidmt about weekly meetings 📅 2023-03-08 ✅ 2023-03-08
-- [ ] STEVE - Who needs access to and what level 
+- [ ] STEVE - Who needs access to and what level
+- [ ] UDF fields we use
+	- Department
+	- User Email
+	- Use
 
 
 ### What are some of the tasks we want CISO Global?

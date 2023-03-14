@@ -29,7 +29,10 @@
 - [ ] UDF fields we use
 	- Department
 	- User Email
-	- Use
+	- User Assigned
+	- Asset_tag
+	- Shared Machine
+- [ ] Blocking Windows 11 till on Datto
 
 
 ### What are some of the tasks we want CISO Global?

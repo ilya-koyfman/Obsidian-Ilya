@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-07.md",
+                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,13 +177,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -199,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md"
               }
             }
           },
@@ -271,21 +269,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f1e01578de1f1517",
+  "active": "e116a71a1c406cea",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+    "Home.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "Notes/2023-03-07.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-    "Home.md",
     "Notes/2023-03-13.md",
     "Notes/2023-03-10.md",
     "Slipbox Notes/BackBurner.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
     "IMAGES/Pasted image 20230313105652.png",
     "Notes/2023-03-09.md",
-    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",

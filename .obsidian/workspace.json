@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -271,10 +271,11 @@
   },
   "active": "e116a71a1c406cea",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
     "Home.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
-    "PROJECTS/MSP/MSP - MOC.md",
     "Notes/2023-03-07.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
@@ -300,7 +301,6 @@
     "PROJECTS/Azure/Membership Profile Permission Mapping.md",
     "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "ARCHIVE/Slipbox Notes/Retention Backups tape.md",
-    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes",
     "Access, PROJECTS/MSP/NOTES",

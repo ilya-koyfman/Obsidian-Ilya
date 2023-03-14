@@ -17,7 +17,7 @@
 
 
 #### Operations Side
-- [ ] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[PROJECTS/MSP/NOTES/Access Control Policies Defintions Note]]
+- [x] Access Control Policies ⏫ 📅 2023-03-10 #MSP [[PROJECTS/MSP/NOTES/Access Control Policies Defintions Note]] ✅ 2023-03-14
 	- [x] Request Enterprise Art* to join design here. ✅ 2023-03-07
 - [x] Meraki Portal Access ✅ 2023-03-07
 - [x] IP Info for Firewall? ✅ 2023-03-07

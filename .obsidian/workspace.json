@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#UAD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,7 +281,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4ec2f80944919000",
+  "active": "f04ef8469680a73d",
   "lastOpenFiles": [
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",

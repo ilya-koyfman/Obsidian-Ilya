@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Notes/2023-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Notes/2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Notes/2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "Notes/2023-03-10.md"
               }
             }
           },
@@ -283,10 +283,10 @@
   },
   "active": "e116a71a1c406cea",
   "lastOpenFiles": [
-    "Notes/2023-03-10.md",
     "Home.md",
-    "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "Notes/2023-03-10.md",
+    "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/MSP - MOC.md",

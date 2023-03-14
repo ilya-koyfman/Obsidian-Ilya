@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "679adb248006cc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e116a71a1c406cea",
             "type": "leaf",
             "state": {
@@ -113,24 +125,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "c53298ffd0227b46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "679adb248006cc35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

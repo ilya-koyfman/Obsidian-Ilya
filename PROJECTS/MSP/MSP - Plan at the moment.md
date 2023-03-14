@@ -6,21 +6,35 @@
 	- Patching is currently done M-F 12PM-5PM, would this be acceptable to us?
 		- [x] What is ours desktop patch? ✅ 2023-03-14
 		- [ ] STEVE - Who needs access to and what level
-		- [ ] UDF fields we use
-		- [ ] Department
-		- [ ] User Email	- User Assigned
-	- Asset_tag
-	- Shared Machine
+			- [ ] UDF fields we use
+			- [ ] Department
+		- [ ] User Email
+		- [ ] User Assigned
+		- [ ] Asset_tag
+		- [ ] Shared Machine
 - [ ] Blocking Windows 11 till on Datto
 - [ ] Shutdown to be removed
 - [ ] Description field, can we edit this?
+- [ ] How do we determine if a machine is off or agent is broken?
 
 #### Communism 
 - [ ] Ticketing Flows between AutoTask and ZenDesk #MSP
 - [x] List of Users for Datto #MSP ✅ 2023-03-03
 - What Changes are going to happen when we switch Datto Platforms
-	- [ ] Schedule call with Internal IT - Carmine ⏳ 2023-03-07
-	- Security Levels - Talk with HD about things they won't be able to do with machines #MSP
+	- [x] Schedule call with Internal IT - Carmine ⏳ 2023-03-07 ✅ 2023-03-14
+	- Security Levels - Talk with HD about things they won't be able to do with machines #MS
+		- [ ] UDF fields we use
+			- [ ] Department
+				- [ ] User Email
+				- [ ] User Assigned
+				- [ ] Asset_tag
+				- [ ] Shared Machine
+		- [ ] Blocking Windows 11 till on Datto
+		- [ ] Shutdown to be removed
+		- [ ] Description field, can we edit this?
+		- [ ] How do we determine if a machine is off or agent is broken?
+ 
+
 
 
 

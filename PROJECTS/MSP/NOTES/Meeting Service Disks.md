@@ -18,7 +18,8 @@ project:
 * ZenDesk to AutoTask Email to Email. 
 	* How do we prevent ticket looping between the two systems
 	* NO API to API - requires software development
-* 
+	* Mark & Ilya to help with testing the ticketing  flows
 
 ## Action Items
-- 
+- [ ] Ilya to get ticket samples
+- [ ] Vendor escaltion path

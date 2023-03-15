@@ -24,8 +24,12 @@ Helpdesk ---> Autotask ---> Zendesk
 ```
 
 ## Notes
-* How does CISO Global see the internal notes on our Zendesk Side? Only public comments are avliable
+- Can we have Zendesk make reply from AutoTask email become internal automatically?
+
 	* ~~Maria looking at contributing role~~
+	* 
 
 
 ## Action Items
+- [ ] How does CISO Global see the internal notes on our Zendesk Side? Only public comments are avaliable
+- If we give them a license they would get internal notes

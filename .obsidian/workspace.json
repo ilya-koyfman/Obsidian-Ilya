@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-15.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-15.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-15.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-15.md"
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
-    "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Notes/2023-03-15.md",
+    "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Untitled.md",
     "Home.md",
     "Notes/2023-03-10.md",
@@ -203,7 +204,6 @@
     "IMAGES/Pasted image 20230309142326.png",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "MicrosoftLink.md",
     "IMAGES/Pasted image 20230308144852.png",

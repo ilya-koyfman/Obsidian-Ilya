@@ -19,11 +19,13 @@ project:
 
 
 ```mermaid
-Helpdesk 
+flowchart TD
+Helpdesk ---> Autotask ---> Zendesk
 ```
 
 ## Notes
-* * 
+* How does CISO Global see the internal notes on our Zendesk Side? Only public comments are avliable
+	* ~~Maria looking at contributing role~~
 
 
 ## Action Items

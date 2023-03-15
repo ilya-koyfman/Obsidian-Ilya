@@ -24,7 +24,7 @@ Helpdesk ---> Autotask ---> Zendesk
 ```
 
 ## Notes
-- Can we have Zendesk make reply from AutoTask email become internal automatically?
+- **Can we have Zendesk make reply from AutoTask email become internal automatically?**
 
 	* ~~Maria looking at contributing role~~
 	* 

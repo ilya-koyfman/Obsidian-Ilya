@@ -12,11 +12,11 @@ project:
 ## Summary
 1. Zendesk tickets assigned to CISO
 	1. Helpdesk Management to send tickets over to CISO (Help Desk Managent)
-		1. Who should keep the ticket on our side? Is it the person who assigns it to the  
+		1. Who should keep the ticket on our side? Is it the person who assigns it to the ticket or does SA  
 
 
 ## Notes
-* 
+* * 
 
 
 ## Action Items

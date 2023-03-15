@@ -80,23 +80,7 @@ Windows 10 Machine -
 	* 
 
 
-BITLOCKER POLICY DEFINED
-Base Settings
-* Enable Full Disk Encr - True
-* Storage Cards - Skipping
-* Hide prompt about third - party 
-* Configure Rotation of keys - skiping
-Fixed Drive Settings
-* Not Configured
-OS Drive Settings
-* Configure
-	* Startup Configured
-		* Pin - False
-		* Key - False
-		* TPM - True
-	* Disable Bitlocker on devices - Not Configured
-	* Enable Preboot recovery message and url - TRUE
-	* 
+
 
 
 - [ ] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ?

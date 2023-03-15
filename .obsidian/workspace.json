@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "Notes/2023-03-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "Notes/2023-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "Notes/2023-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md"
+                "file": "Notes/2023-03-15.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
-    "Home.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+    "Notes/2023-03-15.md",
+    "Untitled.md",
+    "Home.md",
     "Notes/2023-03-10.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/MSP - MOC.md",
@@ -206,8 +208,6 @@
     "MicrosoftLink.md",
     "IMAGES/Pasted image 20230308144852.png",
     "Notes/Archived_notes/2023-02-27.md",
-    "PROJECTS/Azure/Membership Profile Permission Mapping.md",
-    "Access, PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes",
     "Access, PROJECTS/MSP/NOTES",

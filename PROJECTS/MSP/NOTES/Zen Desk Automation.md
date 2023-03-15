@@ -33,5 +33,5 @@ Helpdesk ---> Autotask ---> Zendesk
 - If we give them a license they would get internal notes
 - [ ] CISO what information would be necessary on the ticket?
 * Exchange request
-* Vendor Esclation
-- [ ] 
+* Vendor Escalation
+- [ ] What are there open hours? M-F 9-5? 9-8?

@@ -1,4 +1,4 @@
----
+[[PROJECTS/MSP/NOTES/Zen Desk Automation]]---
 tags: [policies, security]
 date: 2023-03-07
 note_type: t_note

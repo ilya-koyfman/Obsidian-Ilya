@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2717174e1f2a2b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation.md"
               }
             }
           },
@@ -176,11 +189,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f7dbe3ea7c2d3d05",
+  "active": "2717174e1f2a2b46",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "Notes/2023-03-15.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
@@ -207,7 +221,6 @@
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "MicrosoftLink.md",
     "IMAGES/Pasted image 20230308144852.png",
-    "Notes/Archived_notes/2023-02-27.md",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes",
     "Access, PROJECTS/MSP/NOTES",

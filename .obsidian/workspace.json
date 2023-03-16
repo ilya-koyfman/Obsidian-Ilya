@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
+                "file": "Notes/2023-03-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/2023-03-16.md"
               }
             }
           },
@@ -204,8 +203,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "2717174e1f2a2b46",
   "lastOpenFiles": [
+    "Home.md",
+    "Notes/2023-03-16.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
     "PROJECTS/MSP/MSP - MOC.md",
@@ -214,7 +215,6 @@
     "Notes/2023-03-15.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Untitled.md",
-    "Home.md",
     "Notes/2023-03-10.md",
     "Notes/2023-03-09.md",
     "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
@@ -234,7 +234,6 @@
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
-    "MicrosoftLink.md",
     "IMAGES/Pasted image 20230308144852.png",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes",

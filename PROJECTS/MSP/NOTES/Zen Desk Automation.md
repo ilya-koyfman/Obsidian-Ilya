@@ -26,6 +26,7 @@ Helpdesk ---> Autotask ---> Zendesk
 
 ## Notes
 - **Can we have Zendesk make reply from AutoTask email become internal automatically?**
+	- **NO IS THE ANSWER**
 * Are we okay with users seeing comments from the CISO?
 * Vendor Escalation 8x8 after hours would be a great first task.
 

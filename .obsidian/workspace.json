@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,8 +45,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md"
               }
             }
           },
@@ -204,27 +202,27 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "Slipbox Notes/Exporting User Data from Workplace.md",
     "Notes/2023-03-16.md",
+    "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
+    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "Home.md",
-    "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
+    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "Notes/2023-03-15.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Untitled.md",
     "Notes/2023-03-10.md",
     "Notes/2023-03-09.md",
-    "PROJECTS/MSP/NOTES/Meeting Service Disks.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
-    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
     "Notes/2023-03-07.md",
     "Notes/2023-03-13.md",
     "Slipbox Notes/BackBurner.md",
-    "Slipbox Notes/Exporting User Data from Workplace.md",
     "IMAGES/Pasted image 20230313105652.png",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",

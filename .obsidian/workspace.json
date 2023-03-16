@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,8 +45,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-16.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-16.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-16.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -203,11 +202,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "2717174e1f2a2b46",
+  "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
-    "Home.md",
-    "Notes/2023-03-16.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "Notes/2023-03-16.md",
+    "Home.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",

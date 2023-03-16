@@ -31,9 +31,9 @@ Helpdesk ---> Autotask ---> Zendesk
 * Vendor Escalation 8x8 after hours would be a great first task.
 
 ## Action Items
-- [ ] How does CISO Global see the internal notes on our Zendesk Side? Only public comments are avaliable
+- [x] How does CISO Global see the internal notes on our Zendesk Side? Only public comments are avaliable ✅ 2023-03-16
 - If we give them a license they would get internal notes
-- [ ] CISO what information would be necessary on the ticket?
+- [x] CISO what information would be necessary on the ticket? ✅ 2023-03-16
 * Exchange request
 * Vendor Escalation
-- [ ] What are there open hours? M-F 9-5? 9-8?
+- [x] What are there open hours? M-F 9-5? 9-8? ✅ 2023-03-16

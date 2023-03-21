@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +197,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f7dbe3ea7c2d3d05",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
+    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
+    "PROJECTS/Intune/Notes/Untitled.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
@@ -230,11 +228,9 @@
     "IMAGES/Pasted image 20230313105652.png",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",
-    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "IMAGES/Pasted image 20230308144852.png",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes",

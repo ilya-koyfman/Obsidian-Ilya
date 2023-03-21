@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "Notes/2023-03-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "Notes/2023-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "Notes/2023-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md"
+                "file": "Notes/2023-03-21.md"
               }
             }
           },
@@ -216,8 +216,10 @@
   },
   "active": "d2924fb63185c7bc",
   "lastOpenFiles": [
-    "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+    "Notes/2023-03-16.md",
+    "Notes/2023-03-21.md",
     "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+    "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Notes/Untitled.md",
     "PROJECTS/Intune/Intune MOC.md",
@@ -227,7 +229,6 @@
     "IMAGES/Pasted image 20230321084259.png",
     "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
-    "Notes/2023-03-16.md",
     "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
     "Home.md",
@@ -245,7 +246,6 @@
     "Slipbox Notes/BackBurner.md",
     "IMAGES/Pasted image 20230313105652.png",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
-    "PROJECTS/Intune/Notes/Technical Questions.md",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",
     "IMAGES/Pasted image 20230308144852.png",

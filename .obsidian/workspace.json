@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md"
               }
             }
           },
@@ -204,12 +204,12 @@
   },
   "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
     "Notes/2023-03-16.md",
     "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "Home.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",

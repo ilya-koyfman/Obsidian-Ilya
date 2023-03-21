@@ -24,7 +24,9 @@ Synapse is broken down into two pieces.
 
 
 #### Recommendation
+The chart below shows the recommendation from Microsoft's system. They are recommending we purchase 13 units of 100cDWU. 13 would help offset the cost of when we are running the pools at higher then normal, but when the pools are scaled down we would be wasting any additional credits.
 
+Currently we are running DEV at 400DWU and UAT is being run at 400 during the night and weekends and 2000 du
 
 ![[IMAGES/Pasted image 20230321084259.png]]
 

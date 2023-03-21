@@ -25,7 +25,10 @@ Synapse is broken down into two pieces.
 
 #### Recommendation
 ##### Synapse Workspace items
-* 
+Synapse commit units can help us save on our flows, but the discounts them are smaller then the dedicated SQL pool. We would be purchasing these for a year, and then it would be on us to use them all up. 
+![[IMAGES/Pasted image 20230321085523.png]]
+
+
 ##### Synapse SQL
 The chart below shows the recommendation from Microsoft's system. They are recommending we purchase 13 units of 100cDWU. 13 would help offset the cost of when we are running the pools at higher then normal, but when the pools are scaled down we would be wasting any additional credits.
 

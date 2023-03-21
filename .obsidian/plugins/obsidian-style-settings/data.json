@@ -12,5 +12,17 @@
   "shimmering-focus@@bg-hue-dark": 220,
   "id@@colorblind_protan-deutan": false,
   "id@@colorblind_tritan": false,
-  "id@@headers-one-color": false
+  "id@@headers-one-color": false,
+  "id@@h2-color-theme@@dark": "#7EBEE7",
+  "id@@h3-color-theme@@dark": "#D57EE7",
+  "id@@h4-color-theme@@dark": "#E7AB7E",
+  "id@@h5-color-theme@@dark": "#E77E7E",
+  "id@@h6-color-theme@@dark": "#897C89",
+  "id@@h1-color-theme@@dark": "#7EE787",
+  "id@@h2-color-theme@@light": "#7EBEE7",
+  "id@@h3-color-theme@@light": "#D57EE7",
+  "id@@h4-color-theme@@light": "#E7AB7E",
+  "id@@h5-color-theme@@light": "#E77E7E",
+  "id@@h6-color-theme@@light": "#897C89",
+  "id@@h1-color-theme@@light": "#7EE787"
 }

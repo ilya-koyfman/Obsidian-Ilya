@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "2477875c65914a91",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          },
+          {
             "id": "2717174e1f2a2b46",
             "type": "leaf",
             "state": {
@@ -204,6 +212,7 @@
   },
   "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
+    "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",

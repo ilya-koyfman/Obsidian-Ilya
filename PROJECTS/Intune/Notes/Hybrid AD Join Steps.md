@@ -10,10 +10,14 @@ project:
 
 
 ## STEPS
-* Clear the Service Connection Point(SCP) entry from Active Directory(AD) if it exists
-* 1.  Configure client-side registry setting for SCP on your domain-joined computers using a Group Policy Object (GPO).
-2.  If you're using Active Directory Federation Services (AD FS), you must also configure the client-side registry setting for SCP on your AD FS server using a GPO.
-3.  You may also need to [customize synchronization options](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-post-installation#additional-tasks-available-in-azure-ad-connect) in Azure AD Connect to enable device synchronization.
+To do a targeted deployment of hybrid Azure AD join on Windows current devices, you need to:
+
+1. Clear the Service Connection Point (SCP) entry from Active Directory (AD) if it exists.
+2. Configure client-side registry setting for SCP on your domain-joined computers using a Group Policy Object (GPO).
+3. Set to Test OU and put test machines in OU
+4. AD Connect to Enable device synchronization in Azure AD Connect.
+5. Verify machines are in the correct state `Hybrid Joined`
+6. 
 
 
 ## Action Items

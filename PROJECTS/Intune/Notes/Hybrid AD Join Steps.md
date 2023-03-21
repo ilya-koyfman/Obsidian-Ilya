@@ -17,7 +17,7 @@ To do a targeted deployment of hybrid Azure AD join on Windows current devices, 
 3. Set to Test OU and put test machines in OU
 4. AD Connect to Enable device synchronization in Azure AD Connect.
 5. Verify machines are in the correct state `Hybrid Joined`
-6. 
+6. Troubleshoot
 
 
 ## Action Items

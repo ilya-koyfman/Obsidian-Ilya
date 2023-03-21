@@ -21,7 +21,18 @@ Synapse is broken down into two pieces.
 * **Synapse SQL**
 	* *Dedicated* SQL pools in Synapse run on units of 100cDWU, which means running a pool at DW2000c, mean we need 20 units to run it for the hour. [Microsoft Link](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/reservation-discount-azure-sql-dw)
 	* **Built-In SQL** uses and others would use [Synapse Commit Units](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/synapse-analytics-pre-purchase-plan)
-	* 
+
+
+#### Recommendation
+
+
+![[IMAGES/Pasted image 20230321084259.png]]
+
+
+
+
+
+
 
 ### Virtual Machines
 

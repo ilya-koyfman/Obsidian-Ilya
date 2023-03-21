@@ -52,26 +52,21 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "1e036d57f40daa66",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d2924fb63185c7bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -148,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md"
+                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md"
               }
             }
           },
@@ -219,10 +215,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2924fb63185c7bc",
+  "active": "8cf619db944c2c1e",
   "lastOpenFiles": [
-    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Notes/Untitled.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",

@@ -3,7 +3,7 @@
   "cssTheme": "Minimal",
   "nativeMenus": false,
   "theme": "moonstone",
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "interfaceFontFamily": "",
   "textFontFamily": "JetBrainsMono NF",
   "monospaceFontFamily": "JetBrainsMonoMedium Nerd Font Mono"

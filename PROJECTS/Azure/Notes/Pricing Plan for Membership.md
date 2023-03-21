@@ -33,9 +33,9 @@ Synapse is broken down into two pieces.
 
 Synapse commit units can help us save on our flows, but the discounts them are smaller then the dedicated SQL pool. We would be purchasing these for a year, and then it would be on us to use them all up.
 
-This 
+5000 SCU would be equal to $5000. We would be pre-purchasing a dollar amount at a discounted price. 
 
-![[IMAGES/Pasted image 20230321085523.png|1200]]
+![[IMAGES/Pasted image 20230321085523.png]]
 
 ###### Synapse SQL
 

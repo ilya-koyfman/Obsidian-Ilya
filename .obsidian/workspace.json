@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
-                "mode": "preview",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,14 +109,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "062bc45d649238da",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -138,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Azure/Notes/Pricing Plan for Membership.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -197,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -205,13 +196,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "templater-obsidian:Templater": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
+    "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",
@@ -257,7 +249,6 @@
     "Home Canvas.canvas",
     "IMAGES/Pasted image 20230302173058.png",
     "IMAGES/Pasted image 20230302153425.png",
-    "IMAGES/Pasted image 20230302153359.png",
-    "IMAGES/Pasted image 20230302114952.png"
+    "IMAGES/Pasted image 20230302153359.png"
   ]
 }

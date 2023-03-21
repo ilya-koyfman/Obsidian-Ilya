@@ -53,8 +53,7 @@ Virtual machine pricing is based upon the size of the machine. Sizes are predefi
 
 EX
 
-![[IMAGES/Pasted image 20230308144852.png|1200]]
-
+![[IMAGES/Pasted image 20230321113346.png|1000]]
 ##### Reservations
 
 * Virtual Machine Pricing is reserving the size of the machine for predefined amount of time. However, the cost only covers the computer meter, the windows meter (windows license) is not part of the price.

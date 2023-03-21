@@ -24,5 +24,8 @@
   "id@@h4-color-theme@@light": "#E7AB7E",
   "id@@h5-color-theme@@light": "#E77E7E",
   "id@@h6-color-theme@@light": "#897C89",
-  "id@@h1-color-theme@@light": "#7EE787"
+  "id@@h1-color-theme@@light": "#7EE787",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@zoom-off": true
 }

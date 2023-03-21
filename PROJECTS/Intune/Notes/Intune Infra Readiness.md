@@ -1,4 +1,4 @@
-Planning -
+[[PROJECTS/Intune/Notes/Hybrid AD Join Steps]]Planning -
 - Requirements
 	1. Hybrid AD Joined
 	2. Configurtion Policy for Intune

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "PROJECTS/Intune/Notes/Intune Infra Readiness.md"
               }
             }
           },
@@ -203,11 +203,12 @@
   },
   "active": "f7dbe3ea7c2d3d05",
   "lastOpenFiles": [
+    "PROJECTS/Intune/Intune MOC.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
     "Notes/2023-03-16.md",
@@ -227,7 +228,6 @@
     "Notes/2023-03-13.md",
     "Slipbox Notes/BackBurner.md",
     "IMAGES/Pasted image 20230313105652.png",
-    "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/Intune/Notes/DirSync - Azure AD Connect.md",
     "PROJECTS/Intune/Notes/Technical Questions.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",

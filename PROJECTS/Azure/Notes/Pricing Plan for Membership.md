@@ -17,16 +17,19 @@ Synapse is broken down into two pieces.
 * **Synapse SQL** refers to the Dedicated or built-in SQL server needed for Synapse operations. In the ASPCA we are using dedicated SQL
 
 #### Reservations
-* **Synapse Workspace items** - #TODO 
+* **Synapse Workspace items** - Synapse flows and actions taken within the workspace can only be reserved using [Synapse Commit Units](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/synapse-analytics-pre-purchase-plan)
 * **Synapse SQL**
 	* *Dedicated* SQL pools in Synapse run on units of 100cDWU, which means running a pool at DW2000c, mean we need 20 units to run it for the hour. [Microsoft Link](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/reservation-discount-azure-sql-dw)
 	* **Built-In SQL** uses and others would use [Synapse Commit Units](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/synapse-analytics-pre-purchase-plan)
 
 
 #### Recommendation
+##### Synapse Workspace items
+* 
+##### Synapse SQL
 The chart below shows the recommendation from Microsoft's system. They are recommending we purchase 13 units of 100cDWU. 13 would help offset the cost of when we are running the pools at higher then normal, but when the pools are scaled down we would be wasting any additional credits.
 
-Currently we are running DEV at 400DWU and UAT is being run at 400 during the night and weekends and 2000 du
+Currently we are running DEV at 400DWU and UAT is being run at 400 during the night and weekends and 2000 during week days. 
 
 ![[IMAGES/Pasted image 20230321084259.png]]
 

@@ -19,7 +19,7 @@
 	- Shutdown to be removed 
 
 #### Communism 
-- [ ] Ticketing Flows between AutoTask and ZenDesk #MSP
+- [x] Ticketing Flows between AutoTask and ZenDesk #MSP ✅ 2023-03-22
 - [x] List of Users for Datto #MSP ✅ 2023-03-03
 - What Changes are going to happen when we switch Datto Platforms
 	- [x] Schedule call with Internal IT - Carmine ⏳ 2023-03-07 ✅ 2023-03-14

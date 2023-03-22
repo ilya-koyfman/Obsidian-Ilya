@@ -2,7 +2,7 @@
 
 ### Permissions for Membership Profiles
 
-[[PROJECTS/Azure/Membership Profile Permission Mapping]]
+[[PROJECTS/Azure/Notes/Membership Profile Permission Mapping]]
 
 ### Azure SFTP in Storage Accounts
 

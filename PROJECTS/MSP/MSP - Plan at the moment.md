@@ -39,7 +39,7 @@
 ### What are some of the tasks we want CISO Global?
 * Server Tasks
 	* Patch maintenance
-	* Incident Remediation/Triage #MAX
+	* Incident Remediation/Triage #HELPDESK
 		* This can be from a service failing to restart to a physical server being down needing iDrac Access
 	* Application Updates
 		* Back-End Applications (Manage Engine Products, Okta Agents, Exchange Updates, Proofpoint)
@@ -52,10 +52,13 @@
 				* Intune Agent
 				* Azure AD Connect
 				* Viewall
+	* Backup Solutions
+		* Veeam
+		* Zerto
 
 
 * Network Tasks
-	* Incident Remediation/Triage #MAX
+	* Incident Remediation/Triage #HELPDESK
 		* 1st line of triage for network related issues, ranging from ISP issues to CPE.
 			* ISP Issues
 			* Firewall/Switch Issues
@@ -72,7 +75,7 @@
 * Asset Management
 	* Reports of Assets (EOL, WARRANTY, SERIAL, etc..)
 		* Autotask Automations????
-	* UDF Report Remake from ASPC
+	* UDF Report Remake from ASPCA #HELPDESK
 
 * Office365
 	* Mailbox Capacity Issues
@@ -82,3 +85,20 @@
 	* Datto Tasks
 		* 8x8 updated on all machines
 		* 
+
+
+### What Vendors CISO will work with?
+* ISP
+	* COMCAST
+	* VERIZON
+	* etc
+* INAP - Chicago Datacenter
+* Microsoft
+* ManageEngine
+* Hardware Vendors
+	* IBM
+	* DELL
+	* MERAKI
+	* CISCO???
+	* CDW???
+	* 

@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UAD",
+                "query": "tag:#MAX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,12 +135,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "f4b67e458784d2f3",

@@ -51,8 +51,11 @@
 * Network Tasks
 	* Incident Remediation/Triage
 		* 1st line of triage for network related issues, ranging from ISP issues to CPE.
-			* ISP 
-		* 
+			* ISP Issues
+			* Firewall/Switch Issues
+			* UPS/Power Issues
+			* AccessPoint Issues
+			* Connectivity Issues 
 	* Network Monitoring
 		* 
 		* 

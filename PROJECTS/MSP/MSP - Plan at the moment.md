@@ -65,8 +65,11 @@
 	* Reports of Assets (EOL, WARRANTY, SERIAL, etc..)
 		* Autotask Automations????
 
-
-
+* Office365
+	* Mailbox Capacity Issues
+	* Phishing Email Search and Destroy
 
 * Workstation Tasks
-	* #NEEDMORE 
+	* Datto Tasks
+		* 8x8 updated on all machines
+		* 

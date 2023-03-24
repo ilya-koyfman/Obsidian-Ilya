@@ -38,7 +38,13 @@ project:
 	* UNIFI - Individual
 
 ## STEPS TO COMPLETE
-
+1. 11:11 to update cereberusadmin user to have admin rights
+2. 11:11 to create cereberusuer 
+3. 11:11 to create cereberusadmin/cerberuser on CISCO Switches
+	1. GLEN, LA CVC, BRONX, BTH, Brooklyn, Missouri, Gainsville, ASNA, BRC, 
+4. Singkwan/GIO to create cereberusadmin/cerberuser on Extreme Switches
+	1. 8th, 92nd, LIC
+5. Singkwan/GIO to create and updates Roles for Meraki cereberus admin/user role
 
 
 ## Action Items

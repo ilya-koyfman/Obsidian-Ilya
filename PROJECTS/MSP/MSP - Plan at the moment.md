@@ -72,10 +72,11 @@
 		* Firewall, Switches, APs, UPSs*
 	* RMA of Devices
 	
-* Asset Management
+* Asset/License Management
 	* Reports of Assets (EOL, WARRANTY, SERIAL, etc..)
 		* Autotask Automations????
 	* UDF Report Remake from ASPCA #HELPDESK
+	* Licensing Report
 
 * Office365
 	* Mailbox Capacity Issues
@@ -101,4 +102,4 @@
 	* MERAKI
 	* CISCO???
 	* CDW???
-	* 
+	* Fortinet

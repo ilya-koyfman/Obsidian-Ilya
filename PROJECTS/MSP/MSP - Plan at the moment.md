@@ -39,14 +39,16 @@
 ### What are some of the tasks we want CISO Global?
 * Server Tasks
 	* Patch maintenance
-	* Incident Remedation/Tirage
-		* This can be from a service failing to restart to a Phsyical server being down needing iDrac Access
+	* Incident Remediation/Triage
+		* This can be from a service failing to restart to a physical server being down needing iDrac Access
+	* Application Updates
+		* Back-End Applications (ManageEngine Products, Okta Agents, Exchange Updates, Proofpoint)
+		* 
 	* Metric monitoring
 		* Drive monitoring
 		* Service monitoring
 	* Application monitoring
 		* SQL Server monitoring
-		* Folder monitoring
 	* #NEEDMORE 
 * Workstation Tasks
 	* #NEEDMORE 

@@ -22,15 +22,23 @@ project:
 		* cereberusadmin
 		* cereberuser
 	* MERAKI
-		* ROLE
+		* Site Roles
 			* cereberus admin role - admin access to Meraki switches and APs
 			* cereberus user role - role to read meraki switches and APs
 	* EXTREME
 		* cereberusadmin
 		* cereberuser
 * Access Points
+	* Meraki
+	* UNIFI - ASNA & BRC
+		* cereberus admin role - admin access to Meraki switches and APs
+		* cereberus user role - role to read meraki switches and APs
 * Network Applications Portals
 	* Meraki - Individual
+	* UNIFI - Individual
+
+## STEPS TO COMPLETE
+
 
 
 ## Action Items

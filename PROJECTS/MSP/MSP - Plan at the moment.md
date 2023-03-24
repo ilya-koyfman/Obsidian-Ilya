@@ -39,15 +39,23 @@
 ### What are some of the tasks we want CISO Global?
 * Server Tasks
 	* Patch maintenance
-	* Incident Remediation/Triage
+	* Incident Remediation/Triage #MAX
 		* This can be from a service failing to restart to a physical server being down needing iDrac Access
 	* Application Updates
 		* Back-End Applications (Manage Engine Products, Okta Agents, Exchange Updates, Proofpoint)
 	* Metric monitoring
 		* Drive monitoring
+			* Clean up drive if possible
 		* Service monitoring
+			* Special Services
+				* Okta Agents
+				* Intune Agent
+				* Azure AD Connect
+				* Viewall
+
+
 * Network Tasks
-	* Incident Remediation/Triage
+	* Incident Remediation/Triage #MAX
 		* 1st line of triage for network related issues, ranging from ISP issues to CPE.
 			* ISP Issues
 			* Firewall/Switch Issues
@@ -64,6 +72,7 @@
 * Asset Management
 	* Reports of Assets (EOL, WARRANTY, SERIAL, etc..)
 		* Autotask Automations????
+	* UDF Report Remake from ASPC
 
 * Office365
 	* Mailbox Capacity Issues

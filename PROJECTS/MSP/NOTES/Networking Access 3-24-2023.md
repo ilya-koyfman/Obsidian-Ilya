@@ -13,10 +13,17 @@ project:
 #### Network Devices
 * Firewalls
 	* Foritgates
-		* unkwown account - Reader Access
+		* cereberusadmin - **Admin** Access
+			- [ ] Grant admin access instead reader access
+		* cereberususer - Reader Access
+			- [ ] Create user with Reader Access
 * Switches
+	* CISCO
+	* MERAKI
+	* EXTREME
 * Access Points
 * Network Applications Portals
+	* Meraki - Individual
 
 
 ## Action Items

@@ -43,12 +43,19 @@
 		* This can be from a service failing to restart to a physical server being down needing iDrac Access
 	* Application Updates
 		* Back-End Applications (ManageEngine Products, Okta Agents, Exchange Updates, Proofpoint)
-		* 
 	* Metric monitoring
 		* Drive monitoring
 		* Service monitoring
 	* Application monitoring
 		* SQL Server monitoring
+* Network Tasks
+	* Incident Remediation/Triage
+		* 1st line of triage for network related issues, ranging from ISP issues to CPE.
+			* ISP 
+		* 
+	* Network Monitoring
+		* 
+		* 
 	* #NEEDMORE 
 * Workstation Tasks
 	* #NEEDMORE 

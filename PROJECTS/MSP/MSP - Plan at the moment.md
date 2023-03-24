@@ -46,8 +46,6 @@
 	* Metric monitoring
 		* Drive monitoring
 		* Service monitoring
-	* Application monitoring
-		* SQL Server monitoring
 * Network Tasks
 	* Incident Remediation/Triage
 		* 1st line of triage for network related issues, ranging from ISP issues to CPE.
@@ -57,8 +55,12 @@
 			* AccessPoint Issues
 			* Connectivity Issues 
 	* Network Monitoring
-		* 
-		* 
-	* #NEEDMORE 
+		* Create Incident based on monitoring
+		* Create Scheduled / AD-Hoc Reports based on network monitoring
+	* Device Updates
+		* Firewall, Switches, APs, UPSs*
+	* RMA of Devices
+	
+
 * Workstation Tasks
 	* #NEEDMORE 

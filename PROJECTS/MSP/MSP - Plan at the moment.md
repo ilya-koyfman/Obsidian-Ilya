@@ -29,7 +29,7 @@
 	- [x] Request Enterprise Art* to join design here. ✅ 2023-03-07
 - [x] Meraki Portal Access ✅ 2023-03-07
 - [x] IP Info for Firewall? ✅ 2023-03-07
-- [ ] Inform MWO About new patching policies
+- [x] Inform MWO About new patching policies ✅ 2023-03-24
 - [x] Setup up Pulse VPN Access and Profiles ✅ 2023-03-13
 - [ ] Talk to Ciso Global about keeping permissions updated in a shared location
 - [x] Email Steve Schidmt about weekly meetings 📅 2023-03-08 ✅ 2023-03-08
@@ -39,6 +39,8 @@
 ### What are some of the tasks we want CISO Global?
 * Server Tasks
 	* Patch maintenance
+	* Incident Remedation/Tirage
+		* This can be from a service failing to restart to a Phsyical server being down needing iDrac Access
 	* Metric monitoring
 		* Drive monitoring
 		* Service monitoring

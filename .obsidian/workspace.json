@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md"
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
               }
             }
           },
@@ -209,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,6 +229,7 @@
   },
   "active": "7236d1e4bb1cd9ad",
   "lastOpenFiles": [
+    "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
     "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "Notes/2023-03-24.md",
@@ -238,7 +241,6 @@
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "Notes/2023-03-15.md",
     "Notes/2023-03-16.md",
-    "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Notes/Untitled.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",

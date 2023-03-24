@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md"
+                "file": "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md"
               }
             }
           },
@@ -227,8 +227,9 @@
   },
   "active": "7236d1e4bb1cd9ad",
   "lastOpenFiles": [
-    "Notes/2023-03-24.md",
+    "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+    "Notes/2023-03-24.md",
     "Home.md",
     "Notes/2023-03-22.md",
     "Notes/2023-03-21.md",
@@ -240,7 +241,6 @@
     "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
     "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
     "PROJECTS/Intune/Notes/Untitled.md",
-    "PROJECTS/Intune/Intune MOC.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",

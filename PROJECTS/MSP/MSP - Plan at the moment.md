@@ -42,7 +42,7 @@
 	* Incident Remediation/Triage
 		* This can be from a service failing to restart to a physical server being down needing iDrac Access
 	* Application Updates
-		* Back-End Applications (ManageEngine Products, Okta Agents, Exchange Updates, Proofpoint)
+		* Back-End Applications (Manage Engine Products, Okta Agents, Exchange Updates, Proofpoint)
 	* Metric monitoring
 		* Drive monitoring
 		* Service monitoring
@@ -52,7 +52,7 @@
 			* ISP Issues
 			* Firewall/Switch Issues
 			* UPS/Power Issues
-			* AccessPoint Issues
+			* Access Point Issues
 			* Connectivity Issues 
 	* Network Monitoring
 		* Create Incident based on monitoring
@@ -61,6 +61,12 @@
 		* Firewall, Switches, APs, UPSs*
 	* RMA of Devices
 	
+* Asset Management
+	* Reports of Assets (EOL, WARRANTY, SERIAL, etc..)
+		* Autotask Automations????
+
+
+
 
 * Workstation Tasks
 	* #NEEDMORE 

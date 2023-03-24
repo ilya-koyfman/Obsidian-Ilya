@@ -42,9 +42,12 @@ project:
 2. 11:11 to create cereberusuer 
 3. 11:11 to create cereberusadmin/cerberuser on CISCO Switches
 	1. GLEN, LA CVC, BRONX, BTH, Brooklyn, Missouri, Gainsville, ASNA, BRC, 
-4. Singkwan/GIO to create cereberusadmin/cerberuser on Extreme Switches
-	1. 8th, 92nd, LIC
-5. Singkwan/GIO to create and updates Roles for Meraki cereberus admin/user role
+4. 11:11 to create cereberusadmin/cerberuser on Extreme CORE Switches
+	1. 8th, 92nd, LIC, WDC
+5. Singkwan/GIO to create cereberusadmin/cerberuser on Extreme MEMBER Switches
+	1. 8th, 92nd, 91st
+6. Singkwan/GIO to create and updates Roles for Meraki cereberus admin/user role
+7. Singkwan/GIO to create and updates Roles for UNIFI cereberus admin/user role
 
 
 ## Action Items

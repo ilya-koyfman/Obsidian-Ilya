@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "9d6cae2c86877dd5",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          },
+          {
             "id": "783a2e4807c3f2b1",
             "type": "leaf",
             "pinned": true,
@@ -45,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7236d1e4bb1cd9ad",
+  "active": "9d6cae2c86877dd5",
   "lastOpenFiles": [
     "Home.md",
     "Notes/2023-03-27.md",

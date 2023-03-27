@@ -27,5 +27,7 @@
   "id@@h1-color-theme@@light": "#7EE787",
   "minimal-advanced@@styled-scrollbars": true,
   "minimal-style@@image-muted": 1,
-  "minimal-style@@zoom-off": false
+  "minimal-style@@zoom-off": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
+  "blue-topaz-theme@@transparent-setting-panel": false
 }

@@ -27,12 +27,12 @@ project:
 			* cereberus user role - role to read meraki switches and APs
 	* EXTREME
 		* cereberusadmin
-		* cereberuser
+		* cerberususer
 * Access Points
 	* Meraki
 	* UNIFI - ASNA & BRC
-		* cereberus admin role - admin access to Meraki switches and APs
-		* cereberus user role - role to read meraki switches and APs
+		* Cerberus admin role - admin access to Meraki switches and APs
+		* Cerberus user role - role to read meraki switches and APs
 * Network Applications Portals
 	* Meraki - Individual
 	* UNIFI - Individual
@@ -45,7 +45,7 @@ project:
 4. 11:11 to create cereberusadmin/cerberuser on Extreme CORE Switches
 	1. 8th, 92nd, LIC, WDC
 5. Singkwan/GIO to create cereberusadmin/cerberuser on Extreme MEMBER Switches
-	1. 8th, 92nd, 91st
+	1. [*] 8th, 92nd, 91st
 6. Singkwan/GIO to create and updates Roles for Meraki cereberus admin/user role
 7. Singkwan/GIO to create and updates Roles for UNIFI cereberus admin/user role
 

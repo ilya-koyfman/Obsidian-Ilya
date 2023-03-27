@@ -5,7 +5,7 @@
 - [x] Workstations Update Timing #MSP ✅ 2023-03-03
 	- Patching is currently done M-F 12PM-5PM, would this be acceptable to us?
 		- [x] What is ours desktop patch? ✅ 2023-03-14
-- [ ] STEVE - Who needs access to and what level
+- [x] STEVE - Who needs access to and what level ✅ 2023-03-27
 - [x] More Datto Questions ✅ 2023-03-27
 	- UDF fields we use
 	- Department

@@ -26,7 +26,7 @@ project:
 
 
 * Network Tasks
-	* Incident Remediation/Triage #HELPDESK
+	* Incident Remediation/Triage #HELPDESK 
 		* 1st line of triage for network related issues, ranging from ISP issues to CPE.
 			* ISP Issues
 			* Firewall/Switch Issues
@@ -43,7 +43,7 @@ project:
 * Asset/License Management
 	* Reports of Assets (EOL, WARRANTY, SERIAL, etc..)
 		* Autotask Automations????
-	* UDF Report Remake from ASPCA #
+	* UDF Report Remake from ASPCA #HELPDESK 
 	* Licensing Report
 
 * Office365
@@ -68,8 +68,8 @@ project:
 	* IBM
 	* DELL
 	* MERAKI
-	* CISCO???
-	* CDW???
+	* CISCO
+	* CDW
 	* Fortinet
 
 ## Notes

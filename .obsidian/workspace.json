@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-27.md",
+                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-27.md",
+                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-27.md",
+                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-27.md"
+                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md"
               }
             }
           },
@@ -181,18 +181,58 @@
       "homepage:Open homepage": false
     }
   },
+  "floating": {
+    "id": "f7ca076b97fa75fe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "04d284c5433e01bc",
+        "type": "window",
+        "children": [
+          {
+            "id": "cde9fa8e746ab499",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f878a07bf9b6e1d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -301,
+        "y": -712,
+        "width": 600,
+        "height": 1080,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "7236d1e4bb1cd9ad",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
+    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+    "Untitled.md",
+    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "Home.md",
-    "Notes/2023-03-22.md",
     "Notes/2023-03-27.md",
+    "Notes/2023-03-22.md",
     "Notes/2023-03-24.md",
     "PROJECTS/Azure/Azure Documentation Home.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
     "Notes/2023-03-16.md",
     "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
     "PROJECTS/Intune/Intune MOC.md",
-    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "Notes/2023-03-21.md",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "PROJECTS/Azure/Notes/Membership Profile Permission Mapping.md",
@@ -209,9 +249,6 @@
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-    "PROJECTS/MSP/MSP - MOC.md",
-    "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
-    "Untitled.md",
     "IMAGES/Pasted image 20230313105652.png",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",

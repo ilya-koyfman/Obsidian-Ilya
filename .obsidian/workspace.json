@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
+                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
+                "file": "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
+                "file": "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md"
+                "file": "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md"
               }
             }
           },
@@ -186,20 +186,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "04d284c5433e01bc",
+        "id": "789e79ea4460558b",
         "type": "window",
         "children": [
           {
-            "id": "cde9fa8e746ab499",
+            "id": "a0d8204708e5e563",
             "type": "tabs",
             "children": [
               {
-                "id": "0f878a07bf9b6e1d",
+                "id": "4c2c810e4241aab8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
                     "mode": "source",
                     "source": false
                   }
@@ -209,8 +209,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -301,
-        "y": -712,
+        "x": -319,
+        "y": -708,
         "width": 600,
         "height": 1080,
         "maximize": true,
@@ -218,18 +218,26 @@
       }
     ]
   },
-  "active": "7236d1e4bb1cd9ad",
+  "active": "4c2c810e4241aab8",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
+    "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "Untitled.md",
+    "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "Notes/2023-03-27.md",
+    "Home.md",
+    "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+    "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
+    "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
+    "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "Untitled.md",
-    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
-    "Home.md",
-    "Notes/2023-03-27.md",
     "Notes/2023-03-22.md",
     "Notes/2023-03-24.md",
     "PROJECTS/Azure/Azure Documentation Home.md",
-    "PROJECTS/MSP/MSP - Plan at the moment.md",
     "Notes/2023-03-16.md",
     "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
     "PROJECTS/Intune/Intune MOC.md",
@@ -238,17 +246,9 @@
     "PROJECTS/Azure/Notes/Membership Profile Permission Mapping.md",
     "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "Notes/2023-03-15.md",
-    "PROJECTS/Intune/Notes/Intune Infra Readiness.md",
-    "PROJECTS/Intune/Notes/Untitled.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",
-    "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
-    "Slipbox Notes/Exporting User Data from Workplace.md",
-    "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
-    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "IMAGES/Pasted image 20230313105652.png",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",

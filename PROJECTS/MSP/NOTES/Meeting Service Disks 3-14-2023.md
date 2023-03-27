@@ -27,6 +27,6 @@ project:
 	* 
 * 
 ## Action Items
-- [ ] Ilya to get ticket samples
-- [ ] Need list of Vendors for Escalation path
-- [ ] How do we accounts in INAP and other accounts?
+- [x] Ilya to get ticket samples ✅ 2023-03-27
+- [x] Need list of Vendors for Escalation path ✅ 2023-03-27
+- [x] How do we accounts in INAP and other accounts? ✅ 2023-03-27

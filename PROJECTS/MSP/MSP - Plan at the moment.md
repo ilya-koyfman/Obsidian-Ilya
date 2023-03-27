@@ -6,7 +6,7 @@
 	- Patching is currently done M-F 12PM-5PM, would this be acceptable to us?
 		- [x] What is ours desktop patch? ✅ 2023-03-14
 - [ ] STEVE - Who needs access to and what level
-- [ ] More Datto Questions
+- [x] More Datto Questions ✅ 2023-03-27
 	- UDF fields we use
 	- Department
 	- User Email

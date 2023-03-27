@@ -181,48 +181,12 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "f7ca076b97fa75fe",
-    "type": "floating",
-    "children": [
-      {
-        "id": "789e79ea4460558b",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0d8204708e5e563",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4c2c810e4241aab8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -319,
-        "y": -708,
-        "width": 600,
-        "height": 1080,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "7236d1e4bb1cd9ad",
   "lastOpenFiles": [
+    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
+    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
-    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
     "Untitled.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
@@ -234,7 +198,6 @@
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",
     "PROJECTS/MSP/NOTES/Datto Talk 3-1-2023.md",
-    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "Notes/2023-03-22.md",
     "Notes/2023-03-24.md",
     "PROJECTS/Azure/Azure Documentation Home.md",

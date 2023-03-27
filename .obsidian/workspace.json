@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md"
+                "file": "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "7236d1e4bb1cd9ad",
   "lastOpenFiles": [
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "Home.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",

@@ -29,5 +29,8 @@
   "minimal-style@@image-muted": 1,
   "minimal-style@@zoom-off": false,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
-  "blue-topaz-theme@@transparent-setting-panel": false
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@colorful-unordered-list": true,
+  "blue-topaz-theme@@colorful-ordered-list": true,
+  "blue-topaz-theme@@ordered-list-style-options": "ordered-list-style-1"
 }

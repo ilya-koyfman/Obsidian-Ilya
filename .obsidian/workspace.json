@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "PROJECTS/MSP/NOTES/Ciso Global Permissions.md"
               }
             }
           },
@@ -220,8 +220,9 @@
   },
   "active": "7236d1e4bb1cd9ad",
   "lastOpenFiles": [
-    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
+    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "PROJECTS/MSP/MSP - Plan at the moment.md",
+    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
     "Untitled.md",
     "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
@@ -229,7 +230,6 @@
     "Home.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "PROJECTS/MSP/NOTES/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/Meeting Service Disks 3-14-2023.md",

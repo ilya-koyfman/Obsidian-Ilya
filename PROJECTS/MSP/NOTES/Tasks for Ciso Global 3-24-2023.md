@@ -57,11 +57,13 @@ project:
 
 
 ### What Vendors CISO will work with?
-* ISP
+* [ ] ISP - L.O.A. (Letter of Authorization) by ASPCA/CISO #MSP #incidents
 	* COMCAST
 	* VERIZON
+	* Cogent
+	* Spectrum
 	* etc
-* INAP - Chicago Datacenter
+* INAP - Chicago Datacenter #incidents #network #servers #project
 * Microsoft
 * ManageEngine
 * Hardware Vendors

@@ -75,18 +75,18 @@ project:
 	* Fortinet - #WIP
 
 ### What Applications CISO will interact with? 
-* Manage Engine Products
-* Okta
-* Vcenter in Chicago
-* Office 365
-* Active Directory - TBD
+* Manage Engine Products #documentation #servers 
+* Okta #documentation #incidents 
+* Vcenter in Chicago #documentation #servers #network #project 
+* Office 365 - #project #incidents 
+* Active Directory - TBD #project 
 * Pulse - TBD
-* Proofpoint Console - TRAP?
-* Azure Portal for VM management
+* Proofpoint Console - TRAP? #incidents 
+* Azure Portal for VM management #incidents #servers 
 * 
 
 ## Notes
-* Where are we hosting the details? CISO - Sharepoint / ASPCA - Box
+* [ ] Where are we hosting the details? CISO - Sharepoint / ASPCA - Box #MSP 
 
 
 ## Action Items

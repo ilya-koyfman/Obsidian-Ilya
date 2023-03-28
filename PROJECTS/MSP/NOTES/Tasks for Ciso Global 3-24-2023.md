@@ -78,10 +78,15 @@ project:
 * Manage Engine Products
 * Okta
 * Vcenter in Chicago
+* Office 365
+* Active Directory - TBD
+* Pulse - TBD
+* Proofpoint Console - TRAP?
+* Azure Portal for VM management
 * 
 
 ## Notes
-* Where are we hosting the details? CISO - Sharepoint / 
+* Where are we hosting the details? CISO - Sharepoint / ASPCA - Box
 
 
 ## Action Items

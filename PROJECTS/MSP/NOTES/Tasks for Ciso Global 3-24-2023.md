@@ -64,11 +64,11 @@ project:
 	* Spectrum
 	* etc
 * INAP - Chicago Datacenter #incidents #network #servers #project
+	* [ ] Ilya to create an Account for CerberusAdmin
 * Microsoft
-* ManageEngine
-* Hardware Vendors
-	* IBM
-	* DELL
+	* DGAP
+* Hardware Vendors #incidents #network #project #servers 
+	* DELL/IBM?
 	* MERAKI
 	* CISCO
 	* CDW

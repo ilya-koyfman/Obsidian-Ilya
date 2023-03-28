@@ -57,12 +57,12 @@ project:
 
 
 ### What Vendors CISO will work with?
-* [ ] ISP - L.O.A. (Letter of Authorization) by ASPCA/CISO #MSP #incidents
+* [ ] ISP - L.O.A. (Letter of Authorization) by ASPCA/CISO #incidents
 	* COMCAST
 	* VERIZON
 	* Cogent
 	* Spectrum
-	* etc
+	* 
 * INAP - Chicago Datacenter #incidents #network #servers #project
 	* [ ] Ilya to create an Account for CerberusAdmin
 * Microsoft
@@ -72,7 +72,7 @@ project:
 	* MERAKI 
 	* CDW - CISCO, PULSE, Proofpoint, Cradle point, Microsoft Licensing
 		* Who gets access to James and Ashley? What email will it come from
-	* Fortinet - W.I.OP
+	* Fortinet - #WIP
 
 ## Notes
 * 

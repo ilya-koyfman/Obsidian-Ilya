@@ -67,12 +67,12 @@ project:
 	* [ ] Ilya to create an Account for CerberusAdmin
 * Microsoft
 	* DGAP
-* Hardware Vendors #incidents #network #project #servers 
+* Software/Hardware Vendors #incidents #network #project #servers 
 	* DELL/IBM?
-	* MERAKI
-	* CISCO
-	* CDW
-	* Fortinet
+	* MERAKI 
+	* CDW - CISCO, PULSE, Proofpoint, Cradle point, Microsoft Licensing
+		* Who gets access to James and Ashley? What email will it come from
+	* Fortinet - W.I.OP
 
 ## Notes
 * 

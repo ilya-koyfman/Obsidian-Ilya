@@ -74,8 +74,14 @@ project:
 		* Who gets access to James and Ashley? What email will it come from
 	* Fortinet - #WIP
 
-## Notes
+### What Applications CISO will interact with? 
+* Manage Engine Products
+* Okta
+* Vcenter in Chicago
 * 
+
+## Notes
+* Where are we hosting the details? CISO - Sharepoint / 
 
 
 ## Action Items

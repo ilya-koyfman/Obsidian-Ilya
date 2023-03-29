@@ -86,7 +86,8 @@ project:
 * 
 
 ## Notes
-* [ ] Where are we hosting the details? CISO - Sharepoint / ASPCA - Box #MSP 
 
 
 ## Action Items
+* [ ] Where are we hosting the details? CISO - Sharepoint / ASPCA - Box #MSP 
+- [ ] Times for Cancelation of Services/Vendors needs meeting #meeting 

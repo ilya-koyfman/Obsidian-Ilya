@@ -32,7 +32,7 @@ TYPE: Windows 10/11
 	* Minimum OS Mobile - Skipping
 	* Maximum OS Mobile - Skipping
 * Configuration Manager - Skipping
-* [ ] System Security - Carmine to read about this
+* [x] System Security - Carmine to read about this ✅ 2023-04-03
 	* Encryption - Skipping
 	* Firewall - Skipping (Sentintel One?)
 	* TPM - Skipping (We still have 1.2 TPM devices)

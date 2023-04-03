@@ -89,5 +89,5 @@ project:
 
 
 ## Action Items
-* [ ] Where are we hosting the details? CISO - Sharepoint / ASPCA - Box #MSP 
+* [x] Where are we hosting the details? CISO - Sharepoint / ASPCA - Box #MSP ✅ 2023-04-03
 - [ ] Times for Cancelation of Services/Vendors needs meeting #meeting 

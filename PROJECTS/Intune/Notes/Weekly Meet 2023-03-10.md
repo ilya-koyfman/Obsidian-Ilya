@@ -18,7 +18,7 @@ project:
 
 
 ## Action Items
-- [ ] Write down requirements for Intune Compliance Policy for pilot #intune Talk with Frank and Javier 
+- [x] Write down requirements for Intune Compliance Policy for pilot #intune Talk with Frank and Javier ✅ 2023-04-03
 
 TYPE: Windows 10/11
 * Custom Compliance - Skipping
@@ -84,6 +84,6 @@ Windows 10 Machine -
 
 
 - [x] MAKE A MEETING WITH MAX AND CARMINE - How do we want scope machine profiles in intune #intune ? ✅ 2023-03-22
-- [ ] Hybrid Join WORKING 📅 2023-03-24 ⏫ #intune 
+- [x] Hybrid Join WORKING #intune ⏫ 📅 2023-03-24 ✅ 2023-04-03
 	- [Enrollment for hybrid Azure AD-joined devices - Windows Autopilot | Microsoft Learn](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot-hybrid)
 [[PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023]]

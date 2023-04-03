@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7236d1e4bb1cd9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "783a2e4807c3f2b1",
             "type": "leaf",
             "pinned": true,
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md"
+                "file": "Home.md"
               }
             }
           },
@@ -182,8 +170,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7236d1e4bb1cd9ad",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
+    "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
     "Home.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
@@ -209,7 +198,6 @@
     "Notes/2023-03-21.md",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "PROJECTS/Azure/Notes/Membership Profile Permission Mapping.md",
-    "PROJECTS/Azure/Notes/Pricing Plan for Membership.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",

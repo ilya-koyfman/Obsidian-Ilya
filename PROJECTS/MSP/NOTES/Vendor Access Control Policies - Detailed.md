@@ -69,4 +69,4 @@ Depending on the use case and work case, the below order of preferred methods is
 # Action Items
 - [x] Have Javier and Vinny Review on Wednesday #MSP 📅 2023-03-08 ✅ 2023-03-09
 - [x] Create Example of CISO Global 📅 2023-03-08 [[PROJECTS/MSP/NOTES/Ciso Global Permissions]] #MSP ✅ 2023-03-15
-- [ ] Create specific storage for Vendor Permissions #MSP 
+- [x] Create specific storage for Vendor Permissions #MSP ✅ 2023-04-05

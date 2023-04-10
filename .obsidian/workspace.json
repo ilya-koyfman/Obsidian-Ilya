@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/2023-04-06.md"
               }
             }
           },
@@ -182,7 +183,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "1e90c29d27aa1b22",
   "lastOpenFiles": [
     "Home.md",
     "Notes/2023-04-06.md",

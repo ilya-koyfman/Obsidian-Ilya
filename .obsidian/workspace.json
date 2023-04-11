@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e787271f704eb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2023-04-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/2023-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/2023-04-11.md"
               }
             }
           },
@@ -182,8 +195,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "2e787271f704eb2a",
   "lastOpenFiles": [
+    "Notes/2023-04-11.md",
     "Home.md",
     "Notes/2023-04-06.md",
     "PROJECTS/OS Upgrade/Notes/OS Upgrade Discussion.md",
@@ -209,7 +223,6 @@
     "Notes/2023-03-16.md",
     "PROJECTS/Intune/Notes/Hybrid AD Join Steps.md",
     "PROJECTS/Intune/Intune MOC.md",
-    "Notes/2023-03-21.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",

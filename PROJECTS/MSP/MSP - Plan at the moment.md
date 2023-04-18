@@ -34,7 +34,12 @@
 - [ ] Talk to Ciso Global about keeping permissions updated in a shared location
 - [x] Email Steve Schidmt about weekly meetings 📅 2023-03-08 ✅ 2023-03-08
 - [ ] We need to get a commitment from CISO for the remaining pieces of work. 📅 2023-04-19 @javier #MSP 
-- [ ] Make Meetings for 
+- [ ] Make tracker for MSP Projects
+- SOC/NOC
+- SIM
+- ITSM
+- Email Retention
+- [ ] 
 
 
 [[PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023]]

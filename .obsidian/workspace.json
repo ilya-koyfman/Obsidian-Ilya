@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISO - ASPCA Introduction.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISO - ASPCA Introduction.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISO - ASPCA Introduction.md"
+                "file": "Home.md"
               }
             }
           },
@@ -207,7 +206,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2329ee4960fe2e97",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "CISO - ASPCA Introduction.md",
     "Home.md",

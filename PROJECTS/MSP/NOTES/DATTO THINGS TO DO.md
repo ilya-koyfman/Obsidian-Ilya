@@ -5,11 +5,18 @@ note_type: t_note
 project:
 ---
 
-## Summary
-1. 
 
-## Notes
+## Datto Components
+* T-850
+* T-850 Rollback
+* Drop Terminator Module
+* 8x8 Installer
+* 8x8 Installer - Force
+* Pulse OnStart-Gpupdate Files.cpt
+* Azure VPN
+* Disable Teams Uninstall
+* Hyper-V-Replication Check
+* TextExpander
 * 
-
 
 ## Action Items

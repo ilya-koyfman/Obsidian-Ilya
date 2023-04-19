@@ -36,11 +36,11 @@ tags include #azure
 sort by heading
 status.type is not DONE
 ```
-[[PROJECTS/MSP/NOTES/Network Talk - 3-1-2023]]
+[[PROJECTS/MSP/NOTES/Archive/Network Talk - 3-1-2023]]
 
 ### Tasks MSP
 > [!info]
-> [[PROJECTS/MSP/MSP - Plan at the moment]] Note where lots of tasks get added
+> [[PROJECTS/MSP/NOTES/MSP - Plan at the moment]] Note where lots of tasks get added
 ```tasks
 tags include #MSP 
 status.type is not DONE

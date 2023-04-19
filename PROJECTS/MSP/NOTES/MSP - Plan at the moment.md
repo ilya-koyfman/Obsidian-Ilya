@@ -39,7 +39,7 @@
 - SIM
 - ITSM
 - Email Retention
-- [ ] 
+
 
 
 [[PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023]]

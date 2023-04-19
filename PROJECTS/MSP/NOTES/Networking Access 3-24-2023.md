@@ -13,10 +13,10 @@ project:
 #### Network Devices
 * Firewalls
 	* Foritgates
-		* cereberusadmin - **Admin** Access
+		* cereberusadmin - **Admin** Access #MSP
 			- [ ] Grant admin access instead reader access
 		* cereberususer - Reader Access
-			- [ ] Create user with Reader Access
+			- [ ] Create user with Reader Access #MSP
 * Switches
 	* CISCO
 		* cereberusadmin

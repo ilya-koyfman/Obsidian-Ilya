@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/MSP - Plan at the moment.md"
+                "file": "Home.md"
               }
             }
           },
@@ -206,7 +205,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2329ee4960fe2e97",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "Home.md",
     "CISO - ASPCA Introduction.md",

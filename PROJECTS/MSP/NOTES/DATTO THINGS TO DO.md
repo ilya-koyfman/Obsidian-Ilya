@@ -19,4 +19,9 @@ project:
 * TextExpander
 * 
 
-## Action Items
+## Datto Filters & Groups
+### Filters
+* Sites filters
+	* 
+### Groups
+

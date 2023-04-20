@@ -30,4 +30,15 @@ The Great ASPCA Migration
 
 Good morning all,
 
-Today I am going to be migrating comp
+Today I am going to be migrating computers into the Cerberus Datto platform starting at 10 am with these 4 sites first
+* Bronx Hub/Bronx CVC
+* Glendale
+* WDC
+* OH - Marysville 
+
+As I see machines come into the new platform, I will give it till 1pm when I start running the next larger sites.
+* ASNA
+* BRC
+* LA
+
+The jobs I am setting on these sites run every hour, until the end of the month. All the machines need to do would go 

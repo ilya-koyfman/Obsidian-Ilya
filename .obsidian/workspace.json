@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Litmos Change Control.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Litmos Change Control.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Litmos Change Control.md"
+                "file": "Home.md"
               }
             }
           },
@@ -207,7 +206,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "371b7cec22283f70",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
     "Litmos Change Control.md",

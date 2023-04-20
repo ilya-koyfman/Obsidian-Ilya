@@ -22,7 +22,15 @@ project:
 ## Datto Filters & Groups
 ### Filters
 * Sites filters
-	* 
+	* Brooklyn - 173.251.40.10/30
+	* LA - 98. 153. 64. 18/ 29
+	* BRC - 47.44.233.122/29
+	* ASNA - 24.179.97.83
+	* Salesforce Workstations - Can we filter on Manufacturer Xen/Amazon EC2
+
+Xen
+
+Amazon EC2
 ### Groups
 
 

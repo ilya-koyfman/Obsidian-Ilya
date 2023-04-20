@@ -41,4 +41,8 @@ As I see machines come into the new platform, I will give it till 1pm when I sta
 * BRC
 * LA
 
-The jobs I am setting on these sites run every hour, until the end of the month. All the machines need to do would go 
+The jobs I am setting on these sites run every hour, until the end of the month. All the machines need to do would be online to grab the job.
+
+P.S. If you haven't tried signing into Cerberus Datto or missed the invite please send me an email.
+
+Thank you all for helping get to this point!

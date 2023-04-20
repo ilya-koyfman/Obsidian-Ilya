@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+                "file": "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+                "file": "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+                "file": "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md"
+                "file": "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md"
               }
             }
           },

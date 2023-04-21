@@ -51,13 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Litmos Change Control.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,15 +206,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "371b7cec22283f70",
   "lastOpenFiles": [
+    "CISO - ASPCA Introduction.md",
+    "Litmos Change Control.md",
+    "PROJECTS/Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP.md",
+    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
+    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
+    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
+    "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
+    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
+    "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
+    "Slipbox Notes/BackBurner.md",
+    "Slipbox Notes/Exporting User Data from Workplace.md",
+    "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Home.md",
-    "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
-    "Litmos Change Control.md",
-    "PROJECTS/MSP/MSP - MOC.md",
-    "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
-    "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "PROJECTS/MSP/NOTES/Archive/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/MSP - Plan at the moment.md",
@@ -224,16 +233,8 @@
     "Notes/2023-04-06.md",
     "Notes/2023-04-11.md",
     "Notes/2023-03-27.md",
-    "CISO - ASPCA Introduction.md",
     "PROJECTS/OS Upgrade/Notes/OS Upgrade Discussion.md",
     "PROJECTS/Intune/Notes/Weekly Meet 2023-03-10.md",
-    "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
-    "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-    "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
-    "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
-    "PROJECTS/MSP/NOTES/Zen Desk Automation 3-16-2023.md",
-    "Notes/2023-03-22.md",
-    "Notes/2023-03-24.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",

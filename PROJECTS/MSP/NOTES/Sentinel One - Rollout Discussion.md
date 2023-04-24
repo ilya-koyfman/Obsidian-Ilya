@@ -22,8 +22,10 @@ Workstations Timeline
 	* Users will need to be reboot
 * June 15th - Workstation Profile from CISO
 * July 1st - to do desktop testing
-	* IT 
+	* IT first
+	* Pilot Group
 * July 31 - Go live for desktops to only use S1 AV
+	* Disable Sophos and enable S1 - Users need to reboot
 
 
 ## Notes
@@ -32,3 +34,4 @@ Workstations Timeline
 
 
 ## Action Items
+ENCRYPTION for SOPHOS

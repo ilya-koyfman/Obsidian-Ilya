@@ -1,4 +1,4 @@
-# Home
+[[PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion]]# Home
 
 ## March Note line up
 

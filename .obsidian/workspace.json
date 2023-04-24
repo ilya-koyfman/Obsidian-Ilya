@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md"
+                "file": "Home.md"
               }
             }
           },
@@ -206,7 +205,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "df50eb3d48e73f17",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "PROJECTS/MSP/NOTES/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",

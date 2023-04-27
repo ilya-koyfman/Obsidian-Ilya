@@ -16,18 +16,20 @@ Storage
 - External 
 	* Read level access
 		* Specific Folder Upload based on user.
+	* Do users need to have the ability to download file?
 
 * General Storage
-
+	* DENY
 
 ### Outstanding Tasks
-* Do users need to have the ability to download file?
+* 
 
 
 ### Synapse
 * Debug Access
 * NO DELETE
-* Change Parameters
-* No pipeline creation
+* Change* Pipeline Parameters
+* No Pipeline creation
 
-* GITHUB MAIN BRANCH PROTECTIOn*
+### Github
+* GITHUB MAIN BRANCH PROTECTION

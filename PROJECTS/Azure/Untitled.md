@@ -25,3 +25,6 @@ Storage
 
 
 ### Synapse
+* Debug Access
+* NO DELETE
+* Change Parameters

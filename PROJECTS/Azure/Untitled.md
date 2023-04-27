@@ -14,6 +14,14 @@ Storage
 	- Select users should be able to move or delete.
 
 - External 
-	* User level access depending on folder
+	* Read level access
+		* Specific Folder Upload based on user.
 
 * General Storage
+
+
+### Outstanding Tasks
+* Do users need to have the ability to download file?
+
+
+### Synapse

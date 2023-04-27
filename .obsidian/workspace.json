@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a476ef0a2c82c8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/Azure/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "df50eb3d48e73f17",
             "type": "leaf",
             "state": {
@@ -57,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e25f8908f96931f1",
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Azure/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Azure/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/Azure/Untitled.md"
               }
             }
           },
@@ -223,9 +236,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "a476ef0a2c82c8a9",
   "lastOpenFiles": [
     "Home.md",
+    "PROJECTS/Azure/Untitled.md",
     "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
     "PROJECTS/MSP/NOTES/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
@@ -251,7 +265,6 @@
     "PROJECTS/MSP/NOTES/Untitled.md",
     "PROJECTS/MSP/NOTES/Archive",
     "Notes/2023-04-06.md",
-    "Notes/2023-03-27.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",

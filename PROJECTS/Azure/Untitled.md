@@ -28,3 +28,5 @@ Storage
 * Debug Access
 * NO DELETE
 * Change Parameters
+* No pipeline creation
+* 

@@ -35,3 +35,8 @@ Workstations Timeline
 
 ## Action Items
 ENCRYPTION for SOPHOS
+
+https://234338410914.signin.aws.amazon.com/console
+
+cerberusadmin
+eRD'5|4|

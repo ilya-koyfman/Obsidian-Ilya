@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md"
               }
             }
           },
@@ -223,10 +223,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "42bb73817e5e81ff",
   "lastOpenFiles": [
-    "PROJECTS/Azure/Azure Permissions.md",
     "Home.md",
+    "PROJECTS/Azure/Azure Permissions.md",
     "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
     "PROJECTS/MSP/NOTES/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",

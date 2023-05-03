@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "4c0101ea7db86894",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
             "id": "df50eb3d48e73f17",
             "type": "leaf",
             "state": {
@@ -67,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e25f8908f96931f1",
@@ -171,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md"
+                "file": "Home.md"
               }
             }
           },
@@ -242,7 +231,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4c0101ea7db86894",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "Home.md",
     "PROJECTS/Azure/Azure Permissions.md",

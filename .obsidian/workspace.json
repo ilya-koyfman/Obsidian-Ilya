@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "4c0101ea7db86894",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
             "id": "df50eb3d48e73f17",
             "type": "leaf",
             "state": {
@@ -57,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e25f8908f96931f1",
@@ -130,6 +141,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "d81d45641c538910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -223,7 +242,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "42bb73817e5e81ff",
+  "active": "4c0101ea7db86894",
   "lastOpenFiles": [
     "Home.md",
     "PROJECTS/Azure/Azure Permissions.md",

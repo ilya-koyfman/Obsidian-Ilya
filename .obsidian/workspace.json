@@ -74,8 +74,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39e2015ee868b71c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,7 +236,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "39e2015ee868b71c",
   "lastOpenFiles": [
     "Home.md",
     "PROJECTS/Azure/Azure Permissions.md",

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
+                "file": "PROJECTS/Azure/Azure Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e25f8908f96931f1",
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Azure/Azure Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Azure/Azure Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/Azure/Azure Permissions.md"
               }
             }
           },
@@ -240,27 +241,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "df50eb3d48e73f17",
   "lastOpenFiles": [
+    "PROJECTS/MSP/MSP - MOC.md",
+    "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
+    "Slipbox Notes/BackBurner.md",
+    "Slipbox Notes/Exporting User Data from Workplace.md",
+    "CISO - ASPCA Introduction.md",
+    "Litmos Change Control.md",
     "Home.md",
+    "Notes/2023-04-11.md",
     "PROJECTS/Azure/Azure Permissions.md",
     "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
     "PROJECTS/MSP/NOTES/MSP - Plan at the moment.md",
     "PROJECTS/MSP/NOTES/DATTO THINGS TO DO.md",
     "PROJECTS/MSP/NOTES/Ciso Global Permissions.md",
     "PROJECTS/MSP/NOTES/Access Control Policies Defintions Note.md",
-    "Notes/2023-04-11.md",
-    "PROJECTS/MSP/MSP - MOC.md",
-    "CISO - ASPCA Introduction.md",
-    "Litmos Change Control.md",
     "PROJECTS/Azure/Azure Documentation/Azure Docs - Setting up Storage Account with SFTP.md",
     "PROJECTS/MSP/NOTES/Service Desk Talk - 3-10-2023.md",
     "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
-    "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
-    "Slipbox Notes/BackBurner.md",
-    "Slipbox Notes/Exporting User Data from Workplace.md",
     "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "PROJECTS/MSP/NOTES/Archive/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",

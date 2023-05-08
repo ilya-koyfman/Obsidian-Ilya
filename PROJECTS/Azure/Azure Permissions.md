@@ -1,6 +1,6 @@
 Storage
 - Internal
-	- Best - Allow specific folders based on individual user
+	- Best - Allow specific folders based on individual user - POSI
 	- Reasonable - All users have access to internal
 	
 	* All users able to import and download files
@@ -33,3 +33,5 @@ Storage
 
 ### Github
 * GITHUB MAIN BRANCH PROTECTION
+
+

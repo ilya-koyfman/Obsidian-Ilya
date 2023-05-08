@@ -39,5 +39,10 @@ Storage
 # 5-8-2023
 * Azure Permissions Testing
 	* Storage Accounts
-		* Permissions can be put on **Storage Accounts[TopLevel]** and on **Containers[SecondLevel]**, but can't be put on any levels below that
+		* [Azure Data Lake Storage V2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) - ADLSv2 can be used if we want to set Access Control Lists on specific folders
+			* Not sure cost implication
+			* 
+		- 
+		* Normal Storage Accoutns Permissions can be put on **Storage Accounts[TopLevel]** and on **Containers[SecondLevel]**, but can't be put on any levels below that
+			* 
 		* Permissions

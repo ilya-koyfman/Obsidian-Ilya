@@ -41,8 +41,9 @@ Storage
 	* Storage Accounts
 		* [Azure Data Lake Storage V2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) - ADLSv2 can be used if we want to set Access Control Lists on specific folders
 			* Not sure cost implication
-			* 
-		- 
+			* We already use some of these types for SFTP storage account
+
 		* Normal Storage Accoutns Permissions can be put on **Storage Accounts[TopLevel]** and on **Containers[SecondLevel]**, but can't be put on any levels below that
-			* 
+			
 		* Permissions
+			* 

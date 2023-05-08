@@ -35,3 +35,8 @@ Storage
 * GITHUB MAIN BRANCH PROTECTION
 
 
+
+# 5-8-2023
+* Azure Permissions Testing
+	* Storage Accounts
+		* Permissions can be put on **Storage Accounts[TopLevel]** and on **Containers[SecondLevel]**, but 

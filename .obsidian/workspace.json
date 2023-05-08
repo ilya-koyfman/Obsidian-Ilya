@@ -59,33 +59,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e25f8908f96931f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42bb73817e5e81ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e2015ee868b71c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",

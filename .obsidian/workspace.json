@@ -56,8 +56,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9da8e830103f37b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "425dee1ad65d2a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -214,15 +235,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "425dee1ad65d2a48",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Home.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "Slipbox Notes/BackBurner.md",
     "Slipbox Notes/Exporting User Data from Workplace.md",
     "CISO - ASPCA Introduction.md",
     "Litmos Change Control.md",
-    "Home.md",
     "Notes/2023-04-11.md",
     "PROJECTS/Azure/Azure Permissions.md",
     "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
@@ -242,7 +264,6 @@
     "PROJECTS/MSP/NOTES/Archive/Datto Talk 3-1-2023.md",
     "PROJECTS/MSP/NOTES/Untitled.md",
     "PROJECTS/MSP/NOTES/Archive",
-    "Notes/2023-04-06.md",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",
     "IMAGES/Pasted image 20230321084259.png",

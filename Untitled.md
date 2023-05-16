@@ -22,4 +22,9 @@ The root of the IT folder should not contain any items. All the second level fol
 
 #### Document Process
 Organized documents are key for maintaining good data quality. Due to wanting to keep better data, a few rules will be imposed on document creation that will be used to accomplish this.
-* On Document Creation
+* On Document Creation, you will be asked to fill out these Attributes
+  ![[IMAGES/Pasted image 20230516101230.png]]
+  * The only required fields are Title and Document Type.
+	  * Document Type will be used to just help maintain what type of document it is.
+	  * Project Name can help keep multiple documents together by Project, and can be spread through out multiple folders
+	  * Tags are currently not used.

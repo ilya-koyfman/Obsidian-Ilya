@@ -19,4 +19,6 @@ The root of the IT folder should not contain any items. All the second level fol
 
 ###### Suggestions
 * Try to keep Lucid Spark Documents in Flows, try to keep any tech diagrams in Technical Diagrams.
-* 
+
+#### Document Process
+Organized documents are key for maintaining good data quality. Due to wanting to keep better data, a few rules will be imposed on document creation that will be used to mai

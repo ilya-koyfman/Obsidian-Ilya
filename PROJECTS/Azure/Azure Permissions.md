@@ -15,7 +15,7 @@ Storage
 
 - External 
 	* Read level access
-		* Specific Folder Upload based on user.
+		* Specific **Container** Upload based on user.
 	* Do users need to have the ability to download file?
 
 * General Storage

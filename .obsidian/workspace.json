@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Azure/Azure Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PROJECTS/Azure/Azure Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PROJECTS/Azure/Azure Permissions.md"
               }
             }
           },
@@ -244,12 +245,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "df50eb3d48e73f17",
   "lastOpenFiles": [
+    "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
+    "Home.md",
+    "Untitled.md",
     "IMAGES/Pasted image 20230516101230.png",
     "IMAGES/Pasted image 20230516085435.png",
-    "Untitled.md",
-    "Home.md",
     "PROJECTS/MSP/MSP - MOC.md",
     "PROJECTS/OS Upgrade/OS Upgrade MOC.md",
     "Slipbox Notes/BackBurner.md",
@@ -268,7 +270,6 @@
     "PROJECTS/MSP/NOTES/Tasks for Ciso Global 3-24-2023.md",
     "PROJECTS/MSP/NOTES/Vendor Access Control Policies - Detailed.md",
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
-    "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "PROJECTS/MSP/NOTES/Archive/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
     "PROJECTS/MSP/NOTES/Archive/Meeting Service Disks 3-14-2023.md",
@@ -291,7 +292,6 @@
     "PROJECTS/OS Upgrade/Notes",
     "PROJECTS/Intune",
     "Home Canvas.canvas",
-    "IMAGES/Pasted image 20230302173058.png",
-    "IMAGES/Pasted image 20230302153425.png"
+    "IMAGES/Pasted image 20230302173058.png"
   ]
 }

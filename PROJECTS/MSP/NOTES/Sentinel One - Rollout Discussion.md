@@ -17,10 +17,13 @@ Server  Timeline
 * June 28th be on Sentinel 1 Protection
 
 Workstations Timeline
-* May 8/15th - For IT Desktops
-* May 15/22nd - For regular users
+* May 19th - For IT Desktops
+	* Comms to IT
+* May 30th - For regular users
+	* Need Comms for End Users
 	* Users will need to be reboot
-* June 15th - Workstation Profile from CISO
+* **June 15th - Workstation Profile from CISO** 
+	* Need to set up time with Tom and Frankie*
 * July 1st - to do desktop testing
 	* IT first
 	* Pilot Group

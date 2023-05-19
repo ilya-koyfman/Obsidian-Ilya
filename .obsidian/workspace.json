@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Azure/Azure Permissions.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Azure/Azure Permissions.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Azure/Azure Permissions.md"
+                "file": "Home.md"
               }
             }
           },
@@ -245,7 +244,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "df50eb3d48e73f17",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
     "Home.md",

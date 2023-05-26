@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "b505ba94c299144e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          },
+          {
             "id": "ca180fedc2d5e589",
             "type": "leaf",
             "state": {
@@ -88,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +246,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8cf619db944c2c1e",
+  "active": "b505ba94c299144e",
   "lastOpenFiles": [
     "Untitled.md",
     "Home.md",

@@ -2,7 +2,7 @@ Microsoft has explained that current spark pool version is going EOL and we shou
 
 # Proposed steps for Spark Pool Remediation
 
-1. Document the spark pool at UAT2
+1. Document the spark pool at UAT
 2. Create a new Spark pool with the correct version on uat2 
 3. Verify Synapse workspace can access the new pool
 4. Samvel to find pipelines that can be used for testing in UAT2

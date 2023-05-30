@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "6d3bb6ab6e31ab4a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
             "id": "404f24179833456b",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +200,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "adb57a5d44ba64fd",
+  "active": "6d3bb6ab6e31ab4a",
   "lastOpenFiles": [
     "Spark Pool Version Update.md",
     "Home.md",

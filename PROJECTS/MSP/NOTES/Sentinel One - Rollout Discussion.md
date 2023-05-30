@@ -12,7 +12,6 @@ project:
 ## Summary
 **Server  Timeline**
 * April 15 - Sentinel to run on Servers for 1month to gather data
-* June 5th - Server Profile
 * **June 12th - Servers Go Live - Test/DEV
 * **June 28th - Servers Go Live - ALL**
 

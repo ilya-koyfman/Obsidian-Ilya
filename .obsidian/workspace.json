@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md"
+                "file": "Home.md"
               }
             }
           },
@@ -224,7 +223,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf116a2933fa02ce",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "Untitled.md",
     "Home.md",

@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2337f0ba35348659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DYMO Printer - Reset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d3bb6ab6e31ab4a",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b67e458784d2f3",
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "DYMO Printer - Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "DYMO Printer - Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "DYMO Printer - Reset.md"
               }
             }
           },
@@ -245,9 +258,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "91dbb8c9d991c0cb",
+  "active": "b48c23b487888207",
   "lastOpenFiles": [
     "Untitled 1.md",
+    "DYMO Printer - Reset.md",
     "Home.md",
     "Untitled.md",
     "Spark Pool Version Update.md",
@@ -274,7 +288,6 @@
     "PROJECTS/MSP/NOTES/Networking Access 3-24-2023.md",
     "PROJECTS/MSP/NOTES/Archive/Network Talk - 3-1-2023.md",
     "PROJECTS/MSP/NOTES/MSP meet 2023-3-9.md",
-    "PROJECTS/MSP/NOTES/Archive/Meeting Service Disks 3-14-2023.md",
     "PROJECTS/MSP/NOTES/Archive",
     "IMAGES/Pasted image 20230321113346.png",
     "IMAGES/Pasted image 20230321085523.png",

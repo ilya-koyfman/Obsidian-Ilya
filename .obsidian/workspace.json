@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UAT PROD Migration.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UAT PROD Migration.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UAT PROD Migration.md"
+                "file": "Home.md"
               }
             }
           },
@@ -270,7 +269,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "64391cf77c47f0ae",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "Home.md",
     "UAT PROD Migration.md",

@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYMO Printer - Reset.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYMO Printer - Reset.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYMO Printer - Reset.md"
+                "file": "Home.md"
               }
             }
           },
@@ -258,7 +257,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b48c23b487888207",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "Untitled 1.md",
     "DYMO Printer - Reset.md",

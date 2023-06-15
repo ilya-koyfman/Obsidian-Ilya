@@ -133,8 +133,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UAT1 to UAT2.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UAT1 to UAT2.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UAT1 to UAT2.md"
+                "file": "Home.md"
               }
             }
           },
@@ -282,7 +281,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a9f7e0be4306d33",
+  "active": "783a2e4807c3f2b1",
   "lastOpenFiles": [
     "Home.md",
     "UAT1 to UAT2.md",

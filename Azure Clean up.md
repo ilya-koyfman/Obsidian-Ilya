@@ -1,7 +1,6 @@
 * ![[IMAGES/Pasted image 20230616091611.png]]
 
 ##  Logic Apps
-**REMOVE**
 LogicApp-MerkleRun-Dev
 LogicApp-MerkleRun1-Dev
 LogicApp-PSICompleteRun-Dev
@@ -38,4 +37,6 @@ synapseevents
 testsynapseeventsdlac
 
 
-## Resource Groups
+## Azure Database for MySQL Servers
+mysql-rj-dev-01
+mysql-server-uat

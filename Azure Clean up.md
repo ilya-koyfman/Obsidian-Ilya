@@ -68,3 +68,5 @@ Event Log analyzer - NYCELAProbe MWOELAPROBE NYCELAADMIN
 * ...
 Recovery Manager - NYCRECMAN
 * [Privacy error (aspca.local)](https://nycrecman.aspca.local:8558/)
+* User: admin
+* Pass: Admin1

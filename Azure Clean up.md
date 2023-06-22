@@ -64,4 +64,7 @@ ADManager - ASPCANYCSEC2
 * Pass: Admin1
 * Log on to: ADManager Plus Auth
 Event Log analyzer - NYCELAProbe MWOELAPROBE NYCELAADMIN
+* [nycelaadmin:8400/event/j_security_check](http://nycelaadmin:8400/event/j_security_check)
+* ...
 Recovery Manager - NYCRECMAN
+* [Privacy error (aspca.local)](https://nycrecman.aspca.local:8558/)

@@ -56,7 +56,12 @@ mysql-server-uat
 
 ADAudit - ASPCANYCSEC2
 * https://aspcanycsec2.aspca.local:8444/#/home
-* User: 
+* User: admin
+* Pass: Admin1
 ADManager - ASPCANYCSEC2
+* https://aspcanycsec2.aspca.local:8443/
+* User: admin
+* Pass: Admin1
+* Log on to: ADManager
 Event Log analyzer - NYCELAProbe MWOELAPROBE NYCELAADMIN
 Recovery Manager - NYCRECMAN

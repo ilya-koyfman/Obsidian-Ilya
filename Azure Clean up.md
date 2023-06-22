@@ -52,3 +52,11 @@ mysql-server-uat
 	* Medium 8x8 4hours
 * Restore SQL Pool
 
+
+
+ADAudit - ASPCANYCSEC2
+* https://aspcanycsec2.aspca.local:8444/#/home
+* User: 
+ADManager - ASPCANYCSEC2
+Event Log analyzer - NYCELAProbe MWOELAPROBE NYCELAADMIN
+Recovery Manager - NYCRECMAN

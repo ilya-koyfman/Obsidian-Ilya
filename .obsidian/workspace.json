@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "eed817be9389d7b1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8c643f096e6956ef",
             "type": "leaf",
             "state": {
@@ -77,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Azure Clean up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Azure Clean up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Azure Clean up.md"
               }
             }
           },
@@ -225,18 +218,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783a2e4807c3f2b1",
+  "active": "8c643f096e6956ef",
   "lastOpenFiles": [
+    "PROJECTS/Azure/Azure Permissions.md",
+    "Azure Clean up.md",
+    "Home.md",
     "IMAGES/Pasted image 20230616091611.png",
     "IMAGES/Pasted image 20230616091609.png",
-    "Azure Clean up.md",
-    "PROJECTS/Azure/Azure Permissions.md",
     "PROJECTS/MSP/NOTES/Sentinel One - Rollout Discussion.md",
     "UAT PROD Migration.md",
     "Untitled 1.md",
     "Spark Pool Version Update.md",
     "DYMO Printer - Reset.md",
-    "Home.md",
     "UAT1 to UAT2.md",
     "Untitled.md",
     "PROJECTS/Azure/Azure Documentation/Azure Docs - Networking - Azure Firewall Setup for Traffic Forced.md",
@@ -263,7 +256,6 @@
     "IMAGES/Pasted image 20230313105652.png",
     "IMAGES/Pasted image 20230309142845.png",
     "IMAGES/Pasted image 20230309142326.png",
-    "IMAGES/Pasted image 20230308144852.png",
     "IMAGES/Document Retention and Destruction Policy 1-5-22 - FINAL.pdf",
     "ARCHIVE/Slipbox Notes",
     "Access, PROJECTS/MSP/NOTES",

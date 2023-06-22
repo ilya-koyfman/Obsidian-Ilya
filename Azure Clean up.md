@@ -40,3 +40,10 @@ testsynapseeventsdlac
 ## Azure Database for MySQL Servers
 mysql-rj-dev-01
 mysql-server-uat
+
+
+### Synapse Redo
+* Remove **syn-workspace-uat-02**
+* Remove **UAT-Synapse**
+* Create UAT-SYnapse Fres
+* 

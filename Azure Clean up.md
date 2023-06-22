@@ -51,4 +51,4 @@ mysql-server-uat
 * Create ParallelAutoResolveIntegrationRuntime
 	* Medium 8x8 4hours
 * Restore SQL Pool
-* 
+

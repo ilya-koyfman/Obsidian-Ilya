@@ -45,5 +45,10 @@ mysql-server-uat
 ### Synapse Redo
 * Remove **syn-workspace-uat-02**
 * Remove **UAT-Synapse**
-* Create UAT-SYnapse Fres
+* Create UAT-Synapse Fresh
+* Create syn-workspace-uat-02
+* Create SparkyDQPool
+* Create ParallelAutoResolveIntegrationRuntime
+	* Medium 8x8 4hours
+* Restore SQL Pool
 * 
